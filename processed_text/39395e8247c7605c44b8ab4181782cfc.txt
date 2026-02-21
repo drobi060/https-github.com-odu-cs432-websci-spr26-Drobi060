@@ -1,0 +1,5 @@
+New Student Hub
+Welcome to the Computer Science program!
+We are eager to assist you as you begin your progress toward a Bachelor of Science in Computer Science.
+You will learn how to apply your knowledge of mathematical sciences, natural sciences, programming fundamentals, and computational theory as you solve problems using software-engineering analysis, design, and development principles.
+We are here to aid you in becoming a successful student, scholar, and future Monarch alumnus.

@@ -1,0 +1,12 @@
+Linux Users will need to use Foxit Reader, or another PDF Suite.
+VLC Media Player
+Used to view almost any type of Video Media Format. Cross Platform (Windows, OS X, Linux)
+Microsoft Office 2019
+As a student at ODU, you can download and use the latest version of Microsoft Office for free. Visit odu.edu/office365 for more information.
+Linux Users may use an alternative Productivity Suite. (OpenOffice, LibreOffice, etc).
+Web Cam (with microphone)
+Retail stores, or online locations such as amazon.com or newegg.com
+Only necessary if the laptop does not have a built in Web Cam (with microphone).
+These are the recommended laptop specifications for Computer Science courses. The specifications are guidelines for courses that include programming, research, and word processing in the CS curriculum.
+If you are purchasing a new computer, check out our Mobile Monarch student notebook program. We've selected several models that meet these technology specifications.
+How Does Your System Stack Up?

@@ -1,0 +1,100 @@
+Registration FAQs
+Campus Restriction Errors
+If you receive the error message "Campus restriction," it means that the campus/location of the CRN you selected does not match your current campus assignment. You need to select a different CRN.
+To find the correct CRN:
+On the Banner Registration landing page, click on Prepare for Registration and find your campus assignment, which is listed under your Primary Curriculum.
+Go back to the Banner Registration landing page, and select Register Add/Drop/Withdraw and search for classes.
+In the Class Search results, check the Location listed for the section in the Meeting Times column (in some browsers hovering over the column will display all the information, or you can expand this column to display more information):
+WEB2/WC2: online sections for students whose campus assignment is Norfolk main campus.
+WEB5/WC5: online sections for students whose campus assignment is Online in Virginia.
+WEB7/WC7: online sections for students whose campus assignment is Online outside Virginia or Online outside the United States.
+You may not register for online sections that give a "campus restriction" error message -- you must choose the correct section for your campus assignment.
+Crosslisting/Waitlisting of WEB2/5/7 sections:
+WEB2/5/7 online sections are crosslisted (grouped), and within a group, are the same course with the individual sections restricted based on students' campus assignment.
+Each individual section has a maximum capacity and the crosslist group has a maximum capacity. If the crosslist group capacity is reached, no further registration in any section in the group is allowed, even though individual sections may appear to have seats available.
+If the section offers a waitlist, add yourself to the waitlist (see below for Waitlisting instructions).
+You will be unable to waitlist a section for which you are not eligible to register.
+Instructors and advisors cannot override the campus restriction.
+When should I request a campus change vs. selecting a different CRN?
+Campus change requests must be made prior to the start of classes. Campus changes cannot be made for past semesters.
+If your campus assignment is incorrect please use the Campus Change Request Form to request a campus change.
+For more information, see Online Courses and Campus Type .
+If you have any questions about the campus change process, please email campuschange@odu.edu .
+Banner Registration Frequently Asked Questions and Waitlisting
+If you have any questions about the Banner Registration functionality, please view one of the PDF documents below. A short video is also available to guide you through the registration process.
+Banner Registration FAQ
+Waitlisting -- How does it work?
+The decisions of a) whether to use a waitlist and b) the number of students that will be allowed on the waitlist are determined by the faculty member teaching the courrse.
+If you place yourself on a waitlist, you should check the ODU email at least daily -- if you receive a notification of an available seat, you have 24 hours from the time of the email, to register, or lose your spot on the waitlist.
+You can see your position on the waitlist by clicking on the Schedule Details tab and look for Waitlist Position.
+Linked courses: You should not waitlist BOTH lecture/lab or lecture/recitation, because it is unlikely that seats will become available in both waitlisted sections at the same time.
+How do I log into Leo Online?
+There are two ways to log in to Leo Online:
+Go directly to Leo Online:
+Go to LeoOnline.odu.edu and click "Enter News and Secure Area"
+Click on the key icon at the bottom of the page
+Enter your MIDAS ID and password.
+NOTE: If you do not remember your MIDAS ID or password, you can retrieve your MIDAS ID and/or reset the password at the MIDAS website . You may also retrieve your University ID Number (UIN) at the same location.
+Once you are logged in to the secure area, follow the prompts.
+NOTE: For assistance with Leo login, contact the Registrar's Office at register@odu.edu or 757-683-4425.
+For assistance with your MIDAS ID and password, visit midas.odu.edu or contact ITSHELP@odu.edu , 757-683-3192.
+Enter Leo Online through the University Portal:
+Go to www.odu.edu and click on the link to myODU (requires MIDAS ID)
+If you don't already have a MIDAS ID, click on the "Sign Up" link. Otherwise click "Login."
+Once your MIDAS ID has been activated, use the MIDAS ID and password to log in to the University Portal.
+Inside the Portal, click on Leo Online link on the sidebar to access Leo.
+For more information on MIDAS and to reset your MIDAS password, use the links provided at midas.odu.edu .
+NOTE: For assistance with MIDAS login, contact the Office of Information Technology Services (ITS) at itshelp@odu.edu or 757-683-3192.
+I don't know my University ID Number (UIN). How can I find out what it is?
+The UIN is a unique 8-digit number used to identify student and employee records. This number is printed on all University ID cards printed by the University Card Center after May 2004.
+To obtain your UIN:
+For new admits: Your UIN is viewable on the electronic admission decision letter in the application portal. Log into the application portal, view the admission decision letter, and see the UIN on it.
+You can retrieve your UIN at the MIDAS website: http://midas.odu.edu . If you are unable to retrieve your UIN at the MIDAS website, please e-mail register@odu.edu with your full name and date of birth, or call 757-683-4425 (you will be asked to provide information to prove your identity).
+If you know your MIDAS ID and password, you can log into the Leo Online secure website. Click on Personal Information and then click on View University and MIDAS Identification Numbers. Your UIN will be displayed there.
+If you do not have internet access, you may visit the Office of the University Registrar (or your Site Director) with a photo ID, to request your UIN.
+The UIN is considered personally identifiable information and is protected in the same manner as the Social Security number.
+My (Leo Online) PIN has been disabled. How can I get it reset?
+Leo no longer uses the University ID number and PIN for authentication. If you need assistance logging into Leo Online, e-mail register@odu.edu or call 757-683-4425.
+My MIDAS information isn't working? How can I get it reset?
+The MIDAS web site provides a way to reset your password online. If you have difficulty resetting your password, please contact ITSHELP@ODU.EDU or call 757-683-3192 for assistance.
+MIDAS
+How can I see which classes are open?
+Banner Registration class schedule search will show you whether classes are open, closed, or have waitlisted seats available. All courses that are linked (e.g., lecture/lab/recitation) will be presented with the linked sections.
+In the Browse for Classes section of Banner Registration, you can choose to display Open Sections Only when you enter your search criteria.
+I don't have a time ticket. How do I get one?
+You only need a time ticket during pre-registration periods.
+Time tickets are assigned to currently registered, degree-seeking students approximately one month before pre-registration begins. If you do not have a time ticket, you cannot register until open registration, which begins the Saturday after pre-registration begins. You do not need a time ticket to register during open registration.
+If you have not been assigned a time ticket, please review the time ticketing policy before requesting one. If you are not eligible for a time ticket, one will NOT be issued to you.
+Time Ticketing
+How can I see my credit hours completed?
+Check your unofficial transcript in Leo Online or view your Degree Works degree evaluation. Look for "earned hours."
+Some of my transfer credits are missing. Who should I contact?
+E-mail the Admissions Office ( transfereval@odu.edu ). The Registrar's Office does not evaluate transcripts for transfer credit.
+How can I see my holds?
+There are several ways to view your holds:
+In Leo Online, use the Student Records link in the secure area to see your holds (View Holds). Other pages in Leo also have a View Holds link (displays current and future holds).
+Log into the University Portal ( http://my.odu.edu ) and click on My Status Alerts to review your holds and contact information for resolving the holds. (NOTE: Future holds do not display here.)
+In Banner Registration, click on Prepare for Registration to view your holds. (NOTE: Future holds do not display here.)
+For information about resolving your holds, go to our Holds web page.
+How do I get the holds removed?
+A list of holds that prevent registration is provided on this web site: see Holds for information on removing holds. If you view your holds from My Status Alerts in the University Portal, you will see a description of the holds and contact information for resolving them.
+I already met with my advisor, but the advisor block is still there.
+First, be sure your advisor block does not have a future effective date.
+If it still has a current date, contact your advisor again by phone or e-mail and request that the hold be moved.
+When I try to register, I get the message "Not Enrolled Since Re-admit Term." What does this mean?
+If you have not attended classes at ODU in the last 12 months, you must request reactivation of your account. You can do this online at the Admissions web site ( admissions.odu.edu ). You must also complete a new Application for In-state Tuition if you want to qualify for in-state tuition rates.
+If you were admitted for a prior term but did not attend in the term you were admitted, contact the Office of Admissions at admissions@odu.edu to have your admit term moved.
+The course requires instructor's signature. How do I register for it?
+You can do one of the following:
+Contact the instructor and ask that he or she pre-approve you via Leo Online. This method allows you to register online (until the drop/add deadline) after the instructor gives permission electronically, OR.
+Have the instructor sign a completed registration drop/add/withdraw form, and fax or bring the form to the Registrar's Office, or scan/photograph and email the form to the Registrar's Office at mailto:register@odu.edu for processing.
+Distance Learning students: Contact your student success coach about enrolling in the class. The instructor must still give approval to register.
+I tried to drop a class but my only option is "withdraw." What's the difference?
+Dropping a course by the published DROP deadline removes it from your academic transcript and you are not charged for the course.
+After the DROP deadline and through the withdraw deadline for each session (or its equivalent for non-semester courses), signatures are not required to withdraw from classes. A grade of "W" will be assigned for withdrawals after the drop deadline through the withdraw period.
+You can use Leo Online to withdraw until the published withdraw deadline (unless you have a financial hold). Students with financial holds cannot drop or withdraw online and must submit a completed registration form to the Registrar's Office in person, or by fax or email, or email mailto:register@odu.edu with your University ID Number (UIN) and course information, to be dropped or withdrawn. All requests must be received by the published deadlines.
+Students who withdraw will be responsible for some or all of the tuition charges, according to the tuition refund deadlines published in the Academic Calendar and the web site of the Office of Finance .
+Academic Calendar
+The document "When to Withdraw and What to Consider" may help you decide whether withdrawing from one or more classes is in your best interest.
+Students considering withdrawing from courses should first consult the Financial Aid Office to avoid any negative impact on your financial aid. If you do withdraw, as a courtesy, let the instructor know you are withdrawing.
+Students in University Housing: You MUST contact the Housing Office if withdrawing from classes puts you below 12 credit hours.

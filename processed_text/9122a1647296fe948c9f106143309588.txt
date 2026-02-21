@@ -1,0 +1,54 @@
+Minor in Mathematics
+Can I take courses online or in the evenings?
+You can take courses online and in the evenings at ODU. Our schedules are flexible and made in a way that suits the lifestyle of most of our students.
+Which courses can satisfy the technical electives?
+Technical electives are the third and fourth science requirements. The courses must list mathematics course(s) as a prerequisite. The courses do not need to be sequential, nor from the same science discipline. Nature of Science courses must be sequential, and must be selected from a pre-approved course list.
+What are the prerequisites for [This Course]?
+Where do I start in programming?
+Refer to the Bachelor of Computer Science Four-Year Plan .
+Where do I start in mathematics?
+To learn more about math placement for incoming students, click here .
+To learn more about ALEKS-PPL, a computer-adaptive assessment system that helps determine the best level of math coursework for each student, click here .
+Questions regarding your math placement should be directed to your academic advisor. Questions regarding test registration can be directed to universitytesting@odu.edu .
+What If I already know what courses I need to take and I have a hold that needs to be removed?
+You can use our Online Advising tool . This is for Computer Science majors only. We ask for Name, Student Email, UIN, and desired/recommended courses.
+Do I have to take a writing intensive course?
+All students at Old Dominion University are required to take writing intensive courses regardless of major. CS students are required to take 6 credits of English Composition and 3 credits of a writing intensive upper-level computer science course. Review your Degree Works or speak with your advisor for more details.
+As a computer science major, do I need to take the Math Placement Test (ALEKS)?
+Taking the Math Placement Test is not required but a student should not 'settle' for their current placement. Calculus 1 (Math 211) and Calculus 2 (Math 212) are pre-requisites for Computer Science major course work. It is beneficial to assess what math knowledge you may still possess. In addition, placing in a higher math can save time, money, and allow for a quicker route to graduation.
+Registration
+How do I register for courses?
+Log into myODU Portal > LeoOnline > Admissions, Registration, Student Records, Graduation Information > Registration > Banner XE Registration > Register for Classes.
+Watch the Banner XE Registration video for more instructions.
+I wish to register for an online course. Which CRN should I choose?
+If your campus is:
+Correct ONLINE sections for your campus assignment:
+Norfolk Main Campus Student
+Hampton Roads HEC Student
+WEB2, WC2, IND2 (if these sections are full, add yourself to the waitlist if available; if no waitlist exists, email the instructor for an overload)
+You may also register for main campus and higher education center (Peninsula, Tri-Cities, Virginia Beach) classes.
+Online Campus Student in VA
+WEB5, WC5, IND5 (if these sections are full, add yourself to the waitlist if available; if no waitlist exists, email the instructor for an overload)
+You may also register for main campus and higher education center (Peninsula, Tri-Cities, Virginia Beach) classes.
+Online Campus Student Outside VA
+WEB7, WC7, IND7
+Online Campus Student Outside US
+WEB8, WC8, IND8
+What is the difference between WEB2, WEB5, WEB7, and WEB8?
+Web 2 = Address is inside Hampton Roads
+Web 5 = Address is outside Hampton Roads but in Virginia
+Web 7 = Address is outside Virginia
+Web 8 = Address is outside USA
+I am receiving a prerequisite error. What should I do?
+See the CS Prerequisite Structure to make sure you have passed the prerequisite course. Please speak with an advisor for help at csadvising@cs.odu.edu .
+What does "Test Score Error" mean?
+You will most likely see this error registering for a Math or English course. This means that your SAT/ACT/WSPT score is not high enough for the course for which you are trying to register. Please see what course you should register for below:
+Writing Success Placement Tool
+What does "Linked Course Error" mean?
+A linked course means that the course you are attempting to register for has more than one section. For example, CS 150 has a lecture, lab, and recitation while Math 103M has a lecture and a recitation.
+TIP: Before clicking submit, make sure all sections are in your summary.
+Transfer
+My CS courses did not transfer as equivalent to those at ODU. Why not?
+You may request that your transferred credits be evaluated for ODU equivalency if you feel that credits should have been applied to degree requirements. For CS courses, the point of contact is the Chief Departmental Advisor, Janet Brunelle .
+Make sure to prepare the following information:
+Transfer institution name

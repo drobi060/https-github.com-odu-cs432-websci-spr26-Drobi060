@@ -1,0 +1,24 @@
+Using AI to Protect: A Computer Science Student’s Second Chance
+Using AI to Protect: A Computer Science Student’s Second Chance
+June 6, 2025
+By Jonathan Heeter
+Joshua Castillo ’25 didn’t always see college as a reasonable goal.
+He became a father at 16 years old, and the weight of taking care of his young family led him to drop out of high school. He worked in sales, in sanitation and took construction jobs to make sure he could provide.
+“I had specific responsibilities and purpose,” said Castillo, now 29. “I had to keep the lights on.”
+But Castillo didn’t find purpose in those jobs.
+After working in physically demanding jobs, he began to notice a stark contrast in opportunity between himself and the college graduates around him. With the steady support of his wife and mother, and during weekends spent hiking Virginia’s Shenandoah trails with a group of mentors, Castillo found himself envisioning a new path forward. It was during that season of clarity that he decided to get his GED, enroll in community college and begin his journey toward a degree in computer science.
+Through reflection, support from his mentors and his faith, Castillo said he felt a pull toward using education and a computer science degree to help victims of human trafficking.
+“I felt a deep calling to use technology to help find missing children,” he said.
+Castillo enrolled in Old Dominion University’s online computer science program with a clear goal: to build a better future for his family and community.
+He found ODUGlobal to be more than a way to earn a degree. It became a space where his determination to overcome adversity found renewed direction and purpose. Castillo received vital support early on from a STEM-based scholarship through the Department of Defense to help with financial aid.
+“Those awards paid the bills so I could focus on GPA instead of overtime,” he said.
+Once in the program, Castillo began to thrive. His capstone team created BullyBlock, an AI-powered tool designed to detect cyberbullying within the University’s online learning system. The team met entirely online, yet delivered a full natural language processing pipeline, complete with live dashboards. Their work was featured in an ODU virtual showcase, and the project poster now hangs in the computer science department on campus.
+Outside of class, Castillo took the initiative to deepen his skills, reaching out to faculty for guidance as he explored new tools and programming languages independently.
+“(Castillo) was starting a personal project to learn Python and asked for a few pointers,” computer science Professor Thomas J. Kennedy said. “It has not been Joshua's diligence that has most impressed me, but his continued desire to learn.”
+But Castillo’s impact extended far beyond technical coursework. He served on the Scholar Leadership Council and Scholar Advisory Committee with Generation Hope, an organization that supports student-parents. These roles allowed him to contribute to policies that directly affect families like his own.
+“Engaging with policymakers and witnessing firsthand how advocacy could drive structural change was an empowering experience,” he said. “It shaped my commitment to community leadership.”
+His mission is ambitious and personal: to use AI and open-source intelligence to help locate and rescue missing women and children across the globe. ODU’s advanced courses in natural language processing, data mining and applied research laid the groundwork for detection algorithms he is now developing.
+“The university also taught me advocacy,” Castillo said, “through Generation Hope and the University Accountability Board, so I’m prepared to push for ethical, policy-driven solutions alongside technical ones.”
+Castillo credits ODU with helping him see the value in his nontraditional background. He’s now pursuing his computer science master’s degree through ODUGlobal.
+“ODUGlobal profoundly transformed my life by enhancing my leadership skills, boosting my confidence and preparing me academically for a rewarding cybersecurity career,” he said.
+“I carry with me the lessons of accountability, compassion and service, which I will uphold as I strive to protect not just my family, but every community I am privileged to serve.”

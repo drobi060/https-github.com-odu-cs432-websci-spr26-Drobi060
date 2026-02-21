@@ -1,0 +1,26 @@
+Laboratory work required. Design issues arising in software systems and C++ programming techniques aiding in their…
+CS 250
+PROB SOL & PROGR II LAB
+Laboratory work required. Design issues arising in software systems and C++ programming techniques aiding in their solution. Topics include the software life cycle, methods of functional decomposition, design documentation, abstract data types and classes, common data structures, dynamic data structures, algorithmic patterns, and testing and debugging techniques. Term project required. Prerequisites: CS 150 or ENGN 150 with a grade of C or better. Pre- or corequisite: CS 252 and MATH 211.
+CS 330
+Laboratory work required. The techniques and idioms of object-oriented programming in C++ and Java. Methods of…
+CS 330
+Object-Oriented Programming and Design
+Laboratory work required. The techniques and idioms of object-oriented programming in C++ and Java. Methods of object-oriented analysis and design with the Unified Modeling Language. Multi-thread programs, synchronization, and graphic user interfaces. Prerequisites: CS 252 and a grade of C or better in CS 250. Pre- or corequisite: MATH 211.
+CS 361
+Laboratory work required. Common abstract data types, including vectors, lists, stacks, queues, sets, maps, heaps, and…
+CS 361
+Data Structures and Algorithms
+Laboratory work required. Common abstract data types, including vectors, lists, stacks, queues, sets, maps, heaps, and graphs. Standard Java interfaces for these ADTs. Iterators and generics. Choosing data structures and algorithms to implement ADTs, via analysis of their time and space complexity. Prerequisites: CS 252, MATH 211, and a grade of C or better in CS 251 or CS 261.
+Requirements
+What are the requirements to apply for Computer Science at ODU?
+Students entering the Minor program in Computer Science should meet the minimum university admission requirements Undergraduate Admission .
+For completion of a minor, a student must have a minimum overall cumulative grade point average of 2.00 in all courses specified as a requirement for the minor exclusive of prerequisite courses and complete a minimum of six hours in upper-level courses in the minor requirement through courses offered by Old Dominion University.
+The curriculum for the Bachelor of Science in Engineering Technology with a concentration in computer engineering technology and the Bachelor of Science in Computer Engineering contain a built-in minor in computer science.
+More Program and Degree Requirements
+Transfer
+At ODU, we understand that as a transfer student you have unique needs that require a wide array of campus resources. The Center for Advising Administration and Academic Partnerships aims to create a transfer inclusive culture that supports the successful...
+Transfer Info
+Cost
+Estimated rates for the 2025-26 academic year. Rates are subject to change. Other fees are assessed for special services and certain academic programs. Anyone that is not a current Virginia resident will be charged non-resident rates. That includes international students.
+Active Duty Military Rate

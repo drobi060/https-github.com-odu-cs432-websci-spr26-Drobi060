@@ -1,0 +1,47 @@
+Data Science (DASC)
+DASC 157 Introduction to Data Science Programming (4 Credit Hours)
+An introduction to computational problem-solving in the context of data science. This course introduces students to the programming language Python and how to use it as a tool for problem-solving. The course utilizes illustrative examples to help students grasp the fundamental concepts and reinforces their understanding through a variety of practical exercises. No prior programming experience is required to take this course.
+Prerequisites: MATH 102M or permission of the instructor
+DASC 205S Data, Technology, Society (3 Credit Hours)
+This course investigates how data science is transforming not only our sense of science and scientific knowledge, but our sense of ourselves and our communities and our commitments concerning human affairs and institutions generally. Social implications of the digital revolution, including ethical issues associated with algorithmic design and privacy will be examined. Students will use a sociological lens to explore how our increasingly digital lifestyle changes institutions and social relations.
+DASC 255 Data Processing with Python (4 Credit Hours)
+Python provides several libraries which facilitate data manipulation, processing, analysis, and visualization. This course will introduce standard Python packages used for Data Science, including pandas, numpy, seaborn, matplotlib, and scikit-learn. By the end of the course, students will be equipped to create and modify existing Python code to explore a range of data sets.
+Prerequisites: CS 153
+DASC 257 Data Science Programming (4 Credit Hours)
+This course focuses on problem solving and programming in Python. Emphasis is placed on common algorithms and programming principles utilizing the standard library distributed with Python. Upon completion, students should be able to design, code, test, and debug Python language programs.
+Prerequisites: DASC 157
+DASC 300 Foundations of Data Science (3 Credit Hours)
+This course provides an interdisciplinary overview of data sciences drawing on key elementary topics related to data analytics.  A specific focus is given to the way that decisions made about data from those disciplinary pursuits inform policy, product development, and humanity. Topics addressed include elements of data, data collection, the connections between machine learning and data, survey research, programming with Python and R, statistical learning, model evaluations, digital engineering, and ethical uses of data.
+Prerequisites: junior standing
+DASC 312 The Art of Data Visualization (3 Credit Hours)
+This course explores artistic foundations for visualization including art theory and aesthetics, color theory, composition and layout. We will also discuss the psychology of visual perception, and semiotics and the underlying nature of symbolic representation. Students will gain experience applying these principles by sketching and using technological tools, and will also critically evaluate visualizations based on the theories discussed.
+Prerequisites: DASC 300
+DASC 324 Introduction to Data Visualization (3 Credit Hours)
+This course focuses on the design and creation of effective visualizations for communicating data. The Python programming language will be used to create static and interactive visualizations for a variety of data types including tabular, text, and geographic data. Students will develop a portfolio and also will gain experience in analyzing, interpreting, and revising visualizations created by others.
+Prerequisites: DASC 300 or permission of the instructor
+Pre- or corequisite: CS 153
+DASC 357E Ethics and Data (3 Credit Hours)
+This course explores, from a philosophical perspective, ethical questions arising from collecting, drawing inferences from, and acting on data, especially when these activities are automated and on a large scale. This course will provide students a framework for considering the ethical implications of data usage. Emphasis will be placed on discussing how historic and contemporary examples of potentially unethical practice could be altered to reduce harm and increase equity. Topics to be covered may include, but are not limited to, systematic approaches to assessing ethical issues; privacy and confidentiality; defining research and the responsibilities associated with conducting ethical research; implicit and structural biases in data collection and analysis; freedom of speech; and consent to data collection.
+Prerequisites: ENGL 110C
+DASC 368 Data Science Internship (1-6 Credit Hours)
+This course allows students to work for an employer in a position related to data science. Students must work for 50 hours per course credit and complete course assignments.
+Prerequisites: approval by the program coordinator
+DASC 424 Data Storytelling (3 Credit Hours)
+Data storytelling combines data, narrative, and visualizations to communicate insights and influence decision-making. This course will present the conceptual basis for storytelling and techniques for narrative development, as well as leverage technical skills to analyze and visualize data. By the end of the course, students will have experience in developing cohesive data-driven stories using a variety of platforms and tools.
+Prerequisites: DASC 324 or instructor permission
+DASC 434 Data Curation and Management (3 Credit Hours)
+Large data sets are rarely ready for analysis after collection. Data must be organized, processed, integrated, and evaluated for accuracy and relevance, and subsequently maintained and enhanced over time. In this course, students will learn how to make data accessible and ensure its validity for analytic projects during course of the data lifecycle.
+Prerequisites: DASC 300 or permission of the instructor
+DASC 436W Data Science Capstone Project (3 Credit Hours)
+Students work individually or in groups to plan, design, and carry out a research project demonstrating expertise with data science. Final papers that report the results for the study are presented in a formal research seminar. The projects reflect knowledge gained from undergraduate work and training received in discipline-specific research methods and statistics courses.  This is a writing intensive course.
+Prerequisites: ENGL 211C /ENGL 221C/ ENGL 231C with a grade of C or better and senior standing
+DASC 494 Entrepreneurship in Data Science (3 Credit Hours)
+This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. It offers students an opportunity to integrate disciplinary theory and knowledge through developing a nonprofit program, product, business, or other initiative. The real-world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems. The course can be delivered either as an independent project for individual students or as group projects similar to those sometimes offered in topics courses.
+Prerequisites: junior standing
+DASC 496/596 Topics in Data Science (3 Credit Hours)
+The advanced study of selected topics designed to permit small groups of qualified students to work on subjects of mutual interest which, due to their specialized nature, may not be offered regularly. These courses will appear in the course schedule, and will be more fully described in information distributed to academic advisors.
+Prerequisites: junior standing
+DASC 497/597 Independent Study (1-3 Credit Hours)
+Independent reading and study on a topic to be selected under the direction of an instructor. Conferences and papers as appropriate.
+Prerequisites: senior standing and approval of the program coordinator
+Search catalog

@@ -1,0 +1,148 @@
+Accounting Minor
+Linked BSBA/MS in Accounting
+Undergraduate students pursuing a BSBA in accounting at Old Dominion University may complete up to nine hours toward a Master of Science, Accounting (MS) degree by choosing from ACCT 623 , ACCT 626 , ACCT 627 , ACCT 630 , and ACCT 662 while enrolled as an undergraduate BSBA student. Students in the linked BSBA/MS program must earn a minimum of 150 credit hours (120 discrete credit hours for the undergraduate degree and 30 discrete credit hours for the graduate degree).
+A student may apply to the linked BSBA/MS program after completing ACCT 305 and 12 hours from ACCT 306 , ACCT 307 , ACCT 311 , ACCT 425 , or ACCT 426 with a C or better. Students must have an overall grade point average of 3.00 in all course work taken at Old Dominion University to be admitted to the linked program. Students must apply for admission to the MS program after completion of the undergraduate degree. Students should note that being in the undergraduate accounting major does not guarantee acceptance to the MS program.
+Once admitted to the linked program, a student will take 600-level core graduate accounting courses, and these courses will be applied to the MS course requirements as long as the student already has 120 discrete credit hours for the undergraduate degree. By completing these nine hours, students will only have 21 hours to complete in the MS program during an additional year of study after graduating from the undergraduate program as long as the student earns 120 discrete credit hours for the undergraduate degree and 30 discrete credit hours for the graduate degree for a total of 150 credit hours.
+Courses
+Accounting (ACCT)
+ACCT 201 Principles of Financial Accounting (3 Credit Hours)
+Elementary financial accounting concepts and procedures used in the preparation of financial statements; elementary financial statement analysis; and use of financial accounting information for special-purpose decision making.
+Prerequisites: Qualifying score on the math placement test, or completion of MATH 101M or higher
+ACCT 202 Principles of Managerial Accounting (3 Credit Hours)
+Elementary managerial accounting concepts and procedures; operational accounting; and use of accounting data for special-purpose internal decision making.
+Prerequisites: ACCT 201 or ACCT 226
+ACCT 226 Honors: Principles of Financial Accounting (3 Credit Hours)
+Open only to students in the Honors College. Special honors section of ACCT 201 .  Elementary financial accounting concepts and procedures used in the preparation of financial statements; elementary financial statement analysis; and use of financial accounting information for special-purpose decision making.
+ACCT 227 Honors: Principles of Managerial Accounting (3 Credit Hours)
+Open only to students in the Honors College.  Special honors section of ACCT 202 .  Elementary managerial accounting concepts and procedures; operational accounting; and use of accounting data for special-purpose internal decision making.
+Prerequisites: Completion of ACCT 201 or ACCT 226
+ACCT 300 Accounting for Entrepreneurs (3 Credit Hours)
+This course is for non-accounting students who wish to start their own businesses. The course is designed to support entrepreneur activities such as: producing meaningful financial statements and management accounting reports to measure firm performance; choosing the appropriate business entity type; basic tax issues and planning in starting and running a small business; establishing an effective governance structure; and setting up an anti-fraud prevention program. Accounting majors or minors cannot use this course as an accounting elective, but can use the course as a 300-400 business elective. This course will not be used in the calculation of grade point average for an accounting major or accounting minor.
+Prerequisites: Completion of MATH 102M or higher, or STAT 130M , or qualified to enroll in Math 162M or higher
+ACCT 305 Essentials of Financial Accounting I (3 Credit Hours)
+This course is the gateway to the undergraduate accounting program at Old Dominion University. It is the first of three financial accounting courses designed to strengthen the technical, communication, and critical thinking skills required to succeed in accounting-related careers. This course covers the theoretical foundation, concepts, and principles that underlie financial statement preparation. It exposes students to accounting by providing an in-depth study of the accounting cycle, income statement and balance sheet. Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students who have not had ACCT 201 and ACCT 202 within two years of planning to enroll in ACCT 305 are strongly encouraged to retake these courses in preparation for ACCT 305 . Students must have a C or better in ACCT 305 to proceed to other upper-level accounting courses. Students seeking acceptance to the MSA program must achieve a B- or better in ACCT 305 .
+Prerequisites: ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227
+ACCT 306 Essentials of Financial Accounting II (3 Credit Hours)
+This is the second of the three-course financial accounting series and continues the study of financial statement preparation. Selected topics include: inventories; property, plant, and equipment; investments; and current and long-term liabilities. Students gain an in-depth understanding of how these topics are presented in the financial statements and use the FASB Accounting Standards Codification to support an accounting position. Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students must have a C- or better in ACCT 306 to proceed to other upper-level accounting courses. Students seeking acceptance to the MSA program must achieve a B- or better in ACCT 306 .
+Prerequisites: ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227 ; ACCT 305 with a C or better
+ACCT 307 Essentials of Financial Accounting III (3 Credit Hours)
+This is the third of the three-course financial accounting series and continues the study of financial statement preparation. Selected topics include leases, pensions, accounting for income taxes, stockholders’ equity, earnings per share, the Statement of Cash Flows, and other corporate reporting issues. Students gain an in-depth understanding of how these topics are presented in the financial statements and use the FASB Accounting Standards Codification to support an accounting position Students gain an understanding of how financial statements are prepared using Excel, including an introduction to data analysis using Excel and authoritative sources to support an accounting position. Students must have a C- or better grade in ACCT 307 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of B- or better in ACCT 307 .
+Prerequisites: ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227 ; ACCT 305 with a C or better and ACCT 306 with a C- or better
+ACCT 311 Managerial Accounting (3 Credit Hours)
+This course focuses on recording and allocating costs within traditional managerial accounting systems.  Common and joint cost allocations are performed under job order, process and standard costing systems.  Income models are developed for exploring cost-volume-profit relationships. Students must have a C- or better in ACCT 311 to graduate with a major in accounting.
+Prerequisites: ACCT 201 and ACCT 202 or ACCT 226 and ACCT 227 ; ACCT 305 with a C or better; and BNAL 206
+ACCT 367 Cooperative Education (1-6 Credit Hours)
+May be repeated for credit and available for pass/fail grading only. Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the Center for Career & Leadership Development prior to the semester in which the work experience is to take place.
+Prerequisites: ACCT 305 with a C or better and ACCT 306 with a C- or better and approval of the Center for Career & Leadership Development
+ACCT 368 Student Internship (1-3 Credit Hours)
+Student participation in a professional work experience. Approval for enrollment and allowable credits are determined by the department. Additional support may be provided by the Monarch Internship and Co-Op Office in the semester prior to enrollment.
+Prerequisites: ACCT 305 with a C or better and ACCT 306 with a C- or better and permission of the instructor
+ACCT 369 Practicum (1-3 Credit Hours)
+Student participation in a professional work experience. Approval for enrollment and allowable credits are determined by the department. Additional support may be provided by the Monarch Internship and Co-Op Office in the semester prior to enrollment.
+Prerequisites: ACCT 305 with a C or better and ACCT 306 with a C- or better; junior standing and permission of the Chair of the School of Accountancy
+ACCT 405/505 Accounting and Auditing in the Public/Nonprofit Sector (3 Credit Hours)
+The application of accounting principles to governmental funds and not-for-profit organizations.  Emphasis is placed on budgeting and control as well as auditing concerns for such entities. Students must have a C- or better in ACCT 405 to graduate with a major in accounting. Students in the Accounting Major Professional concentration or seeking acceptance to the MSA program must achieve a B- or better in ACCT 405 .
+Prerequisites: ACCT 305 with a C or better and ACCT 306 with a C- or better
+ACCT 411/511 Financial Auditing (3 Credit Hours)
+Current financial auditing processes are emphasized, and Generally Accepted Accounting Principles (GAAP) are used to evaluate the fairness of financial statements. Additionally, standards and ethics of the public accounting profession, generally accepted auditing standards, and public reporting are covered.  Students must have a C- or better grade in ACCT 411 to graduate with a major in accounting.
+Prerequisites: ACCT 305 with a C or better and ACCT 306 with a C- or better
+ACCT 425 Taxation of Individuals (3 Credit Hours)
+An analysis of federal income tax law and its application to personal and business tax situations. Reconciliation of tax and accounting concepts.  Students must have a C- or better in ACCT 425 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of  B- or better. Students are encouraged to take ACCT 306 in the same semester with ACCT 425 .
+Prerequisites: ACCT 305 with a C or better for accounting majors; or FIN 431 with a C or better
+ACCT 426 Taxation of Business Entities (3 Credit Hours)
+An analysis of federal income tax law and its application to business entities. Students must have a C- or better in ACCT 426 to graduate with a major in accounting. Students seeking admission to the MSA program must earn a grade of B- or better.
+Prerequisites: ACCT 425 with a C- or better
+ACCT 440/540 Introduction to Accounting (3 Credit Hours)
+This course provides a succinct working knowledge of the underlying concepts of financial and managerial accounting. With a strong emphasis on the interpretation of real-world financial statements, the course teaches students how to read, analyze, and interpret financial and managerial accounting data to make informed business decisions. This course is part of the Linked/Dual Dominion program and exclusively for non-business undergraduate students.  Instructor permission required.
+Prerequisites: Instructor permission
+ACCT 450/550 International and Advanced Accounting (3 Credit Hours)
+The study of accounting for international operations and business combinations. Students may enroll in ACCT 450 as the BSBA required International Business elective.  Students must have a C- or better in ACCT 450 to graduate with a major in accounting.
+Prerequisites: ACCT 305 with a C or better and ACCT 306 and ACCT 307 with a C- or better
+ACCT 460 Accounting Information Systems (3 Credit Hours)
+The theoretical and practical approaches to the understanding of accounting information systems. Emphasis is placed on the understanding of how accounting is related to other business processes and how internal controls are ensured. Students must have a C- or better in ACCT 460 to graduate with a major in accounting. Students are encouraged to take ACCT 460 before completing ACCT 411 .
+Prerequisites: IT 360T ; ACCT 305 with a C or better; ACCT 306 with a C- or better
+ACCT 495 Selected Topics in Accounting (1-3 Credit Hours)
+Study designed for students desiring additional work in an area of particular interest in accounting.  This course may not be substituted for any required accounting course. Students must have a C- or better in ACCT 495 to graduate.
+Prerequisites: ACCT 305 with a C or better and ACCT 306 with a C- or better and permission of the Chair of the School of Accountancy
+ACCT 505 Accounting and Auditing in the Public/Nonprofit Sector (3 Credit Hours)
+The application of accounting principles to governmental funds and not-for-profit organizations.  Emphasis is placed on budgeting and control as well as auditing concerns for such entities.
+Prerequisites: Enrollment in a Strome College of Business Master's program; ACCT 305 and ACCT 306 or the equivalent with a C or better, and 6 hours from ACCT 307 , ACCT 311 , ACCT 411 / ACCT 511 , ACCT 425 or ACCT 426 or the equivalent with a C or better; or ACCT 301 or the equivalent with a C or better, and 6 hours of ACCT 302, ACCT 311 , or ACCT 421 or the equivalent with a C or better, and an overall grade point average of 3.00 in all coursework taken at Old Dominion University
+ACCT 511 Financial Auditing (3 Credit Hours)
+Current financial auditing processes are emphasized, and Generally Accepted Accounting Principles (GAAP) are used to evaluate the fairness of financial statements. Additionally, standards and ethics of the public accounting profession, generally accepted auditing standards, and public reporting are covered.
+Prerequisites: Enrollment in a Strome College of Business Master's program, ACCT 305 and ACCT 306 or the equivalent with a C or better, and 6 hours of coursework from ACCT 311 , ACCT 425 or ACCT 426 or the equivalent with a C or better; or ACCT 301 or the equivalent with a C or better and 6 hours from ACCT 302, ACCT 311 , or ACCT 421 or the equivalent with a C or better; and an overall grade point average of 3.00 in all coursework taken at Old Dominion University
+ACCT 540 Introduction to Accounting (3 Credit Hours)
+This course provides a succinct working knowledge of the underlying concepts of financial and managerial accounting. With a strong emphasis on the interpretation of real-world financial statements, the course teaches students how to read, analyze, and interpret financial and managerial accounting data to make informed business decisions.
+Prerequisites: Admission to the MBA Program OR admission to the Fundamentals of Business graduate certificate OR approval by the MBA Program Office/instructor
+ACCT 550 International and Advanced Accounting (3 Credit Hours)
+The study of accounting for international operations and business combinations.
+Prerequisites: Enrollment in a Strome College of Business Master's program; ACCT 305 , ACCT 306 and ACCT 307 or the equivalent with a B- or better and 3 hours of coursework from ACCT 311 , ACCT 425 , or ACCT 426 or the equivalent with a B- or better; or ACCT 301 and 302 or the equivalent with a B- or better and 3 hours of coursework from ACCT 311 or ACCT 421 or the equivalent with a B- or better or equivalent; and an overall grade point average of 3.00 in all coursework taken at Old Dominion University
+ACCT 623 Accounting Analytics and Operational Reviews (3 Credit Hours)
+Accounting analytics appropriate for professional accountants, whether in public accounting, industry, or government/non-profit. Much of the course involves hands-on learning focusing on decision, descriptive, predictive, and prescriptive analytics using the latest analytics/data visualization software.
+ACCT 624 Information Technology Assurance Services (3 Credit Hours)
+Standards, ethics, and practice of information technology assurance services particularly as it concerns the governance and control of information systems.
+ACCT 625 Fraud Examination and Forensic Accounting (3 Credit Hours)
+Standards, ethics, and practice of fraud examination and forensic accounting particularly as it concerns the accounting profession.
+ACCT 626 Financial and Global Accounting (3 Credit Hours)
+This course covers current financial accounting standards and the problems faced by national and multinational corporations in reporting financial information to external users in a global economy. There will be a discussion of the various techniques for presenting and analyzing financial statements and the ethical issues related to those presentations.
+ACCT 627 Operational Cost Control (3 Credit Hours)
+Covers cost concepts and analysis in both a manufacturing and service operational environment.  Provides an introduction to activity based costing and standard cost systems, methodology for measuring productivity changes and cost of quality and measurement and control of operating performance.
+ACCT 630 Business Valuations using Financial Statement Analysis (3 Credit Hours)
+This course covers the analysis and interpretation of financial statements, including the significant accounting issues involved in performing an effective valuation of a company.
+ACCT 640 Professional Ethics and Legal Issues In Accounting (3 Credit Hours)
+An intensive course covering ethical and legal issues confronted by practicing accountants.  The course emphasizes rigorous analysis of complex situations leading to appropriate solutions.
+Prerequisites: Enrollment in a Strome College of Business master's program and a B- or better in ACCT 301 and ACCT 302 or the equivalent
+ACCT 645 Accounting for Decision Making (3 Credit Hours)
+This course provides students with an integrated financial and managerial accounting framework and captures how it can be used to promote value relevant decision making along with the use of data analytics tools. From a financial perspective, the content showcases a review of the financial reporting process and the development of financial statements for external users to provide students with a sufficient fluency to be intelligent readers of financial accounting information. From a managerial perspective, the course adopts a set of tools that utilize managerial accounting information that provides direction for students to solve business problems and promote internal decision-making, planning, and control. By the end of the course, students should be able to prepare and analyze financial statements and use accounting information for managerial decision making.
+Pre- or corequisite: ACCT 540 or ACCT 609
+ACCT 650 Tax Strategies for Business Decisions (3 Credit Hours)
+An intensive course in taxation. Focuses on the choice of business entity by covering taxation of corporations (both C and S corporations), partnerships and sole proprietor-ships. The course emphasizes research skills and professional ethics.
+ACCT 651 Taxation of Corporations I (3 Credit Hours)
+Covers federal income taxation of corporations and shareholders. Includes organizing a corporation; establishing capital structure; determining tax liability; dividends and other non-liquidating distributions; stock redemptions; and liquidations.
+ACCT 652 Taxation of Partners and Partnerships (3 Credit Hours)
+Taxation of partners and partnerships: formation, termination, distributions and liquidations, and sales of partnership interests. Limited partnerships in conjunction with their use as tax shelters, and the multifaceted attributes of family partnerships.
+ACCT 653 Taxation of Estates and Gifts (3 Credit Hours)
+Examines transfers under federal estate and gift tax laws. Includes property owned by the decedent; retained life estates; transfers taking effect at death; transfers with retained powers; concurrent property interest; powers of appointment; valuation problems; expenses, debts, and taxes; charitable bequests; marital deduction; taxable inter vivos gifts; gift splitting and credits; consideration of Chapter 14 and asset freezing techniques; and transfer taxation of life insurance.
+ACCT 654 Income Taxation of Estates, Trusts & Beneficiaries (3 Credit Hours)
+Examines simple, complex, and revocable trusts; trusts accumulation distributions; income in respect of decedents; trust accounting income; distributable net income; terminations; excess deductions; basis rules; and the decedent's final income tax return.
+Prerequisites: ACCT 653
+ACCT 655 Taxation of Corporations II (3 Credit Hours)
+Analyzes the different types of taxable and tax-free acquisitions and reorganizations. Includes determining tax consequences for corporations and shareholders involved in an acquisition or reorganization and analyzing necessary requirements for a tax-free corporate division (spin-off). Covers aspects of filing consolidated federal income tax returns.
+Prerequisites: ACCT 651
+ACCT 656 Taxation of Deferred Compensation (3 Credit Hours)
+Discusses federal income taxation of deferred compensation plans with emphasis on qualified retirement plans. Reviews plan qualification requirements, reporting and disclosure requirements, and distribution rules. Includes discussion of specific types of plans such as Sec. 401(K) and ESOPs.
+ACCT 657 State and Local Taxation (3 Credit Hours)
+Examines state levying of individual income, corporate income, property, sales, and excise taxes.
+ACCT 658 Tax Aspects of International Business (3 Credit Hours)
+Taxation of foreign persons conducting business in the U.S. including FIRPTA, source of income rules, and residency requirements; taxation of U.S. individuals and businesses doing business abroad including FSCs, CFCs, FHP Co's and possessions corporations.
+Prerequisites: ACCT 425 and 426 or equivalent
+ACCT 660 Taxation of Property Transactions (3 Credit Hours)
+Covers determination of realized and recognized gains and losses and their tax treatment on property dispositions. Includes consequences of property transactions, such as depreciation, depletion, basis and capital gains problems.
+Prerequisites: ACCT 521 or equivalent
+ACCT 661 Taxation of the Small Business Corporation (3 Credit Hours)
+Covers federal income taxation of S corporations including election eligibility; termination of status; treatment of income and deduction items; distributions; and basis of stock and debt. Also discusses compensation arrangements in closely held corporations; fiscal year issues; personal service corporations; the advantages of C corporations versus S corporations; corporation liquidation and redemption rules; and the S corporations' built-in gains tax.
+Prerequisites: ACCT 521 or equivalent
+ACCT 662 Tax Procedure and Practice (3 Credit Hours)
+Discusses procedures for dealing with the IRS. Includes sources of IRS policy; processing returns; auditing returns; rulings and determination letters; assessments and collections; and interest and civil penalties.
+ACCT 667 Cooperative Education (1-3 Credit Hours)
+Student participation in a full-time professional work experience.
+Prerequisites: Permission of the departmental chair in accordance with departmental Cooperative Education policies; student participation in a professional work experience; approval for enrollment and allowable credits are determined by the department; additional support may be provided by the Monarch Internship and Co-Op Office in at least one semester prior to enrollment
+ACCT 668 Accounting Internship (1-3 Credit Hours)
+The course is a practicum in the profession of accounting where theories, concepts, and financial management techniques are applied in a business environment.
+Prerequisites: Permission of the department chair or graduate program director for the MS in Accounting
+ACCT 695 Selected Topics in Accounting (3 Credit Hours)
+Study designed for students who have had one of the required courses waived or for students desiring additional work in an area of particular interest in accounting.
+Prerequisites: Permission of the department chair and the graduate program director, and a minimum GPA of 3.0 or higher in graduate work in the MS in Accounting program
+ACCT 697 Independent Study in Taxation (3 Credit Hours)
+Individually supervised research projects in selected tax areas. Approval of supervising professor as to topic and evaluation of project required at time of registration.
+ACCT 727 Strategic Cost Management (3 Credit Hours)
+This course focuses on advanced costing concepts, current management accounting practices, and analytical techniques employed by controllers in supporting their organizations' strategic planning processes.
+ACCT 730 Financial Management Decision Making (3 Credit Hours)
+This course provides an overview of the role of financial accounting in internal and external decision making. Financial modeling with an emphasis on assessing and valuing economic return will be included.
+ACCT 747 Seminar in Controllership (3 Credit Hours)
+This course is the capstone course for the study of management accounting.  It includes a review of management accounting practices and analytical techniques employed by controllers in supporting their organization's strategic decision-making process.
+ACCT 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fall course for master's students in their final semester.  It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of graduation.
+Prerequisites: All coursework in the MS program in Accounting
+ACCT 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Search catalog

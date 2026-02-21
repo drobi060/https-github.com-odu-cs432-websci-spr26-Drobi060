@@ -1,0 +1,41 @@
+Computer Science For Teachers (Graduate Certificate)
+Computer Science for Teachers (Graduate Certificate)
+Program Highlights Careers Courses Requirements Cost Next-Steps Contact
+About this Program
+This certificate program is designed to equip prospective or current high school teachers with the needed foundational and advanced aspects of computing in preparation to be credentialed to teach dual enrollment computer science courses.
+All students will complete two core courses, CS 500 Foundations of Computing and CS 550 Database Concepts, and then can choose four electives from a set of 14 courses, including machine learning, AI, data science, operating systems, algorithms, data visualization, and web science.
+Completion of this program does not automatically certify teachers for dual enrollment instruction, but the courses offered in this certificate have been approved by the Tidewater Community College (TCC) and Northern Virginia Community College (NOVA) systems in Virginia.
+Can be completed in 1-2 years: 18 credit hours (6 courses)
+Complete as a full or part-time student
+Courses can be taken either in-person or online
+Degree-seeking and non-degree seeking students can enroll in the certificate program
+Program electives include some of the most popular courses in our computer science graduate program
+Courses may be applied to the master’s degree program in computer science at ODU
+At a Glance
+The course aims to provide students foundational training in computing. This includes topics in discrete mathematics,…
+CS 500
+Foundations of Computing
+The course aims to provide students foundational training in computing. This includes topics in discrete mathematics, counting and combinatorics, probability, proofs methods, basic automata theory and algorithm design and analysis. Prerequisites: MATH 211 or equivalent, CS 250 or CS 251 or CS 253 or equivalent experience with programming and basic data structures.
+CS 550
+Laboratory work required. Three level database architecture. The relational database model and relational algebra. SQL…
+CS 550
+Database Concepts
+Laboratory work required. Three level database architecture. The relational database model and relational algebra. SQL and its use in database procedures and with conventional programming languages. Entity relationship modeling. Functional dependencies and normalization. Transactions, concurrency and recovery. Prerequisites: Familiarity with elementary set theory, propositional logic, and any two programming languages are expected; a course in finite mathematics or discrete structures is recommended.
+CS 580
+Laboratory work required. Introduction to concepts, principles, challenges, and research in major areas of AI. Areas of…
+CS 580
+Introduction to Artificial Intelligence
+Laboratory work required. Introduction to concepts, principles, challenges, and research in major areas of AI. Areas of discussion include: natural language and vision processing, machine learning, machine logic and reasoning, robotics, expert and mundane systems.
+Careers
+Check out these ideas from ODU's Center for Career & Leadership Development and the Occupational Information Network (O*NET) . A median salary is a midpoint of what people typically earn—half of those surveyed earned above the median salary, and half earned below.
+Computer Science Teachers, Postsecondary
+$96,430 Median Salary
+Teach courses in computer science. May specialize in a field of computer science, such as the design and function of computers or operations and research analysis. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.
+Requirements
+What are the requirements to apply for Computer Science for Teachers (Graduate Certificate) at ODU?
+Students entering the Certificate program in Computer Science for Teachers (Graduate Certificate) should meet the minimum university admission requirements Graduate Admission .
+Additional Requirements:
+Non degree-seeking students: Have a master’s degree from an accredited academic institution and a current teaching license
+Degree-seeking: Be enrolled in a master’s degree program at ODU
+Have a background in basic computer programming, preferably C++ or Java with exposure to at least one other programming language, and basic data structures
+Have a background in undergraduate mathematics comparable to a minor in math, computer science, engineering, physics, or equivalent

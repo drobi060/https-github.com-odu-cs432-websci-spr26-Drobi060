@@ -1,0 +1,43 @@
+Top 10 Results for 'research' (from different domains)
+====================================================================================================
+
+1. https://www.odu.edu/sci/research
+   Domain: www.odu.edu
+   TF-IDF: 2.090333
+
+2. https://give.odu.edu/support-research
+   Domain: give.odu.edu
+   TF-IDF: 0.852402
+
+3. https://vsgc.odu.edu/scholarships-fellowships/
+   Domain: vsgc.odu.edu
+   TF-IDF: 0.852151
+
+4. https://online.odu.edu/academics/area/social-sciences
+   Domain: online.odu.edu
+   TF-IDF: 0.827423
+
+5. https://ww2.odu.edu/~agodunov/hipsters/
+   Domain: ww2.odu.edu
+   TF-IDF: 0.751390
+
+6. https://oduwsdl.github.io/
+   Domain: oduwsdl.github.io
+   TF-IDF: 0.482106
+
+7. https://catalog.odu.edu/graduate/sciences/computer-science/computer-science-phd/
+   Domain: catalog.odu.edu
+   TF-IDF: 0.476511
+
+8. https://mahmoudkanazzal.github.io/
+   Domain: mahmoudkanazzal.github.io
+   TF-IDF: 0.434397
+
+9. https://www.jpmorganchase.com/
+   Domain: www.jpmorganchase.com
+   TF-IDF: 0.132388
+
+10. https://www.odufoundation.com/areas-of-impact/annual-giving/
+   Domain: www.odufoundation.com
+   TF-IDF: 0.045427
+

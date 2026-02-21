@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <link rel="icon" href="/Themes/Favicon/favicon.ico">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Program Search Safety Certifications Classification - ODU Recreation</title>
+    <link href="/Content/custom/custom.css" rel="stylesheet" type="text/css" />
+    <link href="/bundles/css?v=wYBQ1fTC4ChjvKWjaI6DhThkAZc7-kPgU2wRToPU6WA1" rel="stylesheet"/>
+
+    <link href="/bundles/gijgo-css?v=hOFGXVdvcjImSJ4QqfcSa3O5jcXZ6lXqdoE-LkM2Fu81" rel="stylesheet"/>
+
+
+    
+    <script type="text/javascript" src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1" nonce="c785a85ee56a4bb99bbb72439cf7c33b"></script>
+
+    <script type="text/javascript" src="/bundles/jquery?v=PRKzFb9CosvCBfC4s8J1b61Lsj97nm4lPjMlczW-jXs1" nonce="c785a85ee56a4bb99bbb72439cf7c33b"></script>
+
+    <script type="text/javascript" src="/bundles/bootstrap?v=-UU6ZNj8_0E9z7QawhC4UciNIEdjaGSW3CgoG06m_Ss1" nonce="c785a85ee56a4bb99bbb72439cf7c33b"></script>
+
+    <script type="text/javascript" src="/bundles/innosoft?v=r8W7hewHmuY4dqHgUTUsQwKgvJCP7FvnBlv6uhrnjdM1" nonce="c785a85ee56a4bb99bbb72439cf7c33b"></script>
+
+    <script type="text/javascript" src="/bundles/signalR?v=UHTi4JWLFgaeIF35j3FxUxFxpohfwADMDmZABKPNoxw1" nonce="c785a85ee56a4bb99bbb72439cf7c33b"></script>
+
+    <script type="text/javascript" src="/bundles/gijgo-js?v=6I8Qiquc85OwFnnKWWwTAgbL6mWbuQUMRiF-oRzOoBM1" nonce="c785a85ee56a4bb99bbb72439cf7c33b"></script>
+
+    <script type="text/javascript" src="/Scripts/bootstrap.bundle.min.js" nonce="c785a85ee56a4bb99bbb72439cf7c33b"></script>
+
+
+
+    
+    <script type="text/javascript" src="/bundles/innosoftProgramsPage?v=AxupzfYkeU4nUB0jFlsJZPZ24JnAKiaFil-88WjLcCg1" nonce="c785a85ee56a4bb99bbb72439cf7c33b"></script>
+
+
+    <script nonce="c785a85ee56a4bb99bbb72439cf7c33b">
+        function AttachEventsToElement(id, eventType, listener) {
+            var elementToAttachTo = document.getElementById(id);
+            if (elementToAttachTo != null) {
+                elementToAttachTo.addEventListener(eventType, listener);
+            }
+        }
+
+        // Global resources loaded from server-side cache (culture-aware)
+        window.GlobalResources = {"AccessibilitySettings_AltTextBlank":"The alt text is blank","AccessibilitySettings_FiltersApplied":"Filters have been applied.","AccessibilitySettings_FiltersReset":"Filters have been reset.","AccountLogin_UsernamePasswordNotBeEmpty":"Username or Password can not be empty!","BookingCancellation_LoadingText":"Cancelling...","BookingProductDetails_Slot_BookNow":"Book Now","BookingSlot_BookingText":"Booking...","Dependants_Register":"Register","DependantsPartial_UpdateWaitlist":"Update Waitlist","FusionAgent_EventStillRunning":"Event(s) are still running.","FusionAgent_ExportTaskSubmitted":"CBORD File Export task submitted!","FusionAgent_RunningEventNotVerify":"Cannot verify that agent is running.","FusionAgent_RunningSuccess":"Accrual Will run momentarily!","Global_AlreadyAdded":"Already Added","Global_Confirm":"Confirm","Global_Error":"Error","Global_InvalidRequest":"Invalid request","Global_Loading":"Loading","Global_Max":"Max","Global_NotSupplied":"Not Supplied","Global_NoUpcomingEvents":"You have no upcoming events.","Global_ServerError":"Server error:","Global_SomethingWentWrong":"Something went wrong!","Global_Submit":"Submit","InvoiceDetail_InvoiceTotal":"Invoice Total","MemberRegistration_NumOfUpcoming":"You have {0} upcoming events.","Notification_CheckInError_UnableToCheckIn":"Unable to check user in","PaymentProvider_InProduction":"In Production","PaymentProvider_InTest":"In Test","Profile_FailedToLoadAddress":"Failed to load address information. Please refresh.","Profile_FailedToLoadEmailInformation":"Failed to load email information. Please refresh.","Profile_FailedToLoadNumber":"Failed to load phone number information. Please refresh.","Profile_RegistrationCanceled":"Registration has been successfully canceled.","Profile_RemovedFromWaitlist":"Successfully removed from waitlist.","Profile_UnableToAddGender":"We were unable to add gender information. (Validation: Field cannot be empty)","Profile_UnableToSaveChanges":"We were unable to save your changes. If this problem persists please contact an admin.","Profile_UpdatedFamily":"We successfully updated your family.","ReCaptcha_Confirming":"Confirming...","Stripe_PaymentNotSuccessful":"Your payment was not successful, please try again.","Stripe_PaymentProcessing":"Your payment is processing.","Stripe_PaymentSucceeded":"Payment succeeded!"};
+
+        /**
+         * Extracts a localized resource value from page-level or global resources.
+         * param {string} key - The resource key to look up (e.g., "Global_Loading")
+         * returns {string} The localized string, or "[Missing: key]" if not found
+         **/
+        window.extractResourceValue = function (key) {
+            // 1. Check page-level resource first
+            if (typeof PageResources !== "undefined" && key in PageResources) {
+                return PageResources[key];
+            }
+
+            // 2. Then global resources
+            if (typeof GlobalResources !== "undefined" && key in GlobalResources) {
+                return GlobalResources[key];
+            }
+
+            return "[Missing: " + key + "]";
+        };
+
+    </script>
+
+            <link href="/Themes/activetheme.css?v=0126122547" rel="stylesheet" type="text/css" />
+
+
+    <script type="text/javascript" src="/Scripts/spin.min.js" nonce="c785a85ee56a4bb99bbb72439cf7c33b"></script>
+
+        <script nonce="c785a85ee56a4bb99bbb72439cf7c33b" async src="https://www.googletagmanager.com/gtag/js?id=UA-83523264-1"></script>
+        <script nonce="c785a85ee56a4bb99bbb72439cf7c33b">
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+			gtag('config', 'UA-83523264-1', { 'cookie_flags': 'SameSite=None;Secure'});
+        </script>
+
+
+</head>
+
+<body>
+    <div class="wrapper">
+
+<nav id="sidebar" tabindex="-1" class="" aria-hidden="true">
+	<div id="sidebarHeader" class="TopBarBG">
+        <div class="d-flex align-items-center h-100">
+            <div id="sidebarDismiss" aria-label="Close" class="SideBarMenuLink SideBarMenuLinkColor" tabindex="-1" role="button">
+                <span class="material-icons-round md-24">clear</span>
+            </div>
+            <script nonce="c785a85ee56a4bb99bbb72439cf7c33b" type="text/javascript"> AttachEventsToElement('sidebarDismiss', 'keydown', function(){enterToClick(event)}); 
+</script>
+
+    <div>
+        <a href="/" class="LogoLink" id="sidebarLogo" aria-label="Home" tabindex="-1"></a>
+    </div>
+
+        </div>
+	</div>
+
+	<div id="sidebarBody" class="overflow-auto pb-4 ScrollSmall">
+		<div class="list-unstyled list-group components">
+					<a class="sidebarMenuItem list-group-item-action" href="https://odu.edu/recwell/facilities" target="_blank" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">schedule</span>
+							<span class="sidebarText">Hours</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="https://recwellportal.odu.edu/Program/GetProducts?classification=00000000-0000-0000-0000-000000026002" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">fitness_center</span>
+							<span class="sidebarText">Group Exercise Classes</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="https://recwellportal.odu.edu/Program?classificationId=af311b6c-5750-4a82-bae0-a8fa2d58aa99" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">assessment</span>
+							<span class="sidebarText">Body Fat Analysis &amp; Fitness Orientations</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Foutlook.office.com%2Fbook%2FNutritionSupport%40olddominion.onmicrosoft.com%2F&amp;data=05%7C02%7Cbnaff%40odu.edu%7C76acb8102999489d944b08de547f7a14%7C48bf86e811a24b8a8cb368d8be2227f3%7C0%7C0%7C639041103659943579%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=5GlljkjNQUf4ElDBia2QAGk5Iakv%2FivzaPIwKOWn2d4%3D&amp;reserved=0" target="_blank" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">restaurant</span>
+							<span class="sidebarText">Nutrition</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="../Program/GetProducts?productTypeCV=00000000-0000-0000-0000-000000003502&amp;classification=b5cb1d3f-ad23-4275-a2b7-ed84579e9238" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">nature_people</span>
+							<span class="sidebarText">Outdoor Adventure</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="https://recwellportal.odu.edu/Program/GetProducts?classification=be88284a-e103-464b-b4c5-615fa222411a" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">sports_esports</span>
+							<span class="sidebarText">Esports</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="https://recwellportal.odu.edu/Program/GetProducts?classification=67d40ac0-c1bd-42cf-a326-d41a949234e9" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">health_and_safety</span>
+							<span class="sidebarText">Safety Certifications</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="../CourtReservation" target="_blank" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">pending_actions</span>
+							<span class="sidebarText">Racquetball Reservation</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="../Product/GetProducts/?productTypeCV=00000000-0000-0000-0000-000000003502"  >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">view_list</span>
+							<span class="sidebarText">Programs &amp; Services</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="../Program/GetProducts?productTypeCV=00000000-0000-0000-0000-000000003502&amp;classification=7591c912-368d-475a-af80-190c776ef7c5" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">event</span>
+							<span class="sidebarText">Special Events</span>
+						</div>
+					</a>
+					</div>
+	</div>
+</nav>
+
+<script nonce="c785a85ee56a4bb99bbb72439cf7c33b">
+    var keys = {
+        tab: 9,
+        esc: 27
+	};
+
+	$(document).ready(function () {
+		$('#sidebarDismiss, .overlay').on('click', function () {
+			dismissSidebar();
+		});
+
+		$('#sidebarCollapse').on('click', function () {
+			showSidebar();
+		});
+
+        $('#sidebarDismiss, #sidebarLogo, .sidebarMenuItem').on("keydown", function (event) {
+            switch (event.keyCode) {
+                case keys.esc:
+                    dismissSidebar()
+                    break;
+            }
+		});
+
+        $(".sidebarMenuItem:last-of-type").on("keydown", function () {
+            switch (event.keyCode) {
+                case keys.tab:
+                    $('#sidebarDismiss').focus();
+                    break;
+            }
+            event.preventDefault();
+		});
+
+        $('.sidebarMenuItem').attr('tabindex', '-1');
+	});
+
+	function dismissSidebar() {
+		// hide sidebar
+		$('#sidebar').removeClass('active');
+        $('#sidebar').attr('aria-hidden','true')
+		$('#sidebarCollapse').focus();
+		// hide overlay
+		$('.overlay').removeClass('active');
+		$('.sideBarSubMenu.show').toggleClass('show');
+
+		$('html').removeClass("overflow-hidden");
+		$('#sidebarDismiss').attr('tabindex', '-1');
+		$('#sidebarLogo').attr('tabindex', '-1');
+		$('.sidebarMenuItem').attr('tabindex', '-1');
+	}
+
+	function showSidebar() {
+		// open sidebar
+		$('#sidebar').addClass('active');
+        $('#sidebar').attr('aria-hidden', 'false')
+		// fade in the overlay
+		$('.overlay').addClass('active');
+		$('a[aria-expanded=true]').attr('aria-expanded', 'false');
+		$(".sidebarMenuItem").first().focus();
+
+		$('html').addClass("overflow-hidden");
+		$('#sidebarDismiss').attr('tabindex', '0');
+		$('#sidebarLogo').attr('tabindex', '0');
+        $(".sidebarMenuItem").attr('tabindex', '0');
+	}   
+</script>
+
+
+        <div id="content">
+
+
+<header class="container-fluid HeaderBar HeaderBarBg">
+    <a id="skipLink" class="skip-main" href="#mainContent">Skip to main content</a>
+    <div id="ecHeader" class="editableCustomContent row" data-id="00000000-0000-0000-0000-000000004189">
+        <div class="container front-header">
+<div class="container front-header-overlay">
+<div class="front-header-textbox col-lg-9 col-md-9 col-sm-9 col-xs-12">
+<h2>Recreation &amp; Wellness</h2>
+<h4>Welcome to the Rec Well Portal. Browse options below!</h4>
+</div>
+</div>
+</div>
+    </div>
+</header>
+
+<div id="SessionTimeoutContainer">
+    <input hidden value="20" id="SessionTimeoutMins" />
+</div>
+
+
+<div class="modal fade" id="inactivityIdleWarning" tabindex="-1" aria-labelledby="inactivityTimeoutWarning" aria-hidden="true" data-backdrop="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title global-Modal-Header-H5-FontSize" id="inactivityTimeoutWarning">Are you still there?</h2>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Would you like to continue? Your session will expire in 2 mins due to inactivity.
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary resetInactivityModalBtn">Continue</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script nonce="c785a85ee56a4bb99bbb72439cf7c33b" type="text/javascript">
+    $(".resetInactivityModalBtn").on('click', function () {
+        resetSessionAuthentication();
+    });
+</script>
+
+            <div class="navbar TopBar navbar-expand sticky-top TopBarBG" role="banner">
+                <div  class="container-fluid">
+                    <div class="d-flex align-items-center h-100">
+                        <div id="sidebarCollapse" class="SideBarMenuLink SideBarMenuLinkColor" aria-expanded="false" aria-controls="sidebar" aria-label="Open Site Navigation" tabindex="0" role="button">
+                            <span class="material-icons-round">menu</span>
+                        </div>
+                        <script nonce="c785a85ee56a4bb99bbb72439cf7c33b" type="text/javascript"> AttachEventsToElement('sidebarCollapse', 'keydown', function(){enterToClick(event)}); 
+</script>
+
+    <div>
+        <a href="/" class="LogoLink" id="LogoBackground" aria-label="Home" tabindex="0"></a>
+    </div>
+
+                    </div>
+                    <div id="Search" class="d-none d-lg-block TopSearch">
+
+<form action="/Program/Search" aria-label="Main" id="SearchProgramForm" method="post" role="search"><input name="__RequestVerificationToken" type="hidden" value="qtLfEnU7s3I5DqnfiRgNVNg4PB2woz4q3Rsq3KNMDt5vLzCs7xDl2LH_4vL-sRJNoutV5PJLfCdUEh1hUOt75GULI6pnJmkgynUqxK-ujII1" />
+<div class="input-group">
+    <input type="text" id="txtSearchId" name="term" class="form-control" placeholder="Search Programs" aria-label="Search Programs" required/>
+    <button id="btnProductSearch" class="btn btn-outline-secondary SearchButtonColor" aria-label="Submit Search"><span class="material-icons-round md-18" aria-hidden="true">search</span></button>
+</div>
+
+</form>                    </div>
+
+                    <div id="TopBarRight" class="d-flex align-items-center h-100">
+                        <div class="d-lg-none">
+                            <a id="lnkSearch" href="#SearchCl" data-bs-toggle="collapse" aria-label="Search" class="btn btn-link SearchButton TopBarButtonColor" aria-expanded="false">
+                                <span class="material-icons-round" aria-hidden="true">search</span>
+                            </a>
+                        </div>
+                        
+    <button class="TopBarButtonColor LoginPartialLinks btn btn-link" id="loginLinkBtn">Sign In</button>
+<script nonce="c785a85ee56a4bb99bbb72439cf7c33b" type="text/javascript"> AttachEventsToElement('loginLinkBtn', 'click', function(){showLogin('%2fprogram%3fclassificationId%3d67d40ac0-c1bd-42cf-a326-d41a949234e9')}); 
+</script>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="collapse" id="SearchCl" role="search">
+
+<form action="/Program/Search" id="SearchProgramFormXS" method="post"><input name="__RequestVerificationToken" type="hidden" value="MrJZArwVIb5b115fI0GB9EsbEOC8ObcRVpOpUeYe1eukOJCMN7AQab88RZAij2ZUbwqzUr30Bx3qhU3uu04aejprUl3Jyo0SYPsOI71-AY41" />
+
+<div class="input-group">
+    <input type="text" id="txtSearchClId" name="term" class="form-control" placeholder="Search Programs" aria-label="Search Programs" required>
+    <script nonce="c785a85ee56a4bb99bbb72439cf7c33b" type="text/javascript"> AttachEventsToElement('txtSearchClId', 'search', function(){SearchKeyProgramXS(event)}); 
+</script>
+    <button id="btnProductSearchSm" class="btn btn-outline-secondary SearchButtonColor" aria-label="Submit Search"><span class="material-icons-round md-18" aria-hidden="true">search</span></button>
+</div>
+</form>            </div>
+
+
+
+            <div id="main" role="main">
+                
+
+
+                <div class="container body-content bodyColour contentWrapPP" id="mainContent">
+                    <div id="cookieArea"></div>
+                    <div>
+
+
+                        
+
+
+
+
+<link href="/Content/Programs?v=Yfwcv5aRs1vP0SU3JHxMRcaHZ1HxceoCAd6yyOJ22GQ1" rel="stylesheet"/>
+
+
+
+
+
+
+<h1 class="h2 mb-3 bold">Programs</h1>
+
+<div id="divFilteredBy" class="mb-3" style="display:none">
+    <label class="form-label" for="btnRemoveSearchTerm">Filtered by text: </label>
+    <span class="badge bg-primary">
+        <span class="me-2" id="spanSearchTermRemoveButtonText"> </span>
+        <button id="btnRemoveSearchTerm" class="btn btn-close btn-close-white btn-sm" type="button" aria-label="Remove Search Team"> 
+        <span class="visually-hidden"></span>
+        </button>
+    </span>
+</div>
+
+<input id="programFilterSearchTerm" name="ProgramFilters.SearchTerm" type="hidden" value="" />
+
+<div id="programSearchResultsAnnouncement" role="alert" aria-live="polite" class="visually-hidden"></div>
+
+<div class="row">
+    <div class="col-xl-3 col-lg-4 col-md-5 col-12 searchProgramContent">
+        
+<div class="d-none d-md-block">
+    <div id="programFilterGroups" class="ScrollSmall">
+        <div class="card">
+            <a id="programSearchSkipLink" class="skip-main" href="#program-List-Item-Search">Skip to search results</a>
+            <ul class="list-group list-group-flush">
+
+                
+                <li class="list-group-item">
+                    <h2 id="classificationFilterTitle" class="programFilterTitle">
+                        Classifications
+                    </h2>
+                    <div role="group" aria-labelledby="classification-filters-label" class="d-flex flex-wrap programFilterContainer p-2 ms-n2 me-n2 overflow-auto ScrollSmall">
+                        <h3 id="classification-filters-label" class="visually-hidden">Classification Filters</h3>
+                        <div class="programSelectAll d-inline-flex align-items-center mb-2 w-100">
+                            <input id="selectAllProgramClassifications" type="checkbox" name="SelectAll" value=" " />
+                            <label class="form-label ms-2 mb-1" for="selectAllProgramClassifications">Select All Classifications</label>
+                        </div>
+                        <div>
+                                <input type="checkbox" class="btn-check programFilterCheck classificationCheck" id="classification-filter-be88284a-e103-464b-b4c5-615fa222411a" data-id="be88284a-e103-464b-b4c5-615fa222411a" data-name="Esports" >
+                                <label for="classification-filter-be88284a-e103-464b-b4c5-615fa222411a" class="btn btn-outline-dark mb-2 programFilterLabel" data-id="be88284a-e103-464b-b4c5-615fa222411a">Esports</label>
+                                <input type="checkbox" class="btn-check programFilterCheck classificationCheck" id="classification-filter-af311b6c-5750-4a82-bae0-a8fa2d58aa99" data-id="af311b6c-5750-4a82-bae0-a8fa2d58aa99" data-name="Fitness Services" >
+                                <label for="classification-filter-af311b6c-5750-4a82-bae0-a8fa2d58aa99" class="btn btn-outline-dark mb-2 programFilterLabel" data-id="af311b6c-5750-4a82-bae0-a8fa2d58aa99">Fitness Services</label>
+                                <input type="checkbox" class="btn-check programFilterCheck classificationCheck" id="classification-filter-00000000-0000-0000-0000-000000026002" data-id="00000000-0000-0000-0000-000000026002" data-name="Group Fitness" >
+                                <label for="classification-filter-00000000-0000-0000-0000-000000026002" class="btn btn-outline-dark mb-2 programFilterLabel" data-id="00000000-0000-0000-0000-000000026002">Group Fitness</label>
+                                <input type="checkbox" class="btn-check programFilterCheck classificationCheck" id="classification-filter-01137f7a-509e-4ccc-b260-9c1d30011b0c" data-id="01137f7a-509e-4ccc-b260-9c1d30011b0c" data-name="Nutrition" >
+                                <label for="classification-filter-01137f7a-509e-4ccc-b260-9c1d30011b0c" class="btn btn-outline-dark mb-2 programFilterLabel" data-id="01137f7a-509e-4ccc-b260-9c1d30011b0c">Nutrition</label>
+                                <input type="checkbox" class="btn-check programFilterCheck classificationCheck" id="classification-filter-b5cb1d3f-ad23-4275-a2b7-ed84579e9238" data-id="b5cb1d3f-ad23-4275-a2b7-ed84579e9238" data-name="Outdoor Adventure Program" >
+                                <label for="classification-filter-b5cb1d3f-ad23-4275-a2b7-ed84579e9238" class="btn btn-outline-dark mb-2 programFilterLabel" data-id="b5cb1d3f-ad23-4275-a2b7-ed84579e9238">Outdoor Adventure Program</label>
+                                <input type="checkbox" class="btn-check programFilterCheck classificationCheck" id="classification-filter-8ca09a5a-f5cf-40da-8782-4f62d9ceac1d" data-id="8ca09a5a-f5cf-40da-8782-4f62d9ceac1d" data-name="Prep Courses" >
+                                <label for="classification-filter-8ca09a5a-f5cf-40da-8782-4f62d9ceac1d" class="btn btn-outline-dark mb-2 programFilterLabel" data-id="8ca09a5a-f5cf-40da-8782-4f62d9ceac1d">Prep Courses</label>
+                                <input type="checkbox" class="btn-check programFilterCheck classificationCheck" id="classification-filter-67d40ac0-c1bd-42cf-a326-d41a949234e9" data-id="67d40ac0-c1bd-42cf-a326-d41a949234e9" data-name="Safety Certifications" >
+                                <label for="classification-filter-67d40ac0-c1bd-42cf-a326-d41a949234e9" class="btn btn-outline-dark mb-2 programFilterLabel" data-id="67d40ac0-c1bd-42cf-a326-d41a949234e9">Safety Certifications</label>
+                                <input type="checkbox" class="btn-check programFilterCheck classificationCheck" id="classification-filter-4b1cd041-6b75-4f39-aeb4-3a4aa004e1f2" data-id="4b1cd041-6b75-4f39-aeb4-3a4aa004e1f2" data-name="Small Group Training" >
+                                <label for="classification-filter-4b1cd041-6b75-4f39-aeb4-3a4aa004e1f2" class="btn btn-outline-dark mb-2 programFilterLabel" data-id="4b1cd041-6b75-4f39-aeb4-3a4aa004e1f2">Small Group Training</label>
+                                <input type="checkbox" class="btn-check programFilterCheck classificationCheck" id="classification-filter-7591c912-368d-475a-af80-190c776ef7c5" data-id="7591c912-368d-475a-af80-190c776ef7c5" data-name="Special Events" >
+                                <label for="classification-filter-7591c912-368d-475a-af80-190c776ef7c5" class="btn btn-outline-dark mb-2 programFilterLabel" data-id="7591c912-368d-475a-af80-190c776ef7c5">Special Events</label>
+                                <input type="checkbox" class="btn-check programFilterCheck classificationCheck" id="classification-filter-00000000-0000-0000-0000-000000026001" data-id="00000000-0000-0000-0000-000000026001" data-name="Swim Lessons" >
+                                <label for="classification-filter-00000000-0000-0000-0000-000000026001" class="btn btn-outline-dark mb-2 programFilterLabel" data-id="00000000-0000-0000-0000-000000026001">Swim Lessons</label>
+                        </div>
+                    </div>
+                </li>
+
+
+                
+                <li class="list-group-item">
+                    <h2 class="programFilterTitle mb-0">
+                        Tags
+                    </h2>
+                    <div role="group" aria-labelledby="tags-filters-label" class="d-flex flex-wrap programFilterContainer p-2 ms-n2 me-n2 overflow-auto ScrollSmall">
+                        <h3 id="tags-filters-label" class="visually-hidden">Tag Filters</h3>
+                        <div>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-a6a0cfcc-7770-46c3-978e-853ed3287c21" data-id="a6a0cfcc-7770-46c3-978e-853ed3287c21" data-name="American Red Cross Safety Courses">
+                                <label for="tag-filter-a6a0cfcc-7770-46c3-978e-853ed3287c21" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="a6a0cfcc-7770-46c3-978e-853ed3287c21">American Red Cross Safety Courses</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-3acee75d-c168-4d11-9cbc-bc3b3db1836a" data-id="3acee75d-c168-4d11-9cbc-bc3b3db1836a" data-name="Cardio">
+                                <label for="tag-filter-3acee75d-c168-4d11-9cbc-bc3b3db1836a" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="3acee75d-c168-4d11-9cbc-bc3b3db1836a">Cardio</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-c3ca7b51-8c31-47fc-bf9e-e40b39aaa107" data-id="c3ca7b51-8c31-47fc-bf9e-e40b39aaa107" data-name="Core">
+                                <label for="tag-filter-c3ca7b51-8c31-47fc-bf9e-e40b39aaa107" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="c3ca7b51-8c31-47fc-bf9e-e40b39aaa107">Core</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-1b8e9394-3898-43f9-91ce-ec83f167fb84" data-id="1b8e9394-3898-43f9-91ce-ec83f167fb84" data-name="Dance Fitness">
+                                <label for="tag-filter-1b8e9394-3898-43f9-91ce-ec83f167fb84" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="1b8e9394-3898-43f9-91ce-ec83f167fb84">Dance Fitness</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-c633803c-6869-48e3-bd61-f95461e065c6" data-id="c633803c-6869-48e3-bd61-f95461e065c6" data-name="Facility Access">
+                                <label for="tag-filter-c633803c-6869-48e3-bd61-f95461e065c6" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="c633803c-6869-48e3-bd61-f95461e065c6">Facility Access</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-b6b02794-d6c8-40dc-9b6e-432227092c80" data-id="b6b02794-d6c8-40dc-9b6e-432227092c80" data-name="Fitness &amp; Wellness Certifications">
+                                <label for="tag-filter-b6b02794-d6c8-40dc-9b6e-432227092c80" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="b6b02794-d6c8-40dc-9b6e-432227092c80">Fitness &amp; Wellness Certifications</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-6eb9aaae-c664-4b0d-9f0a-255751e3580b" data-id="6eb9aaae-c664-4b0d-9f0a-255751e3580b" data-name="Fitness &amp; Wellness Prep Courses">
+                                <label for="tag-filter-6eb9aaae-c664-4b0d-9f0a-255751e3580b" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="6eb9aaae-c664-4b0d-9f0a-255751e3580b">Fitness &amp; Wellness Prep Courses</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-6d58d7b2-110a-4603-8f6a-c39dd8aaa12e" data-id="6d58d7b2-110a-4603-8f6a-c39dd8aaa12e" data-name="Fitness &amp; Wellness Specialty Programs">
+                                <label for="tag-filter-6d58d7b2-110a-4603-8f6a-c39dd8aaa12e" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="6d58d7b2-110a-4603-8f6a-c39dd8aaa12e">Fitness &amp; Wellness Specialty Programs</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-9b544d40-8b3d-4785-a396-654584a96df5" data-id="9b544d40-8b3d-4785-a396-654584a96df5" data-name="Fitness Orientation ">
+                                <label for="tag-filter-9b544d40-8b3d-4785-a396-654584a96df5" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="9b544d40-8b3d-4785-a396-654584a96df5">Fitness Orientation </label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-ce2c891c-fbc8-4118-84dc-f966a101fae5" data-id="ce2c891c-fbc8-4118-84dc-f966a101fae5" data-name="Group Fitness">
+                                <label for="tag-filter-ce2c891c-fbc8-4118-84dc-f966a101fae5" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="ce2c891c-fbc8-4118-84dc-f966a101fae5">Group Fitness</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-1da4ae53-0f08-48f0-988a-b38ddb1aa7b7" data-id="1da4ae53-0f08-48f0-988a-b38ddb1aa7b7" data-name="Health Promotion">
+                                <label for="tag-filter-1da4ae53-0f08-48f0-988a-b38ddb1aa7b7" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="1da4ae53-0f08-48f0-988a-b38ddb1aa7b7">Health Promotion</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-dc9df4a1-2aba-46e1-ac6a-687d383304ed" data-id="dc9df4a1-2aba-46e1-ac6a-687d383304ed" data-name="Love Your Body Week">
+                                <label for="tag-filter-dc9df4a1-2aba-46e1-ac6a-687d383304ed" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="dc9df4a1-2aba-46e1-ac6a-687d383304ed">Love Your Body Week</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-f82661ea-c65a-4301-8730-c45d886b9781" data-id="f82661ea-c65a-4301-8730-c45d886b9781" data-name="Massage Therapy">
+                                <label for="tag-filter-f82661ea-c65a-4301-8730-c45d886b9781" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="f82661ea-c65a-4301-8730-c45d886b9781">Massage Therapy</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-ad1171bc-19fe-4d81-9502-32420c4f67b7" data-id="ad1171bc-19fe-4d81-9502-32420c4f67b7" data-name="Mind/Body">
+                                <label for="tag-filter-ad1171bc-19fe-4d81-9502-32420c4f67b7" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="ad1171bc-19fe-4d81-9502-32420c4f67b7">Mind/Body</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-7acfa2e3-6f06-469b-8de0-8393acb92109" data-id="7acfa2e3-6f06-469b-8de0-8393acb92109" data-name="Nutrition">
+                                <label for="tag-filter-7acfa2e3-6f06-469b-8de0-8393acb92109" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="7acfa2e3-6f06-469b-8de0-8393acb92109">Nutrition</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-1484ff20-2c11-4251-bbcb-e5144c4a6ba2" data-id="1484ff20-2c11-4251-bbcb-e5144c4a6ba2" data-name="Outdoor Adventure Specialty Programs">
+                                <label for="tag-filter-1484ff20-2c11-4251-bbcb-e5144c4a6ba2" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="1484ff20-2c11-4251-bbcb-e5144c4a6ba2">Outdoor Adventure Specialty Programs</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-38d080c3-4e71-49a1-af7e-8d02198c2ea6" data-id="38d080c3-4e71-49a1-af7e-8d02198c2ea6" data-name="Outdoor Adventure Trips">
+                                <label for="tag-filter-38d080c3-4e71-49a1-af7e-8d02198c2ea6" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="38d080c3-4e71-49a1-af7e-8d02198c2ea6">Outdoor Adventure Trips</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-d3bc567a-5146-49f7-b080-a28078efe2b9" data-id="d3bc567a-5146-49f7-b080-a28078efe2b9" data-name="Rec &amp; Well Trek Assessments">
+                                <label for="tag-filter-d3bc567a-5146-49f7-b080-a28078efe2b9" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="d3bc567a-5146-49f7-b080-a28078efe2b9">Rec &amp; Well Trek Assessments</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-285a6ed8-ced8-4689-a45e-be6eb2c11bb2" data-id="285a6ed8-ced8-4689-a45e-be6eb2c11bb2" data-name="Small Group Training">
+                                <label for="tag-filter-285a6ed8-ced8-4689-a45e-be6eb2c11bb2" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="285a6ed8-ced8-4689-a45e-be6eb2c11bb2">Small Group Training</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-9345a9b3-6787-4d5d-b702-b3ece78efb22" data-id="9345a9b3-6787-4d5d-b702-b3ece78efb22" data-name="Special Events">
+                                <label for="tag-filter-9345a9b3-6787-4d5d-b702-b3ece78efb22" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="9345a9b3-6787-4d5d-b702-b3ece78efb22">Special Events</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-24c2d970-2693-4a65-ad32-ff955e6be543" data-id="24c2d970-2693-4a65-ad32-ff955e6be543" data-name="Strength">
+                                <label for="tag-filter-24c2d970-2693-4a65-ad32-ff955e6be543" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="24c2d970-2693-4a65-ad32-ff955e6be543">Strength</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-b0a79cc9-7554-48ee-b2ec-e9d10f4d0a86" data-id="b0a79cc9-7554-48ee-b2ec-e9d10f4d0a86" data-name="Swim Classes">
+                                <label for="tag-filter-b0a79cc9-7554-48ee-b2ec-e9d10f4d0a86" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="b0a79cc9-7554-48ee-b2ec-e9d10f4d0a86">Swim Classes</label>
+                                <input type="checkbox" class="btn-check programFilterCheck tagCheck" id="tag-filter-229fb0f9-b665-4dba-9df2-64c56cc25eee" data-id="229fb0f9-b665-4dba-9df2-64c56cc25eee" data-name="Total Body">
+                                <label for="tag-filter-229fb0f9-b665-4dba-9df2-64c56cc25eee" class="btn btn-outline-dark programFilterLabel tagLabel mb-2" data-id="229fb0f9-b665-4dba-9df2-64c56cc25eee">Total Body</label>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+
+            <button id="programClearFiltersButton" type="button" class="m-2 clearProgramFilter">
+                CLEAR
+            </button>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<div class="d-block d-md-none">
+    <div id="programSearchFilter">
+        <div id="programSearchFilterBody" class="d-flex flex-column">
+            <div id="programFilterTitle" class="d-flex justify-content-between align-items-center mb-3">
+                <h2>Filter Your Search</h2>
+                <div id="programSearchFilterDismiss" aria-label="Close" class="" tabindex="-1" role="button">
+                    <span class="material-icons-round md-24">clear</span>
+                </div>
+            </div>
+            <div id="programFilterGroupsSm" class="ScrollSmall">
+                
+                <div class="filterArea">
+                    <div id="classificationTitleArea">
+                        <h2 class="programFilterTitle">
+                            Classifications
+                        </h2>
+                    </div>
+                    <div class="programFilterContainerMobile classifications m-n2">
+                        <div role="group" aria-labelledby="classification-filters-label-sm" class="d-flex flex-wrap m-2">
+                            <h3 id="classification-filters-label-sm" class="visually-hidden">Classification Filters</h3>
+                            <div class="programSelectAll">
+                                <input id="selectAllProgramClassificationsSm" type="checkbox" name="SelectAll" value="false" />
+                                <label class="form-label" for="selectAllProgramClassificationsSm">Select All Classifications</label>
+                            </div>
+                            <div>
+                                    <input type="checkbox" class="btn-check programFilterCheck classificationCheckSm" id="mob-classification-filter-be88284a-e103-464b-b4c5-615fa222411a" tabindex="-1" data-id="be88284a-e103-464b-b4c5-615fa222411a" data-name="Esports">
+                                    <label for="mob-classification-filter-be88284a-e103-464b-b4c5-615fa222411a" class="btn btn-outline-dark programFilterLabel mb-2 me-2">Esports</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck classificationCheckSm" id="mob-classification-filter-af311b6c-5750-4a82-bae0-a8fa2d58aa99" tabindex="-1" data-id="af311b6c-5750-4a82-bae0-a8fa2d58aa99" data-name="Fitness Services">
+                                    <label for="mob-classification-filter-af311b6c-5750-4a82-bae0-a8fa2d58aa99" class="btn btn-outline-dark programFilterLabel mb-2 me-2">Fitness Services</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck classificationCheckSm" id="mob-classification-filter-00000000-0000-0000-0000-000000026002" tabindex="-1" data-id="00000000-0000-0000-0000-000000026002" data-name="Group Fitness">
+                                    <label for="mob-classification-filter-00000000-0000-0000-0000-000000026002" class="btn btn-outline-dark programFilterLabel mb-2 me-2">Group Fitness</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck classificationCheckSm" id="mob-classification-filter-01137f7a-509e-4ccc-b260-9c1d30011b0c" tabindex="-1" data-id="01137f7a-509e-4ccc-b260-9c1d30011b0c" data-name="Nutrition">
+                                    <label for="mob-classification-filter-01137f7a-509e-4ccc-b260-9c1d30011b0c" class="btn btn-outline-dark programFilterLabel mb-2 me-2">Nutrition</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck classificationCheckSm" id="mob-classification-filter-b5cb1d3f-ad23-4275-a2b7-ed84579e9238" tabindex="-1" data-id="b5cb1d3f-ad23-4275-a2b7-ed84579e9238" data-name="Outdoor Adventure Program">
+                                    <label for="mob-classification-filter-b5cb1d3f-ad23-4275-a2b7-ed84579e9238" class="btn btn-outline-dark programFilterLabel mb-2 me-2">Outdoor Adventure Program</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck classificationCheckSm" id="mob-classification-filter-8ca09a5a-f5cf-40da-8782-4f62d9ceac1d" tabindex="-1" data-id="8ca09a5a-f5cf-40da-8782-4f62d9ceac1d" data-name="Prep Courses">
+                                    <label for="mob-classification-filter-8ca09a5a-f5cf-40da-8782-4f62d9ceac1d" class="btn btn-outline-dark programFilterLabel mb-2 me-2">Prep Courses</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck classificationCheckSm" id="mob-classification-filter-67d40ac0-c1bd-42cf-a326-d41a949234e9" tabindex="-1" data-id="67d40ac0-c1bd-42cf-a326-d41a949234e9" data-name="Safety Certifications">
+                                    <label for="mob-classification-filter-67d40ac0-c1bd-42cf-a326-d41a949234e9" class="btn btn-outline-dark programFilterLabel mb-2 me-2">Safety Certifications</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck classificationCheckSm" id="mob-classification-filter-4b1cd041-6b75-4f39-aeb4-3a4aa004e1f2" tabindex="-1" data-id="4b1cd041-6b75-4f39-aeb4-3a4aa004e1f2" data-name="Small Group Training">
+                                    <label for="mob-classification-filter-4b1cd041-6b75-4f39-aeb4-3a4aa004e1f2" class="btn btn-outline-dark programFilterLabel mb-2 me-2">Small Group Training</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck classificationCheckSm" id="mob-classification-filter-7591c912-368d-475a-af80-190c776ef7c5" tabindex="-1" data-id="7591c912-368d-475a-af80-190c776ef7c5" data-name="Special Events">
+                                    <label for="mob-classification-filter-7591c912-368d-475a-af80-190c776ef7c5" class="btn btn-outline-dark programFilterLabel mb-2 me-2">Special Events</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck classificationCheckSm" id="mob-classification-filter-00000000-0000-0000-0000-000000026001" tabindex="-1" data-id="00000000-0000-0000-0000-000000026001" data-name="Swim Lessons">
+                                    <label for="mob-classification-filter-00000000-0000-0000-0000-000000026001" class="btn btn-outline-dark programFilterLabel mb-2 me-2">Swim Lessons</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div class="filterArea">
+                    <div id="tagTitleArea">
+                        <h2 class="programFilterTitle">
+                            Tags
+                        </h2>
+                    </div>
+                    <div class="programFilterContainerMobile tags m-n2">
+                        <div role="group" aria-labelledby="tags-filters-label-sm" class="d-flex flex-wrap m-2">
+                            <h3 id="tags-filters-label-sm" class="visually-hidden">Tag Filters</h3>
+                            <div>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="a6a0cfcc-7770-46c3-978e-853ed3287c21" data-name="American Red Cross Safety Courses" id="mob-tag-filter-a6a0cfcc-7770-46c3-978e-853ed3287c21">
+                                    <label for="mob-tag-filter-a6a0cfcc-7770-46c3-978e-853ed3287c21" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="a6a0cfcc-7770-46c3-978e-853ed3287c21">American Red Cross Safety Courses</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="3acee75d-c168-4d11-9cbc-bc3b3db1836a" data-name="Cardio" id="mob-tag-filter-3acee75d-c168-4d11-9cbc-bc3b3db1836a">
+                                    <label for="mob-tag-filter-3acee75d-c168-4d11-9cbc-bc3b3db1836a" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="3acee75d-c168-4d11-9cbc-bc3b3db1836a">Cardio</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="c3ca7b51-8c31-47fc-bf9e-e40b39aaa107" data-name="Core" id="mob-tag-filter-c3ca7b51-8c31-47fc-bf9e-e40b39aaa107">
+                                    <label for="mob-tag-filter-c3ca7b51-8c31-47fc-bf9e-e40b39aaa107" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="c3ca7b51-8c31-47fc-bf9e-e40b39aaa107">Core</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="1b8e9394-3898-43f9-91ce-ec83f167fb84" data-name="Dance Fitness" id="mob-tag-filter-1b8e9394-3898-43f9-91ce-ec83f167fb84">
+                                    <label for="mob-tag-filter-1b8e9394-3898-43f9-91ce-ec83f167fb84" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="1b8e9394-3898-43f9-91ce-ec83f167fb84">Dance Fitness</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="c633803c-6869-48e3-bd61-f95461e065c6" data-name="Facility Access" id="mob-tag-filter-c633803c-6869-48e3-bd61-f95461e065c6">
+                                    <label for="mob-tag-filter-c633803c-6869-48e3-bd61-f95461e065c6" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="c633803c-6869-48e3-bd61-f95461e065c6">Facility Access</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="b6b02794-d6c8-40dc-9b6e-432227092c80" data-name="Fitness &amp; Wellness Certifications" id="mob-tag-filter-b6b02794-d6c8-40dc-9b6e-432227092c80">
+                                    <label for="mob-tag-filter-b6b02794-d6c8-40dc-9b6e-432227092c80" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="b6b02794-d6c8-40dc-9b6e-432227092c80">Fitness &amp; Wellness Certifications</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="6eb9aaae-c664-4b0d-9f0a-255751e3580b" data-name="Fitness &amp; Wellness Prep Courses" id="mob-tag-filter-6eb9aaae-c664-4b0d-9f0a-255751e3580b">
+                                    <label for="mob-tag-filter-6eb9aaae-c664-4b0d-9f0a-255751e3580b" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="6eb9aaae-c664-4b0d-9f0a-255751e3580b">Fitness &amp; Wellness Prep Courses</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="6d58d7b2-110a-4603-8f6a-c39dd8aaa12e" data-name="Fitness &amp; Wellness Specialty Programs" id="mob-tag-filter-6d58d7b2-110a-4603-8f6a-c39dd8aaa12e">
+                                    <label for="mob-tag-filter-6d58d7b2-110a-4603-8f6a-c39dd8aaa12e" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="6d58d7b2-110a-4603-8f6a-c39dd8aaa12e">Fitness &amp; Wellness Specialty Programs</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="9b544d40-8b3d-4785-a396-654584a96df5" data-name="Fitness Orientation " id="mob-tag-filter-9b544d40-8b3d-4785-a396-654584a96df5">
+                                    <label for="mob-tag-filter-9b544d40-8b3d-4785-a396-654584a96df5" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="9b544d40-8b3d-4785-a396-654584a96df5">Fitness Orientation </label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="ce2c891c-fbc8-4118-84dc-f966a101fae5" data-name="Group Fitness" id="mob-tag-filter-ce2c891c-fbc8-4118-84dc-f966a101fae5">
+                                    <label for="mob-tag-filter-ce2c891c-fbc8-4118-84dc-f966a101fae5" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="ce2c891c-fbc8-4118-84dc-f966a101fae5">Group Fitness</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="1da4ae53-0f08-48f0-988a-b38ddb1aa7b7" data-name="Health Promotion" id="mob-tag-filter-1da4ae53-0f08-48f0-988a-b38ddb1aa7b7">
+                                    <label for="mob-tag-filter-1da4ae53-0f08-48f0-988a-b38ddb1aa7b7" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="1da4ae53-0f08-48f0-988a-b38ddb1aa7b7">Health Promotion</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="dc9df4a1-2aba-46e1-ac6a-687d383304ed" data-name="Love Your Body Week" id="mob-tag-filter-dc9df4a1-2aba-46e1-ac6a-687d383304ed">
+                                    <label for="mob-tag-filter-dc9df4a1-2aba-46e1-ac6a-687d383304ed" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="dc9df4a1-2aba-46e1-ac6a-687d383304ed">Love Your Body Week</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="f82661ea-c65a-4301-8730-c45d886b9781" data-name="Massage Therapy" id="mob-tag-filter-f82661ea-c65a-4301-8730-c45d886b9781">
+                                    <label for="mob-tag-filter-f82661ea-c65a-4301-8730-c45d886b9781" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="f82661ea-c65a-4301-8730-c45d886b9781">Massage Therapy</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="ad1171bc-19fe-4d81-9502-32420c4f67b7" data-name="Mind/Body" id="mob-tag-filter-ad1171bc-19fe-4d81-9502-32420c4f67b7">
+                                    <label for="mob-tag-filter-ad1171bc-19fe-4d81-9502-32420c4f67b7" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="ad1171bc-19fe-4d81-9502-32420c4f67b7">Mind/Body</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="7acfa2e3-6f06-469b-8de0-8393acb92109" data-name="Nutrition" id="mob-tag-filter-7acfa2e3-6f06-469b-8de0-8393acb92109">
+                                    <label for="mob-tag-filter-7acfa2e3-6f06-469b-8de0-8393acb92109" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="7acfa2e3-6f06-469b-8de0-8393acb92109">Nutrition</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="1484ff20-2c11-4251-bbcb-e5144c4a6ba2" data-name="Outdoor Adventure Specialty Programs" id="mob-tag-filter-1484ff20-2c11-4251-bbcb-e5144c4a6ba2">
+                                    <label for="mob-tag-filter-1484ff20-2c11-4251-bbcb-e5144c4a6ba2" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="1484ff20-2c11-4251-bbcb-e5144c4a6ba2">Outdoor Adventure Specialty Programs</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="38d080c3-4e71-49a1-af7e-8d02198c2ea6" data-name="Outdoor Adventure Trips" id="mob-tag-filter-38d080c3-4e71-49a1-af7e-8d02198c2ea6">
+                                    <label for="mob-tag-filter-38d080c3-4e71-49a1-af7e-8d02198c2ea6" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="38d080c3-4e71-49a1-af7e-8d02198c2ea6">Outdoor Adventure Trips</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="d3bc567a-5146-49f7-b080-a28078efe2b9" data-name="Rec &amp; Well Trek Assessments" id="mob-tag-filter-d3bc567a-5146-49f7-b080-a28078efe2b9">
+                                    <label for="mob-tag-filter-d3bc567a-5146-49f7-b080-a28078efe2b9" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="d3bc567a-5146-49f7-b080-a28078efe2b9">Rec &amp; Well Trek Assessments</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="285a6ed8-ced8-4689-a45e-be6eb2c11bb2" data-name="Small Group Training" id="mob-tag-filter-285a6ed8-ced8-4689-a45e-be6eb2c11bb2">
+                                    <label for="mob-tag-filter-285a6ed8-ced8-4689-a45e-be6eb2c11bb2" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="285a6ed8-ced8-4689-a45e-be6eb2c11bb2">Small Group Training</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="9345a9b3-6787-4d5d-b702-b3ece78efb22" data-name="Special Events" id="mob-tag-filter-9345a9b3-6787-4d5d-b702-b3ece78efb22">
+                                    <label for="mob-tag-filter-9345a9b3-6787-4d5d-b702-b3ece78efb22" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="9345a9b3-6787-4d5d-b702-b3ece78efb22">Special Events</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="24c2d970-2693-4a65-ad32-ff955e6be543" data-name="Strength" id="mob-tag-filter-24c2d970-2693-4a65-ad32-ff955e6be543">
+                                    <label for="mob-tag-filter-24c2d970-2693-4a65-ad32-ff955e6be543" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="24c2d970-2693-4a65-ad32-ff955e6be543">Strength</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="b0a79cc9-7554-48ee-b2ec-e9d10f4d0a86" data-name="Swim Classes" id="mob-tag-filter-b0a79cc9-7554-48ee-b2ec-e9d10f4d0a86">
+                                    <label for="mob-tag-filter-b0a79cc9-7554-48ee-b2ec-e9d10f4d0a86" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="b0a79cc9-7554-48ee-b2ec-e9d10f4d0a86">Swim Classes</label>
+                                    <input type="checkbox" class="btn-check programFilterCheck tagCheckSm" tabindex="-1" data-id="229fb0f9-b665-4dba-9df2-64c56cc25eee" data-name="Total Body" id="mob-tag-filter-229fb0f9-b665-4dba-9df2-64c56cc25eee">
+                                    <label for="mob-tag-filter-229fb0f9-b665-4dba-9df2-64c56cc25eee" class="btn btn-outline-dark me-2 mb-2 programFilterLabel tagLabelSm" data-id="229fb0f9-b665-4dba-9df2-64c56cc25eee">Total Body</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="programFilterContainerMobile tags loader m-n2 d-none">
+                        <div class="d-flex justify-content-center">
+                            <div class="spinner-border" role="status">
+                                <span class="visually-hidden">Loading...</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="programFilterFooter" class="d-grid gap-2 d-sm-flex">
+                <button id="programResetFiltersButton" type="button" tabindex="-1" class="btn btn-outline-secondary w-100">
+                    <span class="material-icons-round md-24">replay</span> Reset
+                </button>
+                <button id="programApplyFiltersButton" type="button" tabindex="-1" class="btn btn-primary w-100">
+                    Apply Filters
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="d-block d-md-none">
+            <button id="programSearchFilterButton" type="button" class="btn btn-primary btn-lg pull-right mb-3">
+                <div class="d-flex align-items-center">
+                    <span class="me-2">Filter</span>
+                    <span class="material-icons-round" style="display:none;">filter_list</span>
+                    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                </div>
+            </button>
+        </div>
+    </div>
+
+    <div id="program-List-Item-Search" class="col" hidden>
+
+
+<h2 class="program-results program-search-results-title text-start">6 Results</h2>
+
+<div class="d-flex flex-wrap justify-content-start m-3">
+
+        <div class="program-list-item" data-page="1">
+            <a href="/Program/GetProgramDetails?courseId=bacd881b-d21f-4fda-aff2-92745442a6c8" class="img-link">
+                <div class="programGridImage" data-id="bacd881b-d21f-4fda-aff2-92745442a6c8">
+                    <img src="/Content/Images/ajax-loader.gif" alt="CPR/AED/First Aid Courses">
+                </div>
+                <div class="card-body text-start p-0 pt-2">
+                    <p class="program-list-item-title text-wrap me-2"><strong>CPR/AED/First Aid Courses</strong></p>
+                    <div class="program-list-price-text mb-3 programPricePlaceholder" data-id="bacd881b-d21f-4fda-aff2-92745442a6c8">$0</div>
+                </div>
+            </a>
+        </div>
+        <div class="program-list-item" data-page="1">
+            <a href="/Program/GetProgramDetails?courseId=4e93d32c-7045-4042-8ccf-9798167b457e" class="img-link">
+                <div class="programGridImage" data-id="4e93d32c-7045-4042-8ccf-9798167b457e">
+                    <img src="/Content/Images/ajax-loader.gif" alt="Lifeguard Certification Course">
+                </div>
+                <div class="card-body text-start p-0 pt-2">
+                    <p class="program-list-item-title text-wrap me-2"><strong>Lifeguard Certification Course</strong></p>
+                    <div class="program-list-price-text mb-3 programPricePlaceholder" data-id="4e93d32c-7045-4042-8ccf-9798167b457e">$0</div>
+                </div>
+            </a>
+        </div>
+        <div class="program-list-item" data-page="1">
+            <a href="/Program/GetProgramDetails?courseId=3bccbab5-6db5-4d7c-973a-3251fcd93fc0" class="img-link">
+                <div class="programGridImage" data-id="3bccbab5-6db5-4d7c-973a-3251fcd93fc0">
+                    <img src="/Content/Images/ajax-loader.gif" alt="Lifeguard Instructor Course">
+                </div>
+                <div class="card-body text-start p-0 pt-2">
+                    <p class="program-list-item-title text-wrap me-2"><strong>Lifeguard Instructor Course</strong></p>
+                    <div class="program-list-price-text mb-3 programPricePlaceholder" data-id="3bccbab5-6db5-4d7c-973a-3251fcd93fc0">$0</div>
+                </div>
+            </a>
+        </div>
+        <div class="program-list-item" data-page="1">
+            <a href="/Program/GetProgramDetails?courseId=c8dec718-b1a6-4156-a32b-45814c76ca69" class="img-link">
+                <div class="programGridImage" data-id="c8dec718-b1a6-4156-a32b-45814c76ca69">
+                    <img src="/Content/Images/ajax-loader.gif" alt="Lifeguard Recertification Course">
+                </div>
+                <div class="card-body text-start p-0 pt-2">
+                    <p class="program-list-item-title text-wrap me-2"><strong>Lifeguard Recertification Course</strong></p>
+                    <div class="program-list-price-text mb-3 programPricePlaceholder" data-id="c8dec718-b1a6-4156-a32b-45814c76ca69">$0</div>
+                </div>
+            </a>
+        </div>
+        <div class="program-list-item" data-page="1">
+            <a href="/Program/GetProgramDetails?courseId=f7cbd5f3-fd8c-48ac-85fa-597ece91d107" class="img-link">
+                <div class="programGridImage" data-id="f7cbd5f3-fd8c-48ac-85fa-597ece91d107">
+                    <img src="/Content/Images/ajax-loader.gif" alt="Summer Certification Programs">
+                </div>
+                <div class="card-body text-start p-0 pt-2">
+                    <p class="program-list-item-title text-wrap me-2"><strong>Summer Certification Programs</strong></p>
+                    <div class="program-list-price-text mb-3 programPricePlaceholder" data-id="f7cbd5f3-fd8c-48ac-85fa-597ece91d107">$0</div>
+                </div>
+            </a>
+        </div>
+        <div class="program-list-item" data-page="1">
+            <a href="/Program/GetProgramDetails?courseId=d1981212-ff8d-4068-b947-a07508bda3b8" class="img-link">
+                <div class="programGridImage" data-id="d1981212-ff8d-4068-b947-a07508bda3b8">
+                    <img src="/Content/Images/ajax-loader.gif" alt="Water Safety Instructor ">
+                </div>
+                <div class="card-body text-start p-0 pt-2">
+                    <p class="program-list-item-title text-wrap me-2"><strong>Water Safety Instructor </strong></p>
+                    <div class="program-list-price-text mb-3 programPricePlaceholder" data-id="d1981212-ff8d-4068-b947-a07508bda3b8">$0</div>
+                </div>
+            </a>
+        </div>
+
+</div>
+
+    </div>
+
+    <div id="program-landing-page" class="col-xl-9 col-lg-8 col-md-7 align-self-center">
+
+    </div>
+
+</div>
+
+<input data-val="true" data-val-required="The SelectedClassification field is required." id="SelectedProgramClassification" name="SelectedClassification" type="hidden" value="67d40ac0-c1bd-42cf-a326-d41a949234e9" />
+
+
+                        <br />
+                    </div>
+
+
+                </div>
+
+                
+
+                <button type="button" class="cd-top btn btn-primary" aria-label="Scroll to Top">
+                    <div class="d-flex align-items-center"><span class="material-icons-round">keyboard_arrow_up</span></div>
+                </button>
+
+                <div id="mJavascriptError" class="modal fade" tabindex="-1" aria-hidden="true" aria-labelledby="JavascriptErrorTitle">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h2 class="modal-title global-Modal-Header-H5-FontSize" id="JavascriptErrorTitle">Error</h2>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <p id="JavascriptErrorDescription"></p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <input type="hidden" value="Do you want to leave this site? Changes you made may not be saved." id="hdn-navigate-away-message" />
+
+                <div id="loading">
+                    <div id="loadingcontent" style="">
+                        <p id="loadingspinner" style="">
+                            Loading ...
+                        </p>
+                    </div>
+                </div>
+
+                <div id="divLoginModal">
+                    
+                </div>
+                <div id="toastNote"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="toast position-fixed" id="accountCreationToastId" role="alert" aria-live="assertive" aria-atomic="true" data-autohide="false" aria-labelledby="accountCreationToastId-title">
+        <div class="toast-body">
+            <div class="mb-1">
+                <strong id="accountCreationToastId-title" class="me-auto">Account created!</strong>
+            </div>
+            <div class="mt-2">
+                A confirmation email will be sent to you shortly.
+            </div>
+            <div class="text-end mt-3">
+                <a href="#" class="text-body me-4" data-bs-dismiss="toast">DISMISS</a>
+                <a id="aLayoutRedirectToProfile" href="#" class="text-body" data-bs-dismiss="toast"><strong>COMPLETE PROFILE</strong></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="toast position-fixed" id="recoveredOrderToastId" role="complementary" aria-live="assertive" aria-atomic="true" data-autohide="false" aria-labelledby="recoveredOrderToastId-title">
+        <div class="toast-body">
+            <div class="mb-1">
+                <strong id="recoveredOrderToastId-title" class="me-auto">Order Recovered</strong>
+            </div>
+            <div class="mt-2">
+                Your previous checkout was not completed and has been recovered.
+            </div>
+            <div class="text-end mt-3">
+                <a href="#" id="recoveredOrderDismiss" class="text-body me-4" data-bs-dismiss="toast" aria-label="Close"><strong>DISMISS</strong></a>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="overlay"></div>
+    <div class="overlay-secondary"></div>
+
+<div id="ecContentFooter" data-id="00000000-0000-0000-0000-000000004193" class="editableCustomContent">
+	
+</div>
+
+
+
+<footer class="container-fluid FooterBar FooterBarBg">
+		<div id="ecFooter" class="editableCustomContent" data-id="00000000-0000-0000-0000-000000004188">
+			<div class="SchoolFooter row">
+<div class="container">
+<div class="row">
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"><img alt="School Logo" src="/Content/Images/logo-dominion-white.png" /></div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+<div class="SchoolInfo">
+<h4>Old Dominion University</h4>
+<p>Norfolk, VA 23529<br /><a href="https://www.odu.edu/about/contact">Contact &amp; Mailing Info</a><br /><a href="https://www.odu.edu/about/visitors/directions">Directions to Campus</a></p>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+<div class="SchoolInfo">
+<h4>Quick Links</h4>
+<p><a href="https://www.odu.edu/admission">Apply Now</a><br /><a href="https://www.odu.edu/about/support-odu" target="_blank" rel="noopener noreferrer">Support ODU</a><br /><a href="https://www.odu.edu/about/visitors" target="_blank" rel="noopener noreferrer">Visitor's Guide</a></p>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+<div class="SchoolInfo">
+<h4>&nbsp;</h4>
+<p><a href="https://www.odu.edu/employment">Employment</a> <br /><a href="https://www.odu.edu/media" target="_blank" rel="noopener noreferrer">News &amp; Media</a> <br /><a href="https://www.odu.edu/life/health-safety/alerts" target="_blank" rel="noopener noreferrer">Campus Alerts</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="FusionFooter row">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
+<div class="FooterLinkGroup">
+<div class="copyright copyrightTextColor">&copy; <span class="ecDateTime_Year">2026</span> Innosoft Canada. All rights reserved.</div>
+<a class="FooterLink FooterLinkColor" href="/Home/Contact">Contact Us</a> <a class="FooterLink FooterLinkColor" href="/Home/About">About Us</a> <a class="FooterLink FooterLinkColor" href="/Home/Terms">Terms Of Use</a></div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+<div class="FooterLogo"><a title="Powered By Fusion" href="http://www.innosoftfusion.com"> <img alt="Powered By Fusion" src="/Content/Images/Fusion-Icon-Light.png" /> </a></div>
+</div>
+</div>
+</div>
+</div>
+		</div>	
+</footer>
+
+
+    
+
+    <script type="text/javascript" nonce="c785a85ee56a4bb99bbb72439cf7c33b">
+		document.getElementById("aLayoutRedirectToProfile").addEventListener("click", function () { redirectToProfile() });
+        document.getElementById("recoveredOrderDismiss").addEventListener("click", function () { dismissRecoveredOrder() });
+
+	var jsErrorMessages_Refresh = 'Error while loading data! Refresh page and try again!';
+	var jsErrorMessages_JSError = 'Error occured while loading data!';
+	var jsErrorMessages_Error = 'Error';
+	var InnosoftUrls = {
+		PriceAPI: '/api/Price/GetPrices',
+		ProductAPI: '/api/product'
+	};
+	var InnosoftConstants = {
+		GuidEmpty: '00000000-0000-0000-0000-000000000000'
+	};
+    </script>
+
+    <div id="section-tinymcescripts"></div>
+
+    <script type="text/javascript" src="/bundles/innosoftPostScript?v=VS420-jJOYUSddCrj6KgI5LE8kU2xrbq33f6t2GZ-VQ1" nonce="c785a85ee56a4bb99bbb72439cf7c33b"></script>
+
+    
+    <script nonce="c785a85ee56a4bb99bbb72439cf7c33b" type="text/javascript">
+		var InnosoftProgramSearchLangTerms = {
+			ProgramSearch_PageTitle: 'Program Search',
+			ProgramSearch_FoundWithFilters: 'found with the following filters:',
+        };
+    </script>
+
+
+</body>
+</html>
+

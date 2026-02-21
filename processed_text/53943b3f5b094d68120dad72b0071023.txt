@@ -1,0 +1,26 @@
+Let's get signed into the ODU Rec Well app!
+Current ODU Students, Faculty & Staff:
+Click the "Rec ID" icon
+Click "ODU MIDAS ID"
+Log in using your MIDAS credentials
+You're all set! If you experience issues with MIDAS or anything else, please complete this form to let us help you.
+Alumni, Affiliate & Community members:
+If you have an existing Rec Well Portal login, then use that username and password to log into the app via the "Local Account" button on the Rec ID section of the app.
+If you do not have a Rec Well Portal account yet, please complete this form or email Brittany Williams at bewillia@odu.edu to receive assistance in setting up your online account.
+Notification Settings
+Turn on notifications!
+Make sure your phone push notification settings are turned on for the ODU Rec Well app.
+In the app, go to the top left corner and click the 3 lines.
+Click "Notifications"
+Turn on the general notifications to receive important updates like building closures, big announcements, etc.
+If you're interested in getting additional notifications about more specific topics such as fitness offerings, job alerts, etc. please turn the appropriate categories on in the app.
+Troubleshooting
+Running into an error? Try these 3 steps before submitting the error form!
+Disconnect your device from wifi while opening or logging into the app.
+Select the "Clear Barcode" button and if prompted, try logging in again.
+Uninstall and re-install the app.
+Are you receiving the "Permission to track activity denied" error? Try this!
+Go to iPhone settings
+Click "Privacy"
+Click "Tracking"
+Make sure "Allow Apps to Request to Track" is turned on for the ODU Rec Well App.

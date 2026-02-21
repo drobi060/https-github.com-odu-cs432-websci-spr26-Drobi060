@@ -1,0 +1,10 @@
+Take Survey
+The Computer Science Exit Exam must be taken prior to the end of the semester in which you intend to graduate. Each student must pass this exam by scoring above the lowest tenth percentile of the national average. Students may take the exam twice at the Department's expense. Failure to achieve a score higher than the 10th percentile will require an oral exam (whiteboard format) conducted by two or more members of the Department's Undergraduate Committee.
+It is recommended that you take the exam in your last semester at ODU to maximize your knowledge. You may opt to take it earlier.
+The exam is provided online and must be proctored. It contains a brief survey, a tutorial of the tool, and two 60 minute exam sections. Plan on 2.5 hours (150 minutes). Sample test questions are available. A tutorial/review session archive is also available for your review.
+The exam will be proctored, and registration is required. To accommodate work and class schedules exam sessions are scheduled:
+March 6th at 10:00 a.m.
+Or April 24th at 10:00 a.m.
+The due date to register for the CS Senior Exit Exam is March 1st
+All exam participants are required to complete the CS Exit Survey .
+Computer Science

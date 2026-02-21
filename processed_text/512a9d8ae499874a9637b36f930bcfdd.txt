@@ -1,0 +1,163 @@
+Ph.D. in Computer Science, Cornell University, (1992)
+M.S. in Computer Science, Cornell University, (1990)
+Other in Computer Science, Indian Institute of Technology Kanpur, (1987)
+Contracts, Grants and Sponsored Research
+Ranjan, D. "BPC-A: Computing Alliance for Hispanic-Serving Institutions" $2,000,000. Federal. -
+Ranjan, D. "An Innovative GPU-Optimized Multiscale Code for High-Fidelity Simulation of Collective Eects in Electron Beams" $473,315. 2015 - 2018
+Ranjan, D. "ABI Innovation: Advanced Informatics and Eective Algorithms for Improved CryoEM Protein Structure Prediction and Density Analysis" $589,703. 2014 - 2017
+Ranjan, D. "Advanced Phylogenomics of the Human and Animal Pathogen Mycobac- terium Marinum" $100,000. 2014 - 2016
+Ranjan, D. "High-Performance Particle Collider Simulations on Parallel Computing Platforms" $40,000. Old Dominion University. 2014 - 2016
+Ranjan, D. "Migration of Larc Codes To Next-Generation Hpc Architectures: GPU" $23,660. Other. December 1, 2015 - November 30, 2016
+Ranjan, D. "Algorithms and Software Development for QCD computations on Xeon-Phi Architecture. 2014 -
+Ranjan, D. "Doctoral Student support for computational physics" $65,000. 2012 -
+Ranjan, D. "AE: Computing Alliance for Hispanic-Serving Insitutions" $2,000,000. Federal. 2009 - 2012
+Ranjan, D. "Collaborative Research: Learning Discrete Mathematics and Computer Science via Primary Historical Sources" $500,000. Federal. 2008 - 2011
+Ranjan, D. "IGERT: Computational Molecular Biology Group" $2,963,687. Federal. 2005 - 2010
+Ranjan, D. "Designing an effective real-time methodology to evaluate circadian rhythm in cultured breast cell lines" $50,000. State. 2009 - 2009
+Ranjan, D. "CREST: Center for Research Excellence in Bioinformatics and Computational Biology" $4,500,000. Federal. 2004 - 2009
+Ranjan, D. "Frameworks for the Development of Efficient and Scalable Knowledge-based Systems" $1,500,000. Federal. 2003 - 2009
+Ranjan, D. "Bioinformatics Analysis for understanding Nitrogen Assimilation in Plants" $50,000. State. 2007 - 2008
+Ranjan, D. "Graduate Assistants in Areas of National Need" $495,840. Federal. 2003 - 2008
+Ranjan, D. "SBIR Phase II: Cheminformatics Teaching Tools for Cheminformatics Virtual Classroom" $105,000. Federal. 2006 - 2007
+Ranjan, D. "CRI: Computing Support for the Next Generation Application-driven Delarative Programming Systems" $102,879. Federal. 2005 - 2007
+Ranjan, D. "Improving Protein Secondary Structure Prediction using 3-dimensional Spatial Constraints of the Protein" $122,000. Federal. 2005 - 2007
+Ranjan, D. "Phylogenetic predictions of the capabilities of novel biothreat agents" $135,000. Federal. 2005 - 2007
+Ranjan, D. "Collaborative Research: The Impact of Rapid Anthropogenic Land Cover Change in the Chaco and Interior Atlantic Forest in Paraguay on Hantavirus Ecology" $186,000. Federal. 2004 - 2007
+Ranjan, D. "Teaching Discrete Mathematics via Original Historical Sources" $74,432. Federal. 2003 - 2006
+Ranjan, D. "Cellular and Molecular Interactions among Genes in Cerebellar Development over Time and Space" $22,000. Federal. June 2006 - August 2006
+Ranjan, D. "Small angle x-ray scattering studies of lipi/cholesterol bilayers, aerogel biosensors, and nanocomposite thermites" $26,000. Federal. June 2006 - August 2006
+Expertise
+Research Interests
+Dr. Ranjan is primarily interested in the development of efficient algorithms and bioinformatics tools for solving biologically important problems. The scholar's more general research and teaching interests are in efficient data structure and algorithm design and analysis, computational complexity theory, parallel computation, discrete mathematics, and optimization and approximation
+Select Publications
+Articles
+Biswas, A., Ranjan, D., Zubair, M., Zeil, S., Al Nasr, K. and He, J. (2017).  An effective computational method incorporating multiple secondary structure predictions in topology determination for cryo-EM images. IEEE/ACM transactions on computational biology and bioinformatics 14 (3) , pp. 578–586.
+Terzic, B., Majeti, R., Stefani, M., Godunov, A., Morozov, V., Arumugam, K., Lin, F., Satogata, T., Zubair, M., Cotnoir, C. and Ranjan, D. (2017).  Long-Term Simulations of Beam-Beam Dynamics on GPUs.
+Warner, J. E., Zubair, M. and Ranjan, D. (2017).  Near Real-Time Probabilistic Damage Diagnosis Using Surrogate Modeling and High Performance Computing.
+Biswas, A., Ranjan, D., Zubair, M. and He, J. (2015).  A dynamic programming algorithm for finding the optimal placement of a secondary structure topology in Cryo-EM data. Journal of Computational Biology 22 (9) , pp. 837–843.
+Biswas, A., Gauthier, D., Ranjan, D. and Zubair, M. (2015).  ISQuest: finding insertion sequences in prokaryotic sequence fragment data. Bioinformatics 31 (21) , pp. 3406–3412.
+Terzic, B., Hofler, A. S., Reeves, C. J., Khan, S. A., Krafft, G., Benesch, J., Freyberger, A. and Ranjan, D. (2014).  Simultaneous optimization of the cavity heat load and trip rates in linacs using a genetic algorithm. Physical Review Special Topics-Accelerators and Beams 17 (10) , pp. 101003.
+Ranjan, D., He, J., Chen, L., Al Nasr, K. and Zubair, M. (2014).  Solving the Secondary Structure Matching Problem in CryoEM De Novo Modeling using a Constrained K-shortest Path Graph Algorithm. IEEE/ACM Transactions on Computational Biology and Bioinformatics (1) , pp. 1.
+Dasari, N. Shailaja., Ranjan, D. and Zubair, M. (2013).  High-performance implementation of planted motif problem on multicore and GPU. Concurrency and Computation: Practice and Experience 25 (10) , pp. 1340–1355.
+Barnett, J., Bezhanishvili, G., Leung, H., Lodder, J., Pengelley, D., Pivkina, I., Ranjan, D. and Zack, M. (2013).  Primary historical sources in the classroom: Discrete mathematics and computer science. AMC 10 , pp. 12.
+Biswas, A., Si, D., Al Nasr, K., Ranjan, D., Zubair, M. and He, J. (2012).  Improved efficiency in cryo-EM secondary structure topology determination from inaccurate data. Journal of bioinformatics and computational biology 10 (03) , pp. 1242006.
+Ranjan, D., Savage, J. and Zubair, M. (2012).  Upper and lower I/O bounds for pebbling r-pyramids. Journal of Discrete Algorithms 14 , pp. 2–12.
+Ranjan, D. and Zubair, M. (2012).  Vertex isoperimetric parameter of a computation graph. International Journal of Foundations of Computer Science 23 (04) , pp. 941–964.
+Barnett, J., Lodder, J., Pengelley, D., Pivkina, I. and Ranjan, D. (2011).  Designing student projects for teaching and learning discrete mathematics and computer science via primary historical sources. Recent Developments in Introducing a Historical Dimension in Mathematics Education , pp. 189–201.
+Al Nasr, K., Ranjan, D., Zubair, M. and He, J. (2011).  Ranking valid topologies of the secondary structure elements using a constraint graph. Journal of bioinformatics and computational biology 9 (03) , pp. 415–430.
+Ranjan, D. (2009).  Counting Triangulations of a Convex Polygon. Resources for Teaching Discrete Mathematics: Classroom Projects, History Modules, and Articles (74) , pp. 209.
+Ranjan, D. (2009).  Resources for Teaching Discrete Mathematics: Counting Triangulations of a Convex Polygon.
+Ranjan, D. (2008).  Euclid’s Algorithm for the Greatest Common Divisor, www. cs. nmsu. edu/historical-projects/Projects/EuclidGCD. pdf. Citeseer.
+Barnett, J., Bezhanishvili, G., Leung, H., Lodder, J., Pengelley, D., Pivkina, I. and Ranjan, D. (2007).  Collaborative Research: Learning Discrete Mathematics and Computer Science via Primary Historical Sources.
+Dubhashi, D., Jonasson, J. and Ranjan, D. (2007).  Positive Influence and Negative Dependence. Combinatorics, Probability, and Computing 16 (1) , pp. 29-47.
+Dal Palu, A., Pontelli, E. and Ranjan, D. (2006).  Sequential and Parallel Algorithms for the NCA Problem on Pure Pointer Machines. Theoretical Computer Science 352 (1-3) , pp. 108-135.
+Pontelli, E. and Ranjan, D. (2005).  A Simple Optimal Solution for the Temporal Precedence Problem on Pure Pointer Machines. Theory of Computing Systems 38 (1) , pp. 115-130.
+Harary, F. and Ranjan, D. (2005).  Identity Orientation of Complete Bipartite Graphs. Discrete Mathematics 290 (2/3) , pp. 173-182.
+Ranjan, D., Tang, D. and Malik, S. (2004).  A Comparative Study of 2QBF Algorithms.. SAT 4 , pp. 323–328.
+Pontelli, E., Ranjan, D., Gupta, G. and Milligan, B. (2003).  Design and implementation of a domain specific language for phylogenetic inference. Journal of bioinformatics and computational biology 1 (02) , pp. 201–230.
+Ranjan, D. and Pontelli, E. (2003).  The level-ancestor problem on pure pointer machines. Information processing letters 85 (5) , pp. 275–283.
+Dal Palú, A., Pontelli, E. and Ranjan, D. (2002).  An optimal algorithm for finding NCA on pure pointer machines. Algorithm Theory—SWAT 2002 , pp. 428–438.
+Pontelli, E., Ranjan, D. and Dal Palú, A. (2002).  An optimal data structure to handle dynamic environments in non-deterministic computations. Computer Languages, Systems & Structures 28 (2) , pp. 181–201.
+Pontelli, E. and Ranjan, D. (2002).  Ancestor problems on pure pointer machines. Lecture notes in computer science , pp. 263–277.
+Futamura, N., Aluru, S., Ranjan, D. and Hariharan, B. (2002).  Efficient parallel algorithms for solvent accessible surface area of proteins. IEEE Transactions on Parallel and Distributed Systems 13 (6) , pp. 544–555.
+Iglesias, J. Raymundo., Gupta, G., Pontelli, E., Ranjan, D. and Milligan, B. (2001).  Interoperability between bioinformatics tools: A logic programming approach. Lecture notes in computer science 1990 , pp. 153–168.
+Ranjan, D., Pontelli, E. and Gupta, G. (2000).  Data structures for order-sensitive predicates in parallel nondeterministic systems. Acta Informatica 37 (1) , pp. 21–43.
+Ranjan, D., Pontelli, E., Gupta, G. and Longpré, L. (2000).  The temporal precedence problem. Algorithmica 28 (3) , pp. 288–306.
+Ranjan, D., Pontelli, E. and Gupta, G. (1999).  On the complexity of or-parallelism. New Generation Computing 17 (3) , pp. 285–307.
+Alura, S., Ranjan, D. and Futamura, N. (1999).  Session VA: Parallel Applications-Chair: CP Ravikumar, Indian Institute of Technology, Delhi A Parallel Monte Carlo Algorithm for Protein Accessible Surface Area Computation. Lecture Notes in Computer Science 1745 , pp. 339–348.
+Harary, F. and Ranjan, D. (1998).  Breaking symmetry in complete graphs by orienting edges: asymptotic bounds. Information processing letters 67 (5) , pp. 227–230.
+Ranjan, D., Pontelli, E. and Gupta, G. (1998).  Efficient algorithms for the temporal precedence problem. Information processing letters 68 (2) , pp. 71–78.
+Borchert, B., Ranjan, D. and Stephan, F. (1998).  On the computational complexity of some classical equivalence relations on Boolean functions. Theory of Computing Systems 31 (6) , pp. 679–693.
+Pontelli, E., Ranjan, D. and Gupta, G. (1998).  The complexity of late-binding in dynamic object-oriented languages. Principles of Declarative Programming , pp. 213–229.
+Asano, T., Ranjan, D., Roos, T., Welzl, E. and Widmayer, P. (1997).  Space-filling curves and their use in the design of geometric data structures. Theoretical Computer Science 181 (1) , pp. 3–15.
+Dubhashi, D. P. and Ranjan, D. (1996).  Balls and bins: A study in negative dependence. BRICS Report Series 3 (25).
+Asano, T., Ranjan, D. and Roos, T. (1996).  Digital halftoning algorithms based on optimization criteria and their experimental evaluation. IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences 79 (4) , pp. 524–532.
+Dubhashi, D. P., Priebe, V. and Ranjan, D. (1996).  Negative dependence through the FKG inequality. BRICS Report Series 3 (27).
+Leung, H., Ranjan, D., Hernández, H. J., Tang, D. and González, A. (1995).  A simple proof on the decidability of equivalence between recursive and nonrecursive Datalog programs. Information processing letters 55 (5) , pp. 279–282.
+Asano, T., Ranjan, D., Roos, T., Welzl, E. and Widmayer, P. (1995).  Space filling curves and their use in the design of geometric data structures. LATIN’95: Theoretical Informatics , pp. 36–48.
+Dubhashi, D. P. and Ranjan, D. (1994).  Some correlation inequalities for probabilistic analysis of algorithms. Max-Planck-Institut für Informatik.
+Dubhashi, D. P. and Ranjan, D. (1994).  Stochastic majorisation: exploding some myths. Max-Planck-Institut für Informatik.
+Chang, R., Chor, B., Goldreich, O., Hartmanis, J., Håstad, J., Ranjan, D. and Rohatgi, P. (1994).  The random oracle hypothesis is false. Journal of Computer and System Sciences 49 (1) , pp. 24–39.
+Ranjan, D. and Rus, D. (1993).  A tool for the analysis of manipulation. Information processing letters 45 (3) , pp. 117–121.
+Dubhashi, D. P., Ranjan, D., Mehlhorn, K. and Thiel, C. (1993).   Foundations of software technology and theoretical computer science (FSTTCS-93): 13th conference. Springer.
+Ranjan, D., Chari, S. and Rohatgi, P. (1993).  Improving known solutions is hard. computational complexity 3 (2) , pp. 168–185.
+Borchert, B. and Ranjan, D. (1993).  The circuit subfunction relations are $ sum P_2 $-complete. Max-Planck-Institut für Informatik.
+Chang, R., Chari, S., Ranjan, D. and Rohatgi, P. (1992).  Relativization: a revisionistic retrospective. Bulletin of the EATCS 47 , pp. 144–153.
+Ranjan, D., Chari, S. and Rohatgi, P. (1991).  Improving known solutions is hard. Automata, Languages and Programming , pp. 381–392.
+Ranjan, D., Chang, R. and Hartmanis, J. (1991).  Space bounded computations: Review and new separation results. Theoretical Computer Science 80 (2) , pp. 289–302.
+Hartmanis, J., Chang, R., Ranjan, D. and Rohatgi, P. (1990).  Structural complexity theory: recent surprises. SWAT 90 , pp. 1–12.
+Books
+Hopkins, B. and Ranjan, D. (2009). Resources for Teaching Discrete Mathematics: Classroom Projects, History Modules, and Articles. MAA.
+Book Chapters
+Ranjan, D. (2009).  Counting Triangulations of a Convex Polygon Resources for Teaching Discrete Mathematics: Classroom Projects, History Modules, and Articles (pp. 209-215) Mathematical Association of America MAA Notes 74.
+Barnett, J., Lodder, J., Pengelley, D., Pivkina, I. and Ranjan, D. (2009).  Designing student projects for teaching and learning discrete mathematics and computer science via primary historical sources Recent Developments on Introducting a Historical Dimension in Mathematics Education Washington, D.C.: Mathematical Association of America.
+Dal Palú, A., Pontelli, E. and Ranjan, D. (2002).  An Efficient Parallel Pointer Machine Algorithm for the NCA Problem Foundations of Information Technology in the Era of Network and Mobile Computing (pp. 157–168) Springer.
+Conference Proceeding
+Arumugam, K., Ranjan, D., Zubair, M., Terzic, B., Godunov, A. and Islam, T. (2017).  A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs Parallel Processing (ICPP), 2017 46th International Conference on (pp. 462–471).
+Arumugam, K., Majeti, R. Teja., Ranjan, D., Zubair, M., Godunov, A. and Terzic, B. (2017).  GPU-accelerated high-fidelity simulation of beam-beam effects in particle colliders Proceedings of the Summer Simulation Multi-Conference (pp. 5).
+Terzic, B., Arumugam, K., Duffin, D., Godunov, A., Islam, T., Ranjan, D., Sangam, S. and Zubair, M. (2017).  Simulations of Coherent Synchrotron Radiation on Parallel Hybrid GPU/CPU Platform 8th Int. Particle Accelerator Conf.(IPAC’17), Copenhagen, Denmark, 14a 19 May, 2017 (pp. 3915–3917).
+Haslam, D., Zubair, M., Ranjan, D., Biswas, A. and He, J. (2016).  Challenges in matching secondary structures in cryo-EM: An exploration Bioinformatics and Biomedicine (BIBM), 2016 IEEE International Conference on (pp. 1714–1719).
+Terzic, B., Arumugam, K., Lin, F., Morozov, V., Ranjan, D., Roblin, Y., Zhang, H. and Zubair, M. (2016).  High-Fidelity Simulations of Long-Term Beam-Beam Dynamics on GPUs 12th Int. Computational Accelerator Physics Conf.(ICAP’15), Shanghai, China, 12-16 October 2015 (pp. 40–43).
+Arumugam, K., Ranjan, D., Zubair, M., Terzic, B. and Godunov, A. (2016).  Memory-Efficient Parallel Simulation of Electron Beam Dynamics Using GPUs High Performance Computing (HiPC), 2016 IEEE 23rd International Conference on (pp. 212–221).
+Walden, A., Khan, S., Joó, B., Ranjan, D. and Zubair, M. (2016).  Optimizing a multiple right-hand side Dslash kernel for intel knights corner International Conference on High Performance Computing (pp. 390–401).
+Biswas, A., Ranjan, D., Zubair, M. and He, J. (2015).  A novel computational method for deriving protein secondary structure topologies using Cryo-EM density maps and multiple secondary structure predictions International Symposium on Bioinformatics Research and Applications (pp. 60–71).
+Arumugam, K., Ranjan, D., Zubair, M., Godunov, A. and Terzic, B. (2015).  High-fidelity simulation of collective effects in electron beams using an innovative parallel method Proceedings of the Conference on Summer Computer Simulation (pp. 1–10).
+Biswas, A., Gauthier, D., Ranjan, D. and Zubair, M. (2014).  Big data challenges for estimating genome assembler quality Proceedings of the 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (pp. 653–660).
+Dasari, N. Shailaja., Ranjan, D. and Mohammad, Z. (2014).  Maximal clique enumeration for large graphs on hadoop framework Proceedings of the first workshop on Parallel programming for analytics applications (pp. 21–30).
+Dasari, N. Shailaja., Ranjan, D. and Zubair, M. (2014).  ParK: An efficient algorithm for k-core decomposition on multicore processors Big Data (Big Data), 2014 IEEE International Conference on (pp. 9–16).
+Dasari, N. Shailaja., Ranjan, D. and Zubair, M. (2014).  pbitMCE: A bit-based approach for maximal clique enumeration on multicore processors Parallel and Distributed Systems (ICPADS), 2014 20th IEEE International Conference on (pp. 478–485).
+Nasr, K. Al., Chen, L., Ranjan, D., Zubair, M., Si, D. and He, J. (2013).  A constrained k-shortest path algorithm to rank the topologies of the protein secondary structure elements detected in cryoem volume maps Proceedings of the International Conference on Bioinformatics, Computational Biology and Biomedical Informatics (pp. 749).
+Arumugam, K., Godunov, A., Ranjan, D., Terzic, B. and Zubair, M. (2013).  A memory efficient algorithm for adaptive multidimensional integration with multiple GPUs High Performance Computing (HiPC), 2013 20th International Conference on (pp. 169–175).
+Arumugam, K., Godunov, A., Ranjan, D., Terzic, B. and Zubair, M. (2013).  An efficient deterministic parallel algorithm for adaptive multidimensional numerical integration on GPUs Parallel Processing (ICPP), 2013 42nd International Conference on (pp. 486–491).
+Biswas, A., Ranjan, D. and Zubair, M. (2013).  Genome Assembly on a Multicore System Trust, Security and Privacy in Computing and Communications (TrustCom), 2013 12th IEEE International Conference on (pp. 1233–1240).
+Dal Palü, A., Pontelli, E. and Ranjan, D. (2013).  MACHINE ALGORITHM FOR THE NCA PROBLEM Foundations of Information Technology in the Era of Network and Mobile Computing: IFIP 17th World Computer Congress—TC1 Stream/2nd IFIP International Conference on Theoretical Computer Science (TCS 2002) August 25–30, 2002, Montréal, Québec, Canada (pp. 157).
+Al Nasr, K., Chen, L., Si, D., Ranjan, D., Zubair, M. and He, J. (2012).  Building the initial chain of the proteins through de novo modeling of the cryo-electron microscopy volume data at the medium resolutions Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine (pp. 490–497).
+Biswas, A., Si, D., Al Nasr, K., Ranjan, D., Zubair, M. and He, J. (2011).  A Constraint Dynamic Graph Approach to Identify the Secondary Structure Topology from cryoEM Density Data in Presence of Errors Bioinformatics and Biomedicine (BIBM), 2011 IEEE International Conference on (pp. 160–163).
+Dasari, N. Shailaja., Ranjan, D. and Zubair, M. (2011).  High performance implementation of planted motif problem using suffix trees High Performance Computing and Simulation (HPCS), 2011 International Conference on (pp. 200–206).
+Biswas, A., Ranjan, D. and Zubair, M. (2011).  Parallelization of mira whole genome and est sequence assembler Workshop on Parallel Algorithms and Software for Analysis of Massive Graphs (ParGraph).
+Dasari, N. S.., Zubair, M. and Ranjan, D. (2010).  Solving Planted Motif Problem on GPU Vienna, Austria: The 19th International Conference on Parallel Architectures and Compilation Techniques (PACT).
+Al Nasr, K., Ranjan, D. and He, J. (2010).  Enumeration of the Geometrically Constrained Alignments of the Secondary Structures Using Constraint Graph Chongqing: International Conference on Bioinformatics and Systems Biology (BSB 2010).
+Ranjan, D., Savage, J. and Zubair, M. (2010).  Upper and Lower I/O Bounds for Pebbling r-pyramids London: International Workshop on Combinatorial Algorithms (IWOCA2010).
+Dasari, N. S.., Ranjan, D. and Zubair, M. (2010).  An Efficient Multicore Implementation of Planted Motif Problem Caen: An Efficient Multicore Implementation.
+Simon, B., Sengupta-Gopalan, C., Yelavarthi, P. and Ranjan, D. (2010).  Computational and Biological Approach to Understand the 3 UTR-mediated Posttranscriptional Regulation of Alfalfa Cytosolic Glutamine Synthetase Genes Hawaii: Proceedings of hte 2nd International Conference on Bioinformatics and Computational Biology (BICoB2010).
+Vasudevan-Simon, B., Sengupta-Gopalan, C., Yelavarthi, P. K. and Ranjan, D. (2009).  Computational analysis using CisFind of the 3’UTR of cytosolic Glutamine synthetase genes involved in posttranscriptional regulation Bioinformatics and Biomedicine Workshop, 2009. BIBMW 2009. IEEE International Conference on (pp. 343–343).
+Cloteaux, B. and Ranjan, D. (2009).  Lower Bounds for Accessing Information on Pure Pointer Machines (pp. 103-107) FCS '09: Proceedings of the International Conference on Foundations of Computer Science.
+Pivkina, I., Ranjan, D. and Lodder, J. (2009).  Historical Sources as a Teaching Tool Chattanooga, TN: Proceedings of the 40th ACM Technical Symposium on Computer Science Education 2009.
+Beheshti, M., Alo, R. A.., Fernanadez, J., Gates, A., Ranjan, D., Boadi, A., Villaverde, K., Hug, S., Thirty, H. and Barker, L. (2008).  Work in Progress -CS0 Course Implementation in Computer Science IEEE Frontiers in Education 2008.
+Barnett, J., Lodder, J., Pengelley, D., Pivkina, I. and Ranjan, D. (2008).  Designing student projects for teaching and learning discrete mathematics and computer science via primary historical sources Mexico City: History and Pedagogy of Mathematics satellite meeting of the 11th International Congress on Mathematics Education.
+Lodder, J., Barnett, J., Bezhanishvilli, G., Leung, H., Pengelley, D. and Ranjan, D. (2008).  Historical Projects in Discrete Mathematics and Computer Science Monterrey: International Congress on Mathematics Education.
+Ji, T., Ranjan, D., Curry, J. and O’Connell, M. (2007).  Computational Identification of Cis-regulatory Elements Associated with Pungency of Chili Peppers Bioinformatics and Bioengineering, 2007. BIBE 2007. Proceedings of the 7th IEEE International Conference on (pp. 1188–1192).
+Ji, T., Ranjan, D., Curry, J. and O'Connell, M. (2007).  Computational Indentification of Cis-regulatory Elements Associated with Pungency of Chili Peppers (pp. 1188-1192) IEEE Bioinformatics and Bio-Engineering 2007.
+Ji, T., Gopavarapu, K., Ranjan, D., Vasudevan, B., Gopalan, C. S.. and O'Connell, M. (2007).  Tools for Cis-element Recognition and Phylogenetic Tree Construction Based on Conserved Patterns (pp. 1-6) Computers and their Applications 2007.
+Alo, R., Behesti, M., Fernandez, J., Gates, A. and Ranjan, D. (2007).  Work in Prgoress - Peer-Led Team Learning Implementation in Computer Science IEEE Frontiers in Education 2007.
+Aló, R. A., Beheshti, M., Fernandez, J., Gates, A. Quiroz. and Ranjan, D. (2007).  Work in progress-peer-led team learning implementation in computer science Frontiers In Education Conference-Global Engineering: Knowledge Without Borders, Opportunities Without Passports, 2007. FIE’07. 37th Annual (pp. S4A–7).
+Ji, T., Vasudevan, B., Ranjan, D. and Gopalan, C. S.. (2007).  Combination of Computational and Biological Appraoches for Cis-regulatory Element Recognition in Glutamine Synthetase Sequences Pattern Recognition in Bioinformatics 2007.
+Pengelley, D., Pivkina, I., Ranjan, D. and Villaverde, K. (2006).  A Project in Algorithms based on a Primary Historical Source about Catalan Numbers ACM Technical symposium on Computer Science Education (SIGCSE 2006).
+Cloteaux, B. and Ranjan, D. (2006).  Some separation results between classes of pointer algorithms Workshop on Description Complexity of Formal Systems.
+Wu, Y., Pontelli, E. and Ranjan, D. (2005).  Computational Issues in Exploiting Dependent And-Parallelism in Logic Programming: Leftness Detection in Dynamic Search Trees (pp. 79-94) 12th International Conference on Logic Programming and Artificial Intelligence Reasoning (LPAR), Lecture Notes in Computer Science #3835.
+Tang, D., Yu, Y., Ranjan, D. and Malik, S. (2004).  Analysis of search based algorithms for satisfiability of propositional and quantified boolean formulas arising from circuit state space diameter problems International Conference on Theory and Applications of Satisfiability Testing (pp. 292–305).
+He, J., Ranjan, D., Jiang, W., Chiu, W. and Schmid, M. F. (2004).  Detecting local symmetry axis in 3-dimensional virus structures Proceedings of the second conference on Asia-Pacific bioinformatics-Volume 29 (pp. 265–270).
+Son, T. Cao., Pontelli, E., Ranjan, D., Milligan, B. and Gupta, G. (2003).  An agent-based domain specific framework for rapid prototyping of applications in evolutionary biology International Workshop on Declarative Agent Languages and Technologies (pp. 76–96).
+Wu, Y., Pontelli, E. and Ranjan, D. (2003).  On the complexity of dependent and-parallelism in logic programming ICLP (pp. 361–376).
+Pontelli, E., Ranjan, D., Milligan, B. and Gupta, G. (2002).  /spl Phi/LOG: a domain specific language for solving phylogenetic inference problems Bioinformatics Conference, 2002. Proceedings. IEEE Computer Society (pp. 9–20).
+Gupta, G., Guo, H. Feng., Karshmer, A. I., Pontelli, E., Iglesias, J. Raymundo., Ranjan, D., Milligan, B., Datta, N., El Khatib, O., Noamany, M. and others (2002).  Semantics-based filtering 4th International Symposium on Practical Applications of Declarative Languages, PADL 2002.
+Futamura, N., Aluru, S., Ranjan, D. and Mehrotra, K. (2000).  Efficient algorithms for protein solvent accessible surface area High Performance Computing in the Asia-Pacific Region, 2000. Proceedings. The Fourth International Conference/Exhibition on (pp. 586–592).
+Aluru, S., Ranjan, D. and Futamura, N. (1999).  A parallel Monte Carlo algorithm for protein accessible surface area computation HiPC (pp. 339–348).
+Pontelli, E., Ranjan, D. and Gupta, G. (1997).  On the complexity of parallel implementation of logic programs Foundations of Software Technology and Theoretical Computer Science (pp. 123–137).
+Borchert, B., Ranjan, D. and Stephan, F. (1995).  On the Computational Complexity of some Classical Equivalence Relations on... Forschungsberichte Mathematische Logik, Universitat Heidelberg, Bericht Nr. 18, Dezember.
+Dubhashi, D. P., Mehlhorn, K., Ranjan, D. and Thiel, C. (1993).  Searching, sorting and randomised algorithms for central elements and ideal counting in posets International Conference on Foundations of Software Technology and Theoretical Computer Science (pp. 436–443).
+Ranjan, D. and Rohatgi, P. (1992).  On randomized reductions to sparse sets Structure in Complexity Theory Conference, 1992., Proceedings of the Seventh Annual (pp. 239–242).
+Chari, S., Ranjan, D. and Rohatgi, P. (1992).  On the complexity of incremental computation International Symposium on Mathematical Foundations of Computer Science (pp. 172–180).
+Panconesi, A. and Ranjan, D. (1990).  Quantifiers and approximation Proceedings of the twenty-second annual ACM symposium on Theory of computing (pp. 446–456).
+Hartmanis, J. and Ranjan, D. (1989).  Space bounded computations: Review and new separation results Mathematical Foundations of Computer Science 1989 (pp. 49–66).
+Presentations
+Ranjan, D. ( 2006). Bioinformatics at NMSU   .
+Ranjan, D. ( 2005). NMSU Center for Research Excellence in Bioinformatics and Computational Biology   .
+Sage Graduate Fellowship, Cornell University
+2011: Outstanding Faculty Member, Iowa State University
+2009: NMSU Millionaire Researcher, New Mexico State University
+2008: NMSU Millionaire Researcher, New Mexico State University
+2007: University Research Council Distinguished Career Award for Exceptional Achievements in Creative Scholarly Activity, New Mexico State University
+2006: Outstanding Faculty Achievement Award, New Mexico State University
+1995: Morrison Award for the best Technical Presentation, Regional ACM Meeting at Ghost Ranch, New Mexico
+Organizational Chart

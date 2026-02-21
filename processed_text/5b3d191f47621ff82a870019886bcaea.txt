@@ -1,0 +1,77 @@
+Log in to the ODU Portal: https://my.odu.edu
+(For convenience, a link to the myODU Portal is provided on the right side of this page.)
+Once you are logged into the portal, click the Degree Works button on the left sidebar or under the "My Favorite Apps" section.
+Degree Works will open in a new window. If you use a pop-up blocker you should add *.odu.edu to the Pop-up Blocker exceptions list in your pop-up blocker settings menu.
+Log in to LEO Online (you will need your MIDAS ID and password)
+Note: If you use a pop-up blocker, you may need to add *.odu.edu to the Pop-up Blocker exceptions list in your Pop-up Blocker settings menu.
+Students
+Click Admissions, Registration, Student Records, Graduation Information
+Click Student Records
+Click Degree Works for Students
+Faculty & Advisors
+Click Faculty & Advisors
+Click Degree Works for Advisors
+Enter the student's University ID number (UIN) on the Degree Works landing page (or search for the student/group of students using the Advanced Search link if needed)
+ODU Portal
+Log in to the ODU Portal: https://my.odu.edu
+(For convenience, a link to the myODU Portal is provided on the right side of this page.)
+Once you are logged into the portal, click the Degree Works button on the left sidebar or under the "My Favorite Apps" section.
+Degree Works will open in a new window. If you use a pop-up blocker you should add *.odu.edu to the Pop-up Blocker exceptions list in your pop-up blocker settings menu.
+Leo Online
+Log in to LEO Online (you will need your MIDAS ID and password)
+Note: If you use a pop-up blocker, you may need to add *.odu.edu to the Pop-up Blocker exceptions list in your Pop-up Blocker settings menu.
+Students
+Click Admissions, Registration, Student Records, Graduation Information
+Click Student Records
+Click Degree Works for Students
+Faculty & Advisors
+Click Faculty & Advisors
+Click Degree Works for Advisors
+Enter the student's University ID number (UIN) on the Degree Works landing page (or search for the student/group of students using the Advanced Search link if needed)
+How to navigate Degree Works
+What-If/Future Classes Analysis
+This feature allows students to compare their current academic history to the requirements of different programs with or without additional "future" class options included in the hypothetical. This can be useful to students who are considering switching majors or who are "major shopping."
+A demonstration of the What-If/Future Classes tool is presented in the Tools and Features Overview video for Degree Works (around the 8:50 mark).
+To run a What-If/Future Classes analysis:
+Access Degree Works using the instructions above.
+Click What If (located directly under the section containing your student information)
+If you would like to use the Future Classes tool with your current curriculum, simply check the Use current curriculum box and add courses (one by one, in alphabetical order) in the Future Classesarea. Once all desired "future" courses are added, click Process to produce a What-If audit using those hypothetical courses. Scroll down to see the What-If audit.
+If you would like to see how your audit would look using a different program (with or without future classes added in):
+Select the catalog year you'd like to use. The default should be your current catalog year (recommended to leave this as-is). Please note that your catalog year cannot be earlier than your admit date to the University.
+Select the desired degree.
+Select the appropriate level (Undergraduate or Graduate). Recommended to leave this as-is.
+Select the desired major.
+Select the desired minor, if applicable.
+Select the desired concentration, if applicable. NOTE: For Undergraduate students, concentrations will not be used from catalog year 2023 onward.
+When you have finished selecting your What-If curriculum items (and have added any desired future classes, if applicable), click the Process button.
+Scroll down to see the What-If audit.
+Reminders regarding the What-If/Future Classes Analysis tool:
+What-If audits are not saved, but you can print the What-If audit using the Print button at the top of the page.
+Keep the In-progress classes and Preregistered classes boxes checked if you would also like the audit to take your current registrations into account.
+You can use the Future Classes feature along with the feature that shows you a different program.
+Very Important: When choosing hypothetical curriculum items for your What-If audit, be sure to check your catalog year to ensure the items you choose are available to you under that catalog year. The What-If feature cannot check to make sure particular curriculum items (such as a given degree, major, or concentration) are available to a student in a given catalog year.
+For Undergraduate students, no concentrations will be available after the 2022 catalog year.
+Reviewing a Degree Works Audit
+The first section of the degree evaluation report summarizes your curriculum information and provides a list of items such as overall GPA, overall hours, academic standing, and catalog year. This area is referred to as the student card.
+The body of the audit is divided into sections, or blocks. All audits begin with a Degree or Certificate block, with related blocks listed below. Some examples of blocks you might see are Degree Requirements, Lower Division General Education Requirements, Departmental Requirements, Major Requirements, Concentration Requirements, Upper Division General Education Requirements, Minor Requirements, General Electives, Withdrawn, Failed, Repeated, and Grade Forgiveness Courses, In-progress and Current Registrations, and various other blocks for program-specific requirements.
+Degree/Certificate Requirements include overall requirements for the specific degree or certificate you are pursuing. These may also set forth minimum credit hours and minimum GPA requirements for your program. All Undergraduate students at ODU must earn at least 120 credit hours to graduate with the first Bachelor's degree. Some Undergraduate programs may require additional hours. Elective hours may be used if you have met all course requirements for your Undergraduate program but have not met the 120-hour requirement. Please consult with your advisor for guidance.
+Lower Division General Education Requirements are the lower-division University requirements that all undergraduate students must complete.
+Departmental Requirements are specific to each program. Some courses may be counted in the major GPA, but usually are not. Lower-Division requirements may appear in this area if they are program-specific.
+Major Requirements include all courses necessary to complete the major. The major area will include all major courses taken and enforces the major GPA requirement for the program.
+Concentration Requirements include all courses necessary to complete a specific concentration associated with a major.
+Upper Division General Education Requirements include the requirements for Option D or minors (Undergraduate students only). The Upper Division requirement may also be met automatically in certain majors or may be met with a second major, degree, or Professional Education requirements. This will depend on each individual program.
+Student Attributes and Activities includes information on select student attributes and grade forgiveness attempts remaining (for Undergraduates), as well as links to the Senior/Graduate assessments and graduation application. This area is optional so does not need to be fully complete for your audit to reach 100%; however, you must apply for graduation to be considered for degree conferral.
+General Electives include all passed courses that do not apply toward any specific program requirements. If permitted, your department may request that courses from this area be applied to specific requirements within your degree audit. Some restrictions apply.
+Withdrawn, Failed, Repeated and Grade Forgiveness Courses includes courses that are not counting in earned hours (for various reasons) and may not be used toward any requirements in the audit. Please note that students may not receive credit more than once for a course or its equivalent, unless the course is designated as repeatable for credit.
+In-progress and Preregistered includes a list of your in-progress (current term) and preregistered (future term) courses. Incomplete courses will also show here until a final grade is posted.
+Exceptions will only appear if exceptions have been applied to your audit (such as allowing one course to count in place of another). Exceptions can only be requested by your academic department and must fall within certain permitted parameters. Exception requests may or may not be granted.
+Notes will only appear if an advisor or staff member has added a note to your Degree Works audit. Notes commonly include advising meeting recaps and/or instructions for students.
+Very Important: While some courses may appear as options in more than one area of your Degree Works audit, sharing between sections is restricted (depending on the curriculum). Do not assume that a given course will count toward more than one area.
+Creating a Plan
+The Student Planner allows you to build and save a term-by-term list of courses you plan to take. You can have multiple plans, but only one "active" and "locked" plan is recommended. Please check with your advisor to see if you are required to create a plan for your program. Even if not required, the planner can be a helpful tool to keep you organized and on-track during your time at ODU.
+Please review the Tools and Features Overview video for Degree Works (around the 14:56 mark) for a student planner demonstration and more detailed information.
+Videos Available to Help with Degree Planning
+NOTE: When viewing these videos in YouTube, be sure to set the video quality to 720p if your computer does not do this automatically. To set the quality to 720p, click the Settings (gear) icon at the bottom of the video, then click Quality, then 720p.
+Degree Works: Basic Overview: The Degree Works Basic Overview video provides a first look at the new version of Degree Works and reviews the basic layout from a student's point of view. Length: about 5.5 minutes.
+Degree Works: Tools and Features Overview: The Tools & Features Overview video covers the tools and features of the new Degree Works version on a detailed level. The video is presented from a student's point of view. Length: about 32 minutes. Topics covered include:
+0:00 Intro

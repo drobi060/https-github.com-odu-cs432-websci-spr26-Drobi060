@@ -1,0 +1,12 @@
+Recommendations from 2 faculty or employment supervisors
+Transcripts from all prior institutions
+Students are expected to show proficiency in Problem Solving & Programming, Introduction to Computer Architecture, Advanced Data Structures and Algorithms, Introduction to Theoretical Computer Science, and Operating Systems at an undergraduate level.
+Students may be admitted directly to the PhD program with either a bachelor's or a master's degree, preferably with a computer science related major, but that is not a requirement. However, if you do not have a BS in Computer Science, you may be required to complete undergraduate prerequisites before you are eligible to take graduate courses or hold a Graduate Teaching Assistantship.
+Applying
+When you are ready, apply for admission online . Once the application is complete, the graduate committee will evaluate the application. The committee looks at the whole application before making a decision. In general, the committee considers three factors for admitting students into our PhD program:
+GPA and ranking of the graduating school
+GRE scores (there is no cutoff for considering the application)
+MOST IMPORTANT: Student background in terms of educational training and research interest should match with one of our faculty. For this you should browse the CS Faculty Directory and Faculty Disciplines . You are encouraged to contact the faculty directly to gauge common research interests. (If you have not contacted a faculty member to discuss common research interests, your chances of admission are much lower.)
+Full-time PhD students who are awarded a Graduate Assistantship receive a 100% tuition waiver and a stipend.
+If you have further questions, please contact the Graduate Program Director (GPD) for Admissions.
+Computer Science

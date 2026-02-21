@@ -1,0 +1,59 @@
+TF-IDF Rankings for 'research'
+Query Term: research
+Document Frequency: 171
+IDF (log base 2): 27.801428
+Corpus Size: 40,000,000,000
+======================================================================================================================================================
+
+Rank     TF-IDF         TF        IDF  Occurrences    Words URI
+------------------------------------------------------------------------------------------------------------------------------------------------------
+   1   2.090333 0.07518797  27.801428           10      133 https://www.odu.edu/sci/research
+   2   1.765170 0.06349206  27.801428            4       63 https://www.odu.edu/computer-science/academics/graduate/phd
+   3   1.323878 0.04761905  27.801428            2       42 https://www.odu.edu/directory/rekha-gupta
+   4   1.183040 0.04255319  27.801428            2       47 https://www.odu.edu/sci/departments
+   5   1.049111 0.03773585  27.801428            2       53 https://www.odu.edu/directory/michael-nelson
+   6   0.992908 0.03571429  27.801428            1       28 https://www.odu.edu/library
+   7   0.896820 0.03225806  27.801428            3       93 https://www.odu.edu/online-faculty
+   8   0.852402 0.03066038  27.801428           13      424 https://give.odu.edu/support-research
+   9   0.852151 0.03065134  27.801428            8      261 https://vsgc.odu.edu/scholarships-fellowships/
+  10   0.827423 0.02976190  27.801428            5      168 https://online.odu.edu/academics/area/social-sciences
+  11   0.801964 0.02884615  27.801428            3      104 https://www.odu.edu/directory/jay-morris
+  12   0.801964 0.02884615  27.801428           21      728 https://vsgc.odu.edu/graduatefellowships/
+  13   0.751390 0.02702703  27.801428            5      185 https://ww2.odu.edu/~agodunov/hipsters/
+  14   0.678084 0.02439024  27.801428            2       82 https://vsgc.odu.edu/
+  15   0.656257 0.02360515  27.801428           11      466 https://www.odu.edu/sci/academics/graduate
+  16   0.646545 0.02325581  27.801428            4      172 https://online.odu.edu/academics/area/engineering
+  17   0.642808 0.02312139  27.801428            4      173 https://www.odu.edu/chemistry/new-building
+  18   0.627100 0.02255639  27.801428            3      133 https://www.odu.edu/sci/academics
+  19   0.604379 0.02173913  27.801428            5      230 https://www.odu.edu/computer-science/welcome
+  20   0.573225 0.02061856  27.801428            2       97 https://www.odu.edu/public-health
+  21   0.542467 0.01951220  27.801428            4      205 https://online.odu.edu/academics/area/business-management
+  22   0.487744 0.01754386  27.801428           20     1140 https://www.odu.edu/sci/article/james-owens-computer-science-graduate-student-uses-research-as-a-launch-pad-stem
+  23   0.482106 0.01734104  27.801428           12      692 https://oduwsdl.github.io/
+  24   0.479335 0.01724138  27.801428            2      116 https://www.odu.edu/international-collaborations/about
+  25   0.479335 0.01724138  27.801428            1       58 https://www.odu.edu/international-collaborations
+  26   0.476511 0.01713980  27.801428           32     1867 https://catalog.odu.edu/graduate/sciences/computer-science/computer-science-phd/
+  27   0.453636 0.01631702  27.801428            7      429 https://vsgc.odu.edu/stemtakesflight/
+  28   0.443640 0.01595745  27.801428           18     1128 https://www.odu.edu/sci/article/doctoral-candidate-sandra-abdellah-uses-research-to-build-connections
+  29   0.434397 0.01562500  27.801428            4      256 https://mahmoudkanazzal.github.io/
+  30   0.427714 0.01538462  27.801428            4      260 https://www.odu.edu/sci/students
+  31   0.408845 0.01470588  27.801428            1       68 https://www.odu.edu/sci/students/graduate
+  32   0.402919 0.01449275  27.801428            3      207 https://www.odu.edu/directory/mohammad-ghasemigol
+  33   0.398587 0.01433692  27.801428            4      279 https://give.odu.edu/about-our-campaign
+  34   0.391569 0.01408451  27.801428            2      142 https://www.odu.edu/cyber
+  35   0.386131 0.01388889  27.801428            6      432 https://www.odu.edu/computer-science/scholarships
+  36   0.361058 0.01298701  27.801428            6      462 https://www.odu.edu/international-collaborations/partners
+  37   0.354158 0.01273885  27.801428            2      157 https://www.odu.edu/sci/about
+  38   0.347518 0.01250000  27.801428            1       80 https://www.odu.edu/computer-science/article/new-graduate-course-cs745cs845-coming-spring-2026
+  39   0.344646 0.01239669  27.801428            9      726 https://catalog.odu.edu/undergraduate/business/
+  40   0.341122 0.01226994  27.801428            2      163 https://online.odu.edu/academics/area/education
+  41   0.339042 0.01219512  27.801428            1       82 https://www.odu.edu/directory/andrey-chernikov
+  42   0.339042 0.01219512  27.801428            3      246 https://www.odu.edu/sci/visit-us
+  43   0.336308 0.01209677  27.801428           12      992 https://www.odu.edu/article/class-of-2025-may-salama-maternal-health-researcher-becomes-old-dominion-universitys-first
+  44   0.330969 0.01190476  27.801428            3      252 https://www.odu.edu/interdisciplinary-schools
+  45   0.327076 0.01176471  27.801428            4      340 https://www.odu.edu/directory/jing-he
+  46   0.312376 0.01123596  27.801428            1       89 https://www.odu.edu/emergency
+  47   0.312376 0.01123596  27.801428            3      267 https://www.odu.edu/computer-science/academics/graduate/phd/admissions
+  48   0.311937 0.01122020  27.801428            8      713 https://www.odu.edu/article/computer-science-doctoral-candidate-wins-odus-3mt-competition
+  49   0.305510 0.01098901  27.801428            2      182 https://www.odu.edu/sci
+  50   0.299908 0.01078749  27.801428           10      927 https://www.odu.edu/sci/article/biology-associate-professor-isaura-simoes-raises-awareness-through-research-tick-borne

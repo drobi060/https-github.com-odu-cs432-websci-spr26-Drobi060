@@ -1,0 +1,28 @@
+Vikas Ashok: Accessible Computing, Human-Computer Interaction, Artificial Intelligence, Natural Language Processing
+Andrey Chernikov : Computational Geometry with Focus on Mesh Generation, Formal Methods, Parallel Computing
+Nikos Chrisochoides : High-Performance Computing, Medical Imaging
+Mohammad GhasemiGol : AI-Driven Cybersecurity Solutions, Intrusion Detection and Response, Attack Graphs, AI Security, Supply Chain Security In AI Systems, AI Red-Teaming, Generative AI Security, Agentic AI Security
+Shuai Hao : Network Security, Internet Measurement, Web Security, Cybercrime
+Jing He : Protein Bioinformatics, Deep Convolutional Neural Networks, Image Pattern Recognition
+Sarah Hosni : (Independent Researcher) Brain Data Analysis, Brain-Computer Interface, Neurotechnology for Healthcare, Computational Neuroscience
+Sampath Jayarathna : Data Science, Applied Machine Learning, Eye-Tracking, Neuro-Information Retrieval, Human-Computer Interaction
+Lusi Li : Data Science, Data Mining, Machine Learning, Computer Vision, Wireless Communications
+Yaohang Li : Artificial Intelligence, Computational Biology, Parallel/Distributed/Grid Computing, Big Data Analysis
+Frank Liu : Scientific Machine Learning, Machine Learning for Decision and Control of Dynamic Systems, and AI for Material Sciences
+Ravi Mukkamala: Blockchain, Cloud Computing, Data Mining
+Mahmoud Nazzal : Adversarial Machine Learning, Large Language Models (LLMs), Graph Neural Networks (GNNs), Machine Learning Applications in Software Engineering, Hardware Design, and Intelligent Transportation Systems
+Michael Nelson : Web Science, Digital Libraries, Digital Preservation, Data Science, Social Media
+Rui Ning : Cybersecurity, Trustworthy Artificial Intelligence (AI), Privacy-Preserved AI, AI In Cyber-Physical Systems
+Stephan Olariu : Cloud Computing / Vehicular Clouds, Vehicular Communications, Stochastic Modeling, Blockchain, Smart Contracts, Sensor Networks
+Hong Qin : Artificial Intelligence and Machine Learning in Healthcare, Computational Biology and Genomics, Pandemic Prediction and Prevention, Aging and Longevity Research, Data Science for Public Health, Quantum Computing Applications in Biology
+Pratip Rana : Machine Learning, Information Theory, Complex Network, Computational Biology
+Desh Ranjan : Bioinformatics, Algorithms, Optimization, Parallel and High-Performance Computing
+Jiangwen Sun : Machine Learning, Computational Systems Medicine, Data Mining, Medical Informatics, Health Informatics
+Jonathan Takeshita : Cryptography, Homomorphic Encryption, Trusted Hardware
+Dushan Wadduwage : Computational Imaging, Differentiable Microscopy, Biophotonics
+Michele Weigle : Web Science, Social Media, Web Archiving, Digital Preservation, Information Visualization
+Jian Wu : Natural Language Processing, Scholarly Big Data, Information Retrieval, Digital Libraries, Science of Science
+Steven Zeil : Software Testing and Reliability, Software Engineering, Tools for CS Education
+Chunjiang Zhu : Machine Learning, Algorithms, Network Science, AI for Science, Chemoinformatics
+Mohammad Zubair: High-Performance Computing on Emerging Architectures for Scientific Applications and Large-Scale Data Analytics
+Undergraduate Research Opportunities

@@ -1,0 +1,29 @@
+Graduate Assistant Tuition FAQ
+Tuition waivers and tuition payments… what is the difference?
+The distinction between tuition payments and waivers is important. Tuition waivers are the awards offered to graduate assistants (GAs) when they are hired. They are usually 50%, 75%, or 100% of your tuition depending on your graduate program and the assistantship offered.
+Tuition payments are the funds applied to accounts by the College of Sciences or other outside sources, like grants via ODU Research Foundation (ODURF) for qualifying graduate assistants. They are payments because they must be paid to the university from these sources – the tuition is waived for the student, but a tuition payment must still by paid to the university.
+When will CS tuition payments be applied?
+Computer Science (CS) GA tuition payments are applied on a rolling basis after Add/Drop has ended. For Fall 2023, Add/Drop ends on September 5th. They are manually and individually submitted, so they may take time to apply to student accounts.
+If students do not see their promised tuition waiver applied to their account by September 20th, please email gradappointments@cs.odu.edu as soon as possible.
+Why are payments applied after ADD/DROP?
+Adding or dropping classes changes the amount of the tuition payment. For example, if a student is registered for 6 credit hours and they were offered a 75% tuition waiver, but then add a course and now have 9 credit hours, but the waiver was already applied, the payment they received will be less than the 75% they were promised. After Add/Drop, students are less likely to add and drop classes, so payments are started at this point to ensure that there are less errors with tuition payments.
+What do tuition waivers cover?
+Tuition payments come from different funding sources. GTAs will always be paid from state funds (ODU), whereas GRAs can be paid from multiple sources, including state funds and grants. As such, there are different policies regarding what tuition fees are covered and which are not.
+You can see the full list of fees on the Current Tuition Rates page at odu.edu. Any fees not covered will say the fee is “not subject to waivers.” Depending on the funding of the grant, those with full or partial tuition payments coming from ODURF may see more fees covered than those with payments from ODU.
+What are the credit hour requirements to receive and keep tuition waivers?
+As seen on your offer letters, certain credit hours are required for assistantship. ODU-funded students are required to register for 9 credit hours. ODURF-funded students are required to register for 6-9 credit hours. Registering for 10 credit hours requires approval. Students must submit an M4 (MS students, can only be used once) or D4 (PhD students) form to be registered for less than the 9 or 6 hours and still qualify for their assistantship. First year GRAs may also submit an RCL to lower the registration requirement in their first semester.
+Students, please note: failure to keep the required credit hours can result in the termination of an assistantship. This can potentially involve forfeiture of any stipend received before you were terminated. It is important to receive approval for any adding or dropping of classes after your tuition payment has already been applied.
+If you are expecting a graduate assistantship and will be submitting any of the forms above, or registering for 10 credit hours, please notify us as soon as possible before the term starts that you can receive an accurate offer letter.
+I am a CS student with an assistantship, but I was not offered a tuition waiver… why?
+Only students working directly with the CS Department faculty receive tuition waivers from CS; VMASC GAs, for example, can be working with VMASC but not with CS faculty, and thus will not be offered a tuition waiver from the CS department.
+Some students are also hired as hourly workers – this involves positions where submitting a timesheet is required. Hourly students do not receive tuition waivers. This should be communicated to you well before you start your position.
+If you receive an offer letter that does not have tuition mentioned, it is best to discuss this with the offering organization/department before accepting the offer. There may be options for you.
+What if I have a loan or scholarship?
+Ultimately, financial planning is up to the student. It is possible to have a hold placed on the disbursement of your loans and scholarships can be applied to their account alongside your tuition payment for your assistantship. Any excess credits to student accounts will be paid out via refund.
+Students, it is best to discuss your options with Financial Aid so that you are making the best decision for your finances and education.
+There is a late fee on my account! What do I do?
+Students: if, for any reason, the tuition payment has not been credited by 30 days after the tuition due date (by September 28th), and a late fee appears on your account, you will not be required to pay this fee if it was incurred due to the missing payment. We will submit a request on their behalf to have the late fee removed due to the circumstances. If the tuition payment was processed on time, but you do not pay the remaining fees, you will be responsible for any fees incurred.
+It is not necessary to email or visit if you see a late fee and know that it is due to the delayed tuition payment – we are aware of when these fees hit your account. However, if you see that the fee has not been removed within one week of the delayed tuition payment, please let us know.
+I’m still confused…
+Any questions regarding graduate assistantships, including tuition waivers and payments, should be directed to gradappointments@cs.odu.edu . Feel free to also CC Bethany Cartwright (Graduate Program Assistant) at bcartwri@odu.edu for urgent issues!
+Computer Science

@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mahmoud Nazzal, Ph.D. - CV and Portfolio">
+    <title>Mahmoud Nazzal, Ph.D. | AI Security & Applications</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2b2d31;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+            font-size: 0.9rem;
+        }
+        header {
+            background: #1e2124;
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+        }
+        nav a {
+            color: #ffffff;
+            margin-left: 15px;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+
+        /* ===== LAYOUT TUNING (ONLY CHANGE) ===== */
+        .container {
+            max-width: 1200px;   /* was 1100px */
+            margin: 30px auto;
+            padding: 20px;
+            display: flex;
+            gap: 30px;
+        }
+        .profile {
+            flex: 0.9;           /* was 1 */
+            text-align: center;
+            margin-left: -10px;  /* subtle left shift */
+        }
+        .content {
+            flex: 2.1;           /* was 2 */
+        }
+        /* ===================================== */
+
+        .profile img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 15px;
+        }
+        .profile h2 {
+            margin: 10px 0;
+            font-size: 1.5rem;
+        }
+        .profile p {
+            margin: 5px 0;
+            color: #cccccc;
+        }
+        h2 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+        .download-cv {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 8px 15px;
+            background: #3a71c1;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 0.9rem;
+        }
+
+        /* SOCIAL ICONS FIX */
+        .social-icons {
+            margin-top: 18px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 16px;
+        }
+        .social-icons a {
+            color: #3a71c1;
+            font-size: 1.6rem;
+            text-decoration: none;
+        }
+
+        .two-column {
+            display: flex;
+            gap: 30px;
+            margin-top: 30px;
+        }
+        .column {
+            flex: 1;
+        }
+        .column h3 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+
+        .visualization {
+            background: #1e2124;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+
+        .visualization img {
+            width: 100%;
+            border-radius: 8px;
+            object-fit: cover;
+        }
+        .visualization p {
+            margin-top: 10px;
+            color: #cccccc;
+        }
+
+        /* NEW: SIDE-BY-SIDE SECTIONS */
+        .visualization-row {
+            display: flex;
+            gap: 20px;
+            margin-top: 30px;
+        }
+        .visualization-half {
+            flex: 1;
+        }
+
+        footer {
+            background-color: #1e2124;
+            padding: 20px;
+            text-align: center;
+            color: #ffffff;
+            margin-top: 40px;
+        }
+
+        /* FIX APPLIED HERE — all links white */
+        footer a {
+            color: #ffffff;
+            text-decoration: none;
+            margin-right: 15px;
+        }
+
+        .back-link {
+            display: block;
+            margin-top: 15px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+                align-items: center;
+            }
+            .visualization-row {
+                flex-direction: column;
+            }
+            .two-column {
+                flex-direction: column;
+            }
+            .profile {
+                margin-left: 0; /* reset shift on mobile */
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Mahmoud Nazzal, Ph.D.</h1>
+        <nav>
+            <a href="#research-interests">Research Interests</a>
+            <a href="#experience">Experience</a>
+            <a href="teaching.html">Teaching</a>
+            <a href="recent_projects.html">Recent Projects</a>
+            <a href="publications.html">Publications</a>
+            <a href="awards.html">Awards</a>
+            <a href="grants.html">Grants</a>
+            <a href="technical_skills.html">Technical Skills</a>
+            <a href="M_Nazzal_CV_Aug_2025.pdf" target="_blank">CV</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <div class="container" id="home">
+        <div class="profile">
+            <img src="mahmoud_nazzal_photo.jpg" alt="Mahmoud Nazzal, Ph.D.">
+            <h2>Mahmoud Nazzal, Ph.D.</h2>
+            <p>Assistant Professor, Department of Computer Science &amp; School of Cybersecurity<br>
+               Old Dominion University, Norfolk, VA, USA</p>
+            <p>Specializing in AI Security and Applications</p>
+
+            <div class="social-icons">
+                <a href="https://scholar.google.com/citations?user=ygjUJnYAAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+                <a href="https://www.linkedin.com/in/mahmoud-nazzal/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href="mailto:mazzal@odu.edu"><i class="fas fa-envelope"></i></a>
+                <a href="https://github.com/mahmoudkanazzal" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="https://orcid.org/0000-0003-3375-0310" target="_blank"><i class="fab fa-orcid"></i></a>
+            </div>
+
+            <a href="M_Nazzal_CV_Aug_2025.pdf" class="download-cv" target="_blank">
+                <i class="fas fa-download"></i> Download CV
+            </a>
+        </div>
+
+        <div class="content">
+            <section id="about">
+                <h2>About Me</h2>
+                <p>I am an Assistant Professor at Old Dominion University with a joint appointment in the Department of Computer Science and the School of Cybersecurity.</p>
+                <p>My research focuses on the security, robustness, and applicability of Graph Neural Networks (GNNs) and Large Language Models (LLMs).</p>
+                <p>My goal is to advance AI security technologies that enhance trust and reliability in the systems we depend on today and in the future. Overall, I have contributed to more than 20 conference papers, over 13 journal papers, 10 US and international patents and patent applications, and 1 book chapter, and have lectured computer engineering and related courses at NJIT and in universities in Turkey and the UAE.</p>
+            </section>
+
+            <!-- Research Interests + Education (boxed) -->
+            <section class="visualization" id="research-interests">
+                <div class="two-column" style="margin-top:0;">
+                    <div class="column">
+                        <h3>Research Interests</h3>
+                        <ul>
+                            <li><strong>Currently:</strong> Security and robustness of GNNs and LLMs
+                                <ul>
+                                    <li>Adversarial robustness and prompt optimization</li>
+                                    <li>Applications in secure and functional source code generation</li>
+                                    <li>Hardware design automation with LLMs and GNNs</li>
+                                    <li>Transportation system analytics and Internet security</li>
+                                    <li>Deepfake detection using multimodal and graph-based methods</li>
+                                </ul>
+                            </li>
+                            <li><strong>Previously:</strong> Machine learning for communications (e.g., physical layer security, channel estimation, spectrum sensing)</li>
+                        </ul>
+                    </div>
+
+                    <div class="column">
+                        <h3>Education</h3>
+                        <p><strong>Ph.D. in Computer Engineering</strong><br>
+                        NJIT, 2021 – 2025</p>
+                        <p><strong>M.Sc. in Electrical and Electronic Engineering</strong><br>
+                        Eastern Mediterranean University, 2010</p>
+                        <p><strong>B.Sc. in Electrical Engineering</strong><br>
+                        Birzeit University, 2009</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- NEW SIDE-BY-SIDE BLOCK -->
+            <div class="visualization-row">
+                <section id="visualization" class="visualization visualization-half">
+                    <h2>Research Interests Overview</h2>
+                    <img src="figs/ResearchMap.png" alt="Research Interests Visualization" style="width: 99%; max-width: 800px; display: block; margin: 0 auto;">
+                    <p>This visualization summarizes my research areas, from past work in machine learning for communications to current interests in AI security and robustness, including secure code generation, deepfake detection, and adversarial attacks.</p>
+                </section>
+
+                <section id="contributions" class="visualization visualization-half">
+                    <h2>Contribution Map</h2>
+                    <img src="areaWiseContributions.png" alt="Research Area Contributions" style="width: 100%; max-width: 900px; display: block; margin: 0 auto; border-radius: 8px;">
+                    <p>This contribution map illustrates the areas of my research across software engineering, adversarial machine learning, hardware design automation, predictive modeling, and real-world ML applications. It also highlights top-tier venues like CCS, IEEE S&amp;P, GLSVLSI, and others.</p>
+                </section>
+            </div>
+
+            <!-- Teaching (boxed) -->
+            <section class="visualization">
+                <h2>Teaching at Old Dominion University</h2>
+
+                <p style="font-style: italic; color: #cccccc;">
+                    Graduate Courses (M.S./Ph.D.)
+                </p>
+
+                <ul style="margin-top:15px;">
+                    <li style="margin-bottom:20px;">
+                        <strong>
+                            CS 795/895 – Special Topics in Computer Science: Large Language Model (LLM) Architectures and Applications
+                        </strong>
+                        (Spring 2026)
+                        <p style="margin:6px 0 8px 0; color:#cccccc;">
+                            This graduate special topics course provides an in-depth exploration of the architectures, training paradigms, and applications of modern large language models. Starting from foundational ML and NLP concepts, the course progresses to transformer-based LLM architectures, prompt optimization, and retrieval-augmented generation (RAG). It also examines multimodal extensions via vision-language models (VLMs) and the emerging role of LLMs as core reasoning engines in agentic AI systems capable of planning and tool use. Students study pre-training objectives, fine-tuning strategies, and state-of-the-art evaluation metrics, and are prepared to analyze, design, and apply LLM-based systems in both research and real-world contexts.
+                        </p>
+                        <a href="CS795_895_LLM_Architectures_Applications_Syllabus_Spring2026.pdf" target="_blank" style="color:#7fb3ff; text-decoration:none;">
+                            <i class="fas fa-file-pdf"></i> Syllabus (PDF)
+                        </a>
+                    </li>
+
+                    <li>
+                        <strong>
+                            CS 722/822 – Machine Learning
+                        </strong>
+                        (Fall 2025)
+                        <p style="margin:6px 0 8px 0; color:#cccccc;">
+                            This graduate course introduces core machine learning methods, including supervised and unsupervised learning,
+                            regression, classification, clustering, anomaly detection, and dimensionality reduction, with emphasis on
+                            evaluation, cross-validation, calibration, and error analysis.
+                        </p>
+                        <a href="CS722_822_Machine_Learning_Syllabus_Fall2025.pdf" target="_blank" style="color:#7fb3ff; text-decoration:none;">
+                            <i class="fas fa-file-pdf"></i> Syllabus (PDF)
+                        </a>
+                    </li>
+                </ul>
+
+                <p style="margin-top:15px;">
+                    <a href="teaching.html" style="color:#7fb3ff; text-decoration:none;">View full teaching history →</a>
+                </p>
+            </section>
+
+            <!-- Professional Experience (boxed) -->
+            <section id="experience" class="visualization">
+                <h2>Professional Experience</h2>
+                <ul>
+                    <li>
+                        <strong>Assistant Professor</strong>, Department of Computer Science &amp; School of Cybersecurity, Old Dominion University, Norfolk, VA, USA (2025 – Present)
+                        <ul>
+                            <li>Tenure-track faculty appointment focusing on AI security, robust machine learning, and applications of GNNs and LLMs.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Research Assistant / Teaching Assistant</strong>, New Jersey Institute of Technology, Newark, NJ, USA (2021 – 2025)
+                        <ul>
+                            <li>Research on LLM and GNN security and applications, including secure code generation and adversarial robustness.</li>
+                            <li>Lectured undergraduate courses in computer engineering.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Lecturer</strong>, Abu Dhabi Vocational Education and Training Institute, Abu Dhabi, UAE (2019 – 2021)
+                        <ul>
+                            <li>Taught undergraduate electrical engineering courses.</li>
+                            <li>Supervised student projects.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Lecturer</strong>, Izmir University of Economics, Izmir, Turkey (2016 – 2017)
+                        <ul>
+                            <li>Taught courses in electrical engineering.</li>
+                            <li>Guided graduation projects.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+        </div>
+    </div>
+
+    <footer id="contact">
+        <h2>Contact Me</h2>
+        <div style="margin: 10px 0;">
+            <a href="mailto:mazzal@odu.edu"><i class="fas fa-envelope"></i> mazzal@odu.edu</a>
+            <span style="margin-right: 15px;"><i class="fas fa-map-marker-alt"></i> Norfolk, VA, USA</span>
+            <a href="https://www.linkedin.com/in/mahmoud-nazzal" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+            <a href="https://github.com/mahmoudkanazzal" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+            <a href="https://scholar.google.com/citations?user=ygjUJnYAAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+            <a href="https://orcid.org/0000-0003-3375-0310" target="_blank"><i class="fab fa-orcid"></i> ORCID</a>
+        </div>
+        <p style="font-size: 0.9rem; margin-top: 20px;">© 2025 Mahmoud Nazzal, Ph.D.</p>
+        <a href="#home" class="back-link"><i class="fas fa-arrow-up"></i> Back to Homepage</a>
+    </footer>
+
+</body>
+</html>

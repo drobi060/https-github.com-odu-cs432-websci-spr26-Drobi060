@@ -1,0 +1,35 @@
+Internships
+What is an Internship?
+An internship is a chance for you to gain real-world experience working with a team of computing professionals. It's also a chance to gain valuable experience and to get a foot in the door at the start of your career.
+What to expect:
+Internships are open to all students, mostly undergraduates in their junior year, or graduate students in mid-program.
+An internship is a regular job, usually with regular hours.
+You'll work in a business setting, with expectations for appropriate dress and behavior.
+You'll get training and a chance to develop your computing skills.
+You may receive a job offer (part-time and/or post-graduation) after successful completion of an internship.
+You'll earn a salary, which varies by employer.
+You may have costs, for clothing, transportation, rent, etc.
+You can earn elective credit for the CS major (CS368).
+How do I find an Internship?
+Preparation
+You need an outstanding resume and good interviewing skills in order to be considered by employers. ODU's Center for Career & Leadership Development can help develop these, along with workshops and counseling. Visit their office or website for help building your resume and practicing interviewing. You can also learn more about upcoming recruiting events on campus. The Monarch Internship & Co-Op Office also has a number of great resources.
+Post your resume
+Employers use resume repositories to search for interns and for job candidates. Begin by posting your resume on websites such as:
+Careers4Monarchs : ODU's careers website that helps students and alumni to find both internships and jobs
+Internships.com : Offers information about internship opportunities, and help with preparing for internships
+LinkedIn : A professional networking website where you can make personal contacts with people who can provide advice and connect you to job opportunities. Search here for ODU alums and for people connected with companies where you might like to work.
+wayup.com : Offers Internship and career job postings for college students
+Search online
+Find websites for employers in your area, including banks, manufacturers, consulting companies, government offices, etc. Many large companies have established internship programs advertised on their websites, along with contact information. Ask about training, work assignments, location, dates, and salary.
+Interview
+Do your homework by reading about the details of the company. Learn about their mission, their history, what work they do, etc. Be prepared with a list of relevant questions about the job, company culture, and terms of employment. Interviewers will be impressed when they see that you've done your homework!
+Course Credit
+If you would like to apply for CS major elective credit (CS368) for an internship, visit the CCLD Internships and Cooperative Education page and select the "Sciences" tab for more information.
+Internship Opportunities
+The following employers have expressed interest in finding interns from ODU. Contact them directly for more information.
+Company
+Description
+Department of Defense (DoD) HBCU/MI Summer Research Internship Program
+The DoD Historically Black Colleges and Universities & Minority-Serving Institutions (HBCU/MI) Summer Research Internship Program is an annual summer research program offered to current students and recent graduates who studied STEM disciplines at HBCU/MI. The program provides a bridge between classrooms and real-world experiences and aims to increase the number of minority scientists and engineers who choose careers with the DoD. The HBCU/MI Program is sponsored by the Office of the Under Secretary of Defense for Research and Engineering and is designed to foster student interest in STEM education and careers in DoD while supporting the DoD’s objective of developing a diverse, motivated, and highly skilled civilian workforce.
+IPConfigure
+This company is headquartered in Norfolk, Virginia is a video surveillance research and development software company. IPConfigure, Inc. hires Interns for development of Video Surveillance Software to work closely with a dynamic team. IPConfigure makes web-based, cross-platform video surveillance software using C++, Java, and JavaScript.

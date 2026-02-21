@@ -1,0 +1,24 @@
+Computer Science Doctoral Candidate Wins ODU’s 3MT Competition
+Computer Science Doctoral Candidate Wins ODU’s 3MT Competition
+January 31, 2024
+share
+Tareq Alghamdi, a doctoral candidate in computer science, won Old Dominion University’s seventh annual 3-Minute Thesis (3MT®) competition on Jan. 19 at the University Theatre. His presentation was titled: “Towards Truth: How Machine Learning Reveals Real Collisions in Particle Physics Experiments” and his faculty mentor was Yaohang Li.
+Alghamdi was one of five competitors representing two academic colleges during the event, which was viewed by in-person and virtual audiences. He earned a $1,000 prize and a spot in a regional competition hosted by the Conference of Southern Graduate Schools in Greenville, South Carolina on March 13-15.
+The 3-Minute Thesis competition was launched by Australia’s University of Queensland in 2008. The event, which gives students three minutes to present their scholarship in a way that general audiences can understand and appreciate, has been adopted in more than 85 countries. Old Dominion, which has approximately 4,800 graduate students, is among more than 900 participating institutions worldwide.
+“Preparing for 3MT pushes students to distill the essence of their research so that it engages experts and non-specialists alike,” said Robert Wojtowicz, vice provost and dean of the Graduate School , that sponsored the event. “Perhaps even more importantly, 3MT builds a feeling of confidence in the students that they carry throughout their academic and professional lives.”
+Alghamdi collaborated with scientists from the Aragone Lab in Chicago and the Thomas Jefferson National Accelerator Facility in Newport News for his research. Their primary focus was to replicate real experiments conducted in accelerator facilities, like the Electron-Ion Collider (EIC) at JLab. Leveraging an AI tool, they successfully emulated the particle detector machine responsible for recording collisions. Their approach enabled them to generate research data at an accelerated pace with heightened accuracy, efficient storage utilization and cost-effectiveness.
+Alghamdi said that winning the competition “brings joy, excitement and a sense of validation for effectively communicating complex research in just three minutes.”
+Rebecca Richardson, a doctoral candidate in chemistry, took the $750 second-place prize and the $500 Peoples’ Choice Award, which was voted on by the audience, for her presentation: “Half a Map, Whole Potential: Enhancing Complex Disease Mechanism Research with LexA Protein Interaction Analysis.” Her faculty mentor was Steven Pascal.
+Rebecca Richardson, a Ph.D. student in chemistry, presents her thesis on research into complex diseases. Photo Allison Barber/ODU
+Richardson’s research focused on understanding protein interactions which are vital in the pursuit of developing treatments and personalized therapies for complex diseases such as cancer and neurodegenerative diseases. She said she was inspired to find a more affordable and accessible way to do this research.
+“I'm extremely grateful for the support I received from faculty, staff, friends and family, all of whom contributed to my success,” Richardson said. “Honestly, earning runner-up and the people's choice award feels like first place to me!”
+“These students put their hearts into their 3MTs,” said Bryan Porter, professor of psychology and associate dean of the Graduate School. “Imagine taking years of your work and choosing only what you deem the most important to be shared in less than three minutes – but doing so in a way that does not minimize the scholarship or importance of the findings. That challenge is daunting and humbling, and their achievement was an honor to witness.”
+The other competitors and their topics were:
+Emily Regan, M.S., education (dental hygiene), “Be Careful What You Kiss: Can Your Lip Prints Catch You in the Act?” faculty mentor – Brenda Bradshaw.
+Hasika Wickrama Senevirathne, Ph.D., statistics (computational and applied mathematics), “Unlocking Insights: Preparing for Group Comparison in Clustered Data Analysis,” faculty mentor – Sandipan Dutta.
+Tatiana Zvonareva, Ph.D., chemistry, “The Name’s difficile, C. difficile: The Story of Developing a License to Kill,” faculty mentor – Erin Purcell.
+The event was emceed by Barbara Hamm Lee, executive producer and host of Another View on 89.5 WHRV-FM.
+The judges were:
+Brenda Neumon Lewis, retired associate vice president for graduate studies at ODU.
+Brian Martin, professor and associate dean for administration in the School of Health Professions at Eastern Virginia Medical school and associate dean for academic affairs in the ODU-NSU-EVMS School of Public Health.
+Scott Rhodes, director of Breakbulk, Offshore Wind & Inland Terminals for The Port of Virginia.

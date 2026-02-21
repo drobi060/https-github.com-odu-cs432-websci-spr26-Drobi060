@@ -1,0 +1,44 @@
+Select Publications
+Articles
+Farrow, B., Ji, S. and Jayarathna, S. (2025).  A microservices architecture for processing large electroencephalogram studies. International Journal of Computers and Applications 47 (3) , pp. 329-338.
+Prakash, Y., Khan, P. Aseef., Nayak, A. Kolgar., Jayarathna, S., Lee, H. and Ashok, V. (2025).  Towards Enhancing Low Vision Usability of Data Charts on Smartphones. IEEE Transactions on Visualization and Computer Graphics 31 (1) , pp. 853-863.
+Cui, Z., Sato, T., Jackson, A., Jayarathna, S., Itoh, M. and Yamani, Y. (2024).  Gaze transition entropy as a measure of attention allocation in a dynamic workspace involving automation. Scientific Reports 14 (1).
+Prakash, Y., Nayak, A. Kolgar., Sunkara, M., Jayarathna, S., Lee, H. and Ashok, V. (2024).  All in One Place: Ensuring Usable Access to Online Shopping Items for Blind Users. Proceedings of the ACM on Human-Computer Interaction 8 (EICS) , pp. 1-25.
+Kodandaram, S. Ram., Sunkara, M., Jayarathna, S. and Ashok, V. (2023).  Detecting Deceptive Dark-Pattern Web Advertisements for Blind Screen-Reader Users. Journal of Imaging 9 (11) , pp. 239.
+Ferdous, J., Lee, H., Jayarathna, S. and Ashok, V. (2023).  Enabling Efficient Web Data-Record Interaction for People with Visual Impairments via Proxy Interfaces. ACM Transactions on Interactive Intelligent Systems 13 (3) , pp. 1-27.
+Senarath, S., Pathirana, P., Meedeniya, D. and Jayarathna, S. (2022).  Customer Gaze Estimation in Retail Using Deep Learning. IEEE Access 10 , pp. 64904-64919.
+Jayawardena, G., Jayawardana, Y., Jayarathna, S., Högström, J., Papa, T., Akkil, D., Duchowski, A. T.., Peysakhovich, V., Krejtz, I., Gehrer, N. and Krejtz, K. (2022).  Toward a Real-Time Index of Pupillary Activity as an Indicator of Cognitive Load. Procedia Computer Science 207 , pp. 1331-1340.
+Pathirana, P., Senarath, S., Meedeniya, D. and Jayarathna, S. (2022).  Eye gaze estimation: A survey on deep learning-based approaches. Expert Systems with Applications 199 , pp. 116894.
+Mahanama, B., Jayawardana, Y., Rengarajan, S., Jayawardena, G., Chukoskie, L., Snider, J. and Jayarathna, S. (2022).  Eye Movement and Pupil Measures: A Review. Frontiers in Computer Science 3.
+De Silva, S., Dayarathna, S., Ariyarathne, G., Meedeniya, D., Jayarathna, S. and Michalek, A. M.. (2021).  Computational Decision Support System for ADHD Identification. International Journal of Automation and Computing 18 (2) , pp. 233-255.
+Mallawaarachchi, V., Meegahapola, L., Madhushanka, R., Heshan, E., Meedeniya, D. and Jayarathna, S. (2021).  Change Detection and Notification of Web Pages. ACM Computing Surveys 53 (1) , pp. 1-35.
+Haputhanthri, D., Brihadiswaran, G., Gunathilaka, S., Meedeniya, D., Jayarathna, S., Jaime, M. and Harshaw, C. (2020).  Integration of Facial Thermography in EEG-based Classification of ASD. International Journal of Automation and Computing 17 (6) , pp. 837-854.
+Komogortsev, O., Holland, C., Jayarathna, S. and Karpov, A. (2013).  2D Linear oculomotor plant mathematical model. ACM Transactions on Applied Perception 10 (4) , pp. 1-18.
+Book Chapters
+Sunkara, M., Nayak, A. Kolgar., Kalari, S., Kodandaram, S. Ram., Jayarathna, S., Lee, H. and Ashok, V. (2024).  Assessing the Accessibility and Usability of Web Archives for Blind Users Lecture Notes in Computer Science (pp. 203-221) Springer Nature Switzerland.
+Conference Proceeding
+Richards, J., Dabhi, S., Poursardar, F. and Jayarathna, S. (2023).  Poster: Leveraging Data Analysis and Machine Learning to Authenticate Yelp Reviews through User Metadata Patterns Proceedings of the Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (pp. 580-582) ACM.
+Prakash, Y., Sunkara, M., Lee, H., Jayarathna, S. and Ashok, V. (2023).  AutoDesc: Facilitating Convenient Perusal of Web Data Items for Blind Users Proceedings of the 28th International Conference on Intelligent User Interfaces (pp. 32-45) ACM.
+Mahanama, B., Sunkara, M., Ashok, V. and Jayarathna, S. (2023).  DisETrac: Distributed Eye-Tracking for Online Collaboration Proceedings of the 2023 Conference on Human Information Interaction and Retrieval (pp. 427-431) ACM.
+Pineda, K., Mahanama, B., Ashok, V. and Jayarathna, S. (2023).  Gaze-Augmented Drone Navigation Augmented Humans Conference (pp. 363-366) ACM.
+Jayawardana, Y., Ashok, V. G.. and Jayarathna, S. (2022).  StreamingHub: interactive stream analysis workflows Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (pp. 1-10) ACM.
+Jayawardana, Y., Jayawardena, G., Duchowski, A. T.. and Jayarathna, S. (2021).  Metadata-driven eye tracking for real-time applications Proceedings of the 21st ACM Symposium on Document Engineering (pp. 1-4) ACM.
+De Silva, S., Dayarathna, S., Ariyarathne, G., Meedeniya, D., Jayarathna, S., Michalek, A. M.. and Jayawardena, G. (2019).  A Rule-Based System for ADHD Identification using Eye Movement Data 2019 Moratuwa Engineering Research Conference (MERCon) (pp. 538-543) IEEE.
+Meegahapola, L., Alwis, R., Nimalarathna, E., Mallawaarachchi, V., Meedeniya, D. and Jayarathna, S. (2017).  Detection of change frequency in web pages to optimize server-based scheduling 2017 Seventeenth International Conference on Advances in ICT for Emerging Regions (ICTer) (pp. 1-7) IEEE.
+Meneses, L., Jayarathna, S., Furuta, R. and Shipman, F. (2016).  Analyzing the Perceptions of Change in a Distributed Collection of Web Documents Proceedings of the 27th ACM Conference on Hypertext and Social Media (pp. 273-278) ACM.
+Jayarathna, S. and Shipman, F. (2016).  Rationale and Architecture for Incorporating Human Oculomotor Plant Features in User Interest Modeling Proceedings of the 2016 ACM on Conference on Human Information Interaction and Retrieval (pp. 281-284) ACM.
+Meneses, L., Jayarathna, S., Furuta, R. and Shipman, F. (2015).  Grading Degradation in an Institutionally Managed Repository Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries (pp. 263-264) ACM.
+Jayarathna, S., Patra, A. and Shipman, F. (2015).  Unified Relevance Feedback for Multi-Application User Interest Modeling Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries (pp. 129-138) ACM.
+2025: COS Outreach Award 2025, College of Sciences
+2025: A. Rufus Tonelson ’33 Faculty Award, Old Dominion University Alumni Association
+2024: John R. Broderick Diversity Champion Award 2024, Institutional Equity & Diversity
+2023: COS Early Career Distinguished Research Award 2023, College of Science
+2023: Provost's Award for Outstanding Undergraduate Research Mentor 2023, Academic Affairs
+2022: COS Distinguished Teaching Award - Tenure Track Faculty 2022, College of Science
+2021: ODUAA New Faculty Award 2021, Old Dominion University Alumni Association
+2021: College of Science Undergraduate Research Program (COSURP) Award 2021-2022, College of Science
+2021: NSF CAREER Award 2021, National Science Foundation
+2020: Reign On Faculty Recognition Award 2020, Student Engagement and Enrollment Services
+2020: Junior Faculty Research Mentoring Program (JFRMP) Award 2020-2021 , Intramural Funding, Old Dominion University
+2020: Faculty Proposal Preparation Program (FP3) Award 2020-2021, Intramural Funding, Old Dominion University
+Organizational Chart

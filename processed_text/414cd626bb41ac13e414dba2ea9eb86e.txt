@@ -1,0 +1,29 @@
+This course develops the foundation of computer engineering for computer engineers as well as an introductory breadth…
+ECE 241
+FUND OF COMPUTER ENGN LAB
+This course develops the foundation of computer engineering for computer engineers as well as an introductory breadth appropriate for electrical engineers. Class topics include computer information, digital design (combinational and sequential circuits), computer organization, and assembly language. The laboratory includes building digital circuits (focusing on programmable logic), assembly language programming, and system interfacing. The use of a hardware description language is employed in class and the laboratory to specify, simulate and synthesize digital circuits. Prerequisites: CS 150 or ENGN 150 and MATH 211 with a grade of C or above for both.
+ECE 341
+Tools and methodologies for top-down design of complex digital systems. Important topics include minimization, mixed…
+ECE 341
+Digital System Design
+Tools and methodologies for top-down design of complex digital systems. Important topics include minimization, mixed logic, algorithmic state machines, microprogrammed controllers, creating and using a gold model, data and control path design and data movement and routing via buses. Design methodologies covered include managing the design process from concept to implementation, verification using a gold model, and introduction to design flow. A hardware description language is used extensively to demonstrate models and methodologies, and is also used in design exercises and projects. (offered fall, spring) Prerequisites: a grade of C or better in ECE 241.
+ECE 346
+This course introduces the principles of microcontrollers and microprocessors. It covers CPU and general architecture…
+ECE 346
+Microcontrollers
+This course introduces the principles of microcontrollers and microprocessors. It covers CPU and general architecture based on ARM processor platform. The course will provide students with the necessary knowledge to program, configure, and interface the microcontroller to perform real-world engineering computations using assembly and C programming languages. The course also covers peripheral I/O interfacing such as timers, interrupts, PWM, ADC, and communication interfaces for real-time applications. Students will learn to incorporate microcontrollers into the FPGA boards, and to address safety and security issues. Students will complete the course by designing, building, testing, and troubleshooting a microcontroller consumer application. Prerequisites: a grade of C or better in ECE 241.
+Careers
+Check out these ideas from ODU's Center for Career & Leadership Development and the Occupational Information Network (O*NET) . A median salary is a midpoint of what people typically earn—half of those surveyed earned above the median salary, and half earned below.
+Order Clerks
+$35,330 Median Salary
+Receive and process incoming orders for materials, merchandise, classified ads, or services such as repairs, installations, or rental of facilities. Generally receives orders via mail, phone, fax, or other electronic means. Duties include informing customers of receipt, prices, shipping dates, and delays; preparing contracts; and handling complaints.
+Computer User Support Specialists
+$54,150 Median Salary
+Provide technical assistance to computer users. Answer questions or resolve computer problems for clients in person, or via telephone or electronically. May provide assistance concerning the use of computer hardware and software, including printing, installation, word processing, electronic mail, and operating systems.
+Word Processors and Typists
+$41,070 Median Salary
+Use word processor, computer or typewriter to type letters, reports, forms, or other material from rough draft, corrected copy, or voice recording. May perform other clerical duties as assigned.
+Data Entry Keyers
+$32,530 Median Salary
+Operate data entry device, such as keyboard or photo composing perforator. Duties may include verifying data and preparing materials for printing.
+Alumni Careers

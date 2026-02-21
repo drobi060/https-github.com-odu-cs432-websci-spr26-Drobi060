@@ -1,0 +1,16 @@
+Assessment & Accreditation
+What is ABET accreditation?
+ABET is a federation of 34 professional and technical societies representing college and university educational programs in applied science, computing, engineering, and engineering technology. ABET accreditation is assurance that a college or university program meets the quality standards established by the profession for which it prepares its students. ABET accredits programs only, not degrees, departments, colleges, or institutions.
+The B.S. in Computer Science is accredited by the Computing Accreditation Commission of ABET, http://www.abet.org
+B.S. in Computer Science Assessment
+Program Objectives
+The BSCS program prepares students to enter and thrive in software development, computer science, and related professions and graduate programs. Students are exposed to the basis of computer science in mathematics, logic, and engineering as well as the experimental and design aspects of the computer science discipline. Students can explore more specialized topics, including (but not limited to) network and database administration or information security analysis. Graduates of the BSCS program will be prepared to apply their knowledge to related computing domains and meet new technical challenges.
+Student Outcomes
+Students graduating from this program should be able to:
+Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
+Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program's discipline.
+Communicate effectively in a variety of professional contexts.
+Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+Function effectively as a member or leader of a team engaged in activities appropriate to the program's discipline.
+Apply computer science theory and software development fundamentals to produce computing-based solutions.
+CS Undergraduate Enrollment

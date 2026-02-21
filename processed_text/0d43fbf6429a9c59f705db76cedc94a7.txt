@@ -1,0 +1,9 @@
+IPAC 2016 - 7th International Particle Accelerator Conf. 8-13 May 2016, Busan, Korea
+Overview
+The comprehensive theme of our interdisciplinary research is using high-performance computations and novel mathematical methods to advance the state of the art in accelerator science. Our group is a part of the interdisciplinary Center for Accelerator Science at Old Dominion University .
+Highlights
+December 2014: HiPSTERS research awarded a 1-year grant from the Old Dominion University Research Foundation to help develop a high-fidelity code for simulating beam-beam dynamics in particle colliders.
+June 2015: HiPSTERS research awarded a 3-year grant from the National Science Foundation to develop a next-generation GPU-optimized code for simulating dynamics of electron beams.
+July 2015: HiPSTERS paper "High-Fidelity Simulation of Collective Effects in Electron Beams Using an Innovative Parallel Method" awarded the Best Paper Award at the Summer Computer Simulation Conference in Chicago.
+October 2015: HiPSTERS awarded a 2-year grant from Jefferson Lab to develop a high-fidelity code for simulating beam-beam dynamics in particle colliders.
+December 2015: HiPSTERS awarded a 1-year grant from the Old Dominion University Research Foundation to develop a code for computation of radiation spectra from Compton sources.

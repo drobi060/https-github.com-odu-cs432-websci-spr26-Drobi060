@@ -1,0 +1,29 @@
+Select Publications
+Articles
+Shang, Y., Wang, G., Ren, M., Zhang, H., Chen, X., Xu, H., Yue, C., Hao, S., Zhou, B., Ma, W., Zhang, F. and Li, Z. (2025).  AdsDP: A Video Dataset for Recognizing and Examining Dark Patterns in iOS In-App Advertisements. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT).
+Bian, R., Hao, S., Wang, H. and Cotton, C. (2022).  Shining a Light on Dark Places: A Comprehensive Analysis of Open Proxy Ecosystem. Computer Networks 208.
+Zhang, Y., Xiao, J., Hao, S., Wang, H., Zhu, S. and Jajodia, S. (2020).  Understanding the Manipulation on Recommender Systems through Web Injection. IEEE Transactions on Information Forensics and Security (TIFS) 15.
+Bian, R., Hao, S., Wang, H., Dhamdere, A., Dainotti, A. and Cotton, C. (2019).  Towards Passive Analysis of Anycast in Global Routing: Unintended Impact of Remote Peering. ACM SIGCOMM Computer Communication Review (CCR) 49 (3).
+Hao, S. and Wang, H. (2017).  Exploring Domain Name Based Features on the Effectiveness of DNS Caching. ACM SIGCOMM Computer Communication Review (CCR) 47 (1).
+Conference Proceeding
+Cheng, S., Li, Z., Meng, S., Ren, M., Xu, H., Hao, S., Yue, C. and Zhang, F. (2025).  Understanding PII Leakage in Large Language Models: A Systematic Survey Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI).
+Cheng, S., Meng, S., Xu, H., Zhang, H., Hao, S., Yue, C., Ma, W., Han, M., Zhang, F. and Li, Z. (2025).  Effective PII Extraction from LLMs through Augmented Few-Shot Learning The 34th USENIX Security Symposium.
+Xu, H., Sun, Y., Qasim, K. Ullah., Hao, S., Ma, W., Li, Z., Zhang, F., Han, M. and Li, Z. (2025).  Understanding the Business of Online Affiliate Marketing: An Empirical Study 2025 IEEE Conference on Computer Communications (IEEE INFOCOM).
+Lu, Y., Lin, H., He, Z., Xu, H., Li, Z., Hao, S., Wang, L., Wang, H. and Ren, K. (2025).  TacDroid: Detection of Illicit Apps Through Hybrid Analysis of UI-Based Transition Graphs 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE).
+Bian, R., Jin, L., Hao, S., Wang, H. and Cotton, C. (2024).  Silent Observers Make a Difference: A Large-scale Analysis of Transparent Proxies on the Internet IEEE Conference on Computer Communications 2024 (IEEE INFOCOM).
+Liu, G., Jin, L., Hao, S., Zhang, Y., Liu, D., Stavrou, A. and Wang, H. (2023).  Dial "N" for NXDomain: The Scale, Origin, and Security Implications of DNS Queries to Non-Existent Domains Proceedings of the 2023 ACM on Internet Measurement Conference (IMC).
+Zhou, M., Zhang, X., Hao, S., Yang, X., Zheng, J., Chen, G. and Dou, W. (2023).  Regional IP Anycast: Deployments, Performance, and Potentials Proceedings of the ACM SIGCOMM 2023 Conference.
+Gamero-Garrido, A., Carisimo, E., Hao, S., Huffaker, B., Snoeren, A. C.. and Dainotti, A. (2022).  Quantifying Nations’ Exposure to Traffic Observation and Selective Tampering Passive and Active Measurement Conference (PAM).
+Liu, G., Liu, D., Hao, S., Gao, X., Sun, K. and Wang, H. (2022).  Ready Raider One: Exploring the Misuse of Cloud Gaming Services Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS).
+Houser, R., Hao, S., Cotton, C. and Wang, H. (2022).  A Comprehensive, Longitudinal Study of Government DNS Deployment at Global Scale 2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN).
+Yang, H., Du, K., Zhang, Y., Hao, S., Wang, H., Zhang, J. and Duan, H. (2021).  Mingling of Clear and Muddy Water: Understanding and Detecting Semantic Confusion in Blackhat SEO 2021 The 26th European Symposium on Research in Computer Security (ESORICS).
+Jin, L., Hao, S., Wang, H. and Cotton, C. (2021).  Understanding the Practices of Global Censorship through Accurate, End-to-End Measurements ACM SIGMETRICS 2022.
+Jin, L., Hao, S., Huang, Y., Wang, H. and Cotton, C. (2021).  DNSonChain: Delegating Privacy-Preserved DNS Resolution to Blockchain 2021 IEEE 29th International Conference on Network Protocols (ICNP).
+Jin, L., Hao, S., Wang, H. and Cotton, C. (2021).  Understanding the Impact of Encrypted DNS on Internet Censorship Proceedings of the 2021 The Web Conference (WWW).
+Jin, L., Hao, S., Wang, H. and Cotton, C. (2019).  Unveil the Hidden Presence: Characterizing the Backend Interface of Content Delivery Networks 2019 IEEE 27th International Conference on Network Protocols (ICNP).
+Hao, S., Zhang, Y., Wang, H. and Stavrou, A. (2018).  End-Users Get Maneuvered: Empirical Analysis of Redirection Hijacking in Content Delivery Networks The 27th USENIX Security Symposium.
+Jin, L., Hao, S., Wang, H. and Cotton, C. (2018).  Your Remnant Tells Secret: Residual Resolution in DDoS Protection Services 2018 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) IEEE.
+Xu, H., Hao, S., Sari, A. and Wang, H. (2018).  Privacy Risk Assessment on Email Tracking IEEE Conference on Computer Communications 2018 (IEEE INFOCOM).
+Liu, D., Hao, S. and Wang, H. (2016).  All Your DNS Records Point to Us: Understanding the Security Threats of Dangling DNS Records Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security (CCS).
+Hao, S., Wang, H., Stavrou, A. and Smirni, E. (2015).  On the DNS Deployment of Modern Web Services 2015 IEEE 23rd International Conference on Network Protocols (ICNP).
+Organizational Chart

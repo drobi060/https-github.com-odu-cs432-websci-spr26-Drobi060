@@ -1,0 +1,44 @@
+How Word, Excel, PowerPoint or OneNote apps work on Android or iOS devices
+Office Online
+Office Online is a version of Office products you can use to create, edit and share documents from any modern web browser. Office Online uses the same interface as the Office software on your computer or mobile device. Files that you create or edit in Office Online can be opened in the Office programs installed on your PC, Mac, iOS or Android device. There is nothing to install or activate.
+Office Online is available through your ODU Microsoft 365 account.
+To start using Office Online:
+Go to office365.odu.edu .
+Log in with your ODU email address and MIDAS password.
+Once you're in the Microsoft 365 portal, you'll see Word Online, Excel Online, PowerPoint Online and OneNote Online.
+Click on the application you'd like to use online.
+OneNote
+Create digital notebooks to capture ideas in whatever form they come. Take notes by typing, handwriting, sketching, clipping links and webpages, inserting photos and videos, embedding tables, and attaching files. Your notebooks travel with you across all of your devices. If you have Office installed on your PC, you should already have OneNote. If you're on Mac, iOS or Android, you must download OneNote separately from your app store. For the best OneNote experience, we recommend you connect your OneNote to your ODU Microsoft 365 account and your ODU OneDrive for Business.
+Installation Instructions
+OneNote is available as part of Office for Windows. For Mac OS X, iOS and Android devices, you'll need to download OneNote from your app store. You can also download the app from the OneNote website.
+We recommend that you connect your OneNote to your ODU Microsoft 365 account. The first time you launch OneNote on a new device, you'll be asked to create a Microsoft account or log in using an existing account provided by your University. Log in using your ODU email address and your MIDAS password to connect OneNote to your ODU Microsoft 365 account and OneDrive for Business.
+Additional Resources
+Read more about Microsoft OneNote
+OneDrive
+OneDrive is a cloud file storage application that works seamlessly with Office on any device, making it easy to create, edit, store and share things like class assignments and projects between devices. Start working on one device and easily switch to another device to continue working anywhere.
+You can connect OneDrive to Office apps on any device, and access your files anywhere you have an internet connection. In most cases, OneDrive is automatically connected to Office apps by associating the app with your ODU Microsoft 365 account. We recommend you connect your ODU OneDrive to all Office apps activated with your ODU Microsoft 365 account.
+Microsoft 365 at ODU comes with 1TB (for faculty/staff) or 100GB (for students) of online storage in OneDrive for Business, which is different and separate from personal OneDrive accounts. In fact, you might have a faculty/staff OneDrive, a student OneDrive AND a personal OneDrive, all of which can be attached to Microsoft Office on your computer simultaneously. Just make sure you pay attention to where you save your files. Data generated as an ODU faculty or staff member should be stored in your faculty/staff OneDrive for Business, not in a student OneDrive for Business or a personal OneDrive account.
+If you have a personal cloud storage account already, you may want to move your files from that account into ODU's OneDrive for Business. If you'd like help with this process, contact the TSP for your college or department.
+Important: University employees must be careful to protect confidential or restricted data. Before using OneDrive to send, store or share University information, review the regulated data storage matrix .
+To access OneDrive for Business from the ODU Microsoft 365 portal:
+Go to office365.odu.edu and log in with your ODU email address and MIDAS password.
+Click on the OneDrive app.
+When you activate an Office app with your ODU Microsoft 365 account, that app will automatically be associated with your ODU OneDrive for Business.
+Setup Instructions
+To add OneDrive for Business as a Connected Service within Office apps:
+Select the + to add Service.
+Select OneDrive for Business.
+Enter your ODU email address when prompted, and select Next.
+You'll be redirected to an ODU login page.
+Enter your ODU email address and your MIDAS password.
+To sync OneDrive for Business with your Windows PC:
+Select OneDrive on the left.
+When activating the app, select "Use your University Account" and enter your ODU email address.
+You'll be redirected to an ODU login page.
+Enter your ODU email address and your MIDAS password.
+To use OneDrive for Business on your mobile device:
+Search for OneDrive for Business in your device's app store.
+When activating the app, select "Use your University Account" and enter your ODU email address.
+You'll be redirected to an ODU login page.
+Enter your ODU email address and your MIDAS password.
+Additional Resources

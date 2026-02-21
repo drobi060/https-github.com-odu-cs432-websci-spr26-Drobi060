@@ -1,0 +1,8 @@
+1	https://www.odu.edu/sci/research	2.090333
+2	https://give.odu.edu/support-research	0.852402
+3	https://vsgc.odu.edu/scholarships-fellowships/	0.852151
+4	https://online.odu.edu/academics/area/social-sciences	0.827423
+5	https://ww2.odu.edu/~agodunov/hipsters/	0.751390
+6	https://oduwsdl.github.io/	0.482106
+7	https://catalog.odu.edu/graduate/sciences/computer-science/computer-science-phd/	0.476511
+8	https://mahmoudkanazzal.github.io/	0.434397

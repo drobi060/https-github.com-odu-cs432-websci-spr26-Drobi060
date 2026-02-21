@@ -1,0 +1,2 @@
+This website no longer works on Internet Explorer due to end of support.
+Please use Microsoft Edge or another supported browser.

@@ -1,0 +1,7 @@
+Q4: Kendall Tau_b Correlation Analysis
+================================================================================
+
+Kendall Tau_b:  0.733333
+P-value:        0.002213
+
+Significance: p < 0.05 = Statistically Significant

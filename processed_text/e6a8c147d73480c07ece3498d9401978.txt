@@ -1,0 +1,88 @@
+Economics (ECON)
+ECON 200S Basic Economics (3 Credit Hours)
+The course presents an overview of the major principles of micro- and macroeconomics.  Topics include opportunity costs, supply and demand, competition and monopoly, national income determination, creation of money and credit, and international problems.  No credit will be given to students pursuing majors in the Strome College of Business.
+Prerequisites: MATH 101M or higher
+ECON 201S Principles of Macroeconomics (3 Credit Hours)
+Development of the theory of supply and demand, and their interaction in a market economy.  Classical, Keynesian, and monetarist explanations of inflation and unemployment are presented and analyzed.  Emphasis is placed on income determination, fiscal policy, monetary policy, and the issue of government efforts to improve economic performance.
+ECON 202S Principles of Microeconomics (3 Credit Hours)
+An examination of how individuals and businesses interact in a market economy.  Emphasis is placed on consumer behavior, price and output decisions of firms, the economic efficiency of the resulting allocation of society's resources, and the gains from international trade and impact of trade barriers.
+ECON 226S Honors: Principles of Macroeconomics (3 Credit Hours)
+Open only to students in the Honors College.  A special honors section of ECON 201S .
+ECON 227S Honors: Principles of Microeconomics (3 Credit Hours)
+Open only to students in the Honors College.  A special honors section of ECON 202S .
+ECON 301 Managerial Economics (3 Credit Hours)
+Examines the application of economic theory and methodology to managerial decision making and strategy.  Key topics are demand analysis, economic forecasting, production, cost analysis, the economics of organization, market structure and strategic behavior, pricing techniques, and government regulation and its implications for firm behavior.  Emphasis is placed on the global context of managerial decisions.
+Prerequisites: MATH 162M and ECON 202S
+ECON 304 Intermediate Microeconomic Theory (3 Credit Hours)
+Develops methods of microeconomic analysis beyond the principles level.  Major emphasis is placed on consumer behavior and demand, production and cost, market organization, distribution theory, and welfare theory.
+Prerequisites: MATH 200 or equivalent and ECON 202S
+ECON 305 Intermediate Macroeconomic Theory (3 Credit Hours)
+Provides an overall 'big picture' of the economy, focusing on the central problems of unemployment, inflation, the business cycle, and economic growth.  Important issues include national income accounting, fiscal policy, monetary policy, the money supply, the money market, interest rates, saving rates, labor markets, productivity, budget surpluses/deficits, trade deficits, and exchange rates.
+Prerequisites: MATH 200 or equivalent and ECON 201S
+ECON 311 Analytical Tools for Economists (3 Credit Hours)
+In this course, students will learn how to build statistical models and use data to answer real-world questions. Through hands-on work with modern statistical software, students will learn to visualize, estimate, interpret, evaluate, and articulate relationships in data. Students will obtain real, tangible skills such as experience with statistical software as well as develop their economic intuition.
+Prerequisites: BNAL 306 and ECON 202S
+ECON 368 Internship (1-3 Credit Hours)
+Supervised internship in economics.  Approval for enrollment and allowable credits is determined by the department. Credit for internship and practicum in economics may not both be applied to meeting requirements for the major.
+Prerequisites: ECON 304 , ECON 305 , or ECON 311
+ECON 369 Practicum in Economics (3 Credit Hours)
+Application of economic theory and principles to a practical problem of interest to a sponsoring community organization.  (Qualifies as a CAP experience.)
+ECON 395 Topics in Economics (1-3 Credit Hours)
+A study of selected topics, the title of which will appear in the course schedule.
+Prerequisites: MATH 162M or equivalent and ECON 202S
+ECON 396 Topics in Economics (1-3 Credit Hours)
+A study of selected topics, the title of which will appear in the course schedule.
+Prerequisites: MATH 162M or equivalent and ECON 202S
+ECON 400 From Correlation to Causation: Applied Causal Inference (3 Credit Hours)
+In this course, students will discover when correlation does in fact imply causation. Traditional statistical tools are used to estimate associative relationships, while the modern causal inference techniques taught in this course will allow students to make causal claims. In other words, students will be able to design statistical tests to answer the question 'what is the effect of X on Y?' This is imperative for researchers, analysts, managers, policy makers, etc. Topics include omitted variable bias, endogeneity, treatment effects, and research designs that identify causation under certain assumptions. Using modern statistical software, students will replicate published studies as well as carry out their own research.
+Prerequisites: ECON 311
+ECON 402/502 Transportation Economics (3 Credit Hours)
+A survey of the transportation system in the United States including its development, pricing, and regulation.  Special attention is given to railroads, highways, pipeline, water and air transportation; and the roles that these modes of transportation play in economic development.
+Prerequisites: MATH 162M or equivalent and ECON 202S
+ECON 407W/507 Labor Market Economics (3 Credit Hours)
+Economic analysis of various facets of labor markets. Emphasis is placed on the analysis of labor supply, labor demand, wage determination, earnings differentials and inequality, occupational choice, human capital investment, labor market discrimination, mobility and immigration, impact of unions, and  unemployment.  This is a writing intensive course.
+Prerequisites: A grade of C or better in ENGL 211C or ENGL 231C , and a declared major at the University or permission of the Dean's Office
+ECON 410/510 Economics for Managers (3 Credit Hours)
+This course provides insight into consumer and business behavior and allows an improved understanding of how the external business environment can shape how businesses operate. Economics is, at its core, a way of thinking about problems, courses of action, and the impact of decisions. Economics stresses the importance of incentives as determinants of consumer and business behavior and stresses the interaction between costs and benefits in the margin with respect to decision making. Managerial economics is a pre-requisite course for the Masters in Business Administration (MBA) degree program and will provide you tools that will prove useful, not only in other economics courses, but also courses in accounting and finance, among others in the MBA program. This course is part of the Linked/Dual Dominion program and exclusively for non-business undergraduate students.
+Prerequisites: Instructor permission
+ECON 421/521 Public Economics (3 Credit Hours)
+This course examines the interaction between government and the economy, with particular emphasis on the role of the federal government.  Topics that address the motivation for government involvement in the economy include market failure, income inequality, and redistribution of income.  Specific programs studied include Medicare/Medicaid, welfare programs, and the social security system.
+Prerequisites: MATH 162M or equivalent and ECON 201S
+ECON 425 Introduction to Mathematical Economics (3 Credit Hours)
+The course focus is on the use of differential and integral calculus, matrix algebra, difference equations and classical optimization theory in the presentation and development of economic theory.
+Prerequisites: MATH 200 or equivalent and ECON 202S
+ECON 427/527 Industrial Organization and Public Policy (3 Credit Hours)
+A study of market structures and the conduct and performance of business firms in different market structures.  The emphasis is on the theory and measurement of industrial concentration and public policy responses to industrial concentration.
+Prerequisites: MATH 162M or equivalent and ECON 202S
+ECON 431/531 Money and Banking (3 Credit Hours)
+Examines the nature and functions of money and credit, the commercial banking system, the Federal Reserve System, the quantity theory of money, the theory of income determination, the balance of payments and exchange rates, and the history of monetary policy in the United States.
+Prerequisites: MATH 162M or equivalent and ECON 201S
+ECON 435/535 Health Economics: A Global Perspective (3 Credit Hours)
+This course introduces the student to the economics of health care and the application of health economics to health care problems, the issues surrounding those problems, and the potential solutions to those problems.  The course will emphasize institutional features of the health care industry, the market for health care, the political economy of health care, and government involvement in the delivery of health care.  Further, the course will survey the delivery of health care in other countries and provide a global perspective on selected health care issues such as AIDS, water and air quality, and the aging of the population.
+Prerequisites: MATH 162M or equivalent and ECON 202S
+ECON 436/536 Sports Economics (3 Credit Hours)
+This course introduces the student to the economics of sports in America.  The course will emphasize institutional features of the sport industry.  Specific topics included are: sports franchises as profit-maximizing firms; monopoly and antitrust rules as applied to the sports industry; public finance of sports; costs and benefits of a sports franchise to a city: the labor economics of professional sports; discrimination in sports; and the economics of college sports.
+Prerequisites: A declared major at the University or permission of the Dean's Office
+ECON 445W/545 Urban Economics (3 Credit Hours)
+An analysis of the economic factors which give rise to the formation of urban centers and which contribute to the following problems: urban poverty, housing conditions, traffic congestion, and the fiscal crisis faced by modern cities.  This is a writing intensive course.
+Prerequisites: A grade of C or better in ENGL 211C or ENGL 231C , and a declared major at the University or permission of the Dean's Office
+ECON 447W/547 Natural Resource and Environmental Economics (3 Credit Hours)
+Topics discussed include conservation and scarcity, market failure, fishery management, benefit-cost analysis, water resource development, environmental quality, recreation, energy, and marine resources.  This is a writing intensive course.
+Prerequisites: A grade of C or better in ENGL 211C or ENGL 231C , and a declared major at the University or permission of the Dean's Office
+ECON 450 International Economics (3 Credit Hours)
+An analysis of the principles of trade theory and policy with an overall exposition of the principles of international finance.  The main objective of the course is to provide knowledge of analytical tools used by economists in analyzing contemporary international economic problems.
+Prerequisites: MATH 162M or higher and ECON 202S
+ECON 451/551 History of Economic Thought (3 Credit Hours)
+A study of the history of economic theory with attention to the economic ideas and philosophy of Adam Smith, David Ricardo, Karl Marx, J.M. Keynes and other major figures in the development of economics.
+Prerequisites: MATH 162M or equivalent and ECON 201S
+ECON 454W/554 Economic Development (3 Credit Hours)
+This course is intended to provide an introduction to the problems of economic development in the Third World, including the problems of economic growth, income distribution, poverty, urbanization, uneven development, agricultural policy, economic planning, industrial policy, trade policy, balance of payments, finance, and currency crises.  To illustrate these issues we will examine the problems of certain individual countries, such as Brazil, Korea, Philippines, India, Mexico, Kenya, Indonesia, and Thailand.  The course tries to strike a balance between economic theory and institutional economics.  This is a writing intensive course.
+Prerequisites: A grade of C or better in ENGL 211C or ENGL 231C , and a declared major at the University or permission of the Dean's Office
+ECON 455/555 Comparative Economic Systems (3 Credit Hours)
+This course examines and compares different economies from around the world, including such economies as the UK, France, Germany, Sweden, Japan, India, Korea, Russia, and China.  Students look at the economic growth, GDP per capita, unemployment, inflation, income distribution, economic efficiency, institutions, policies, industrial structure, legal infrastructure, and international trade of these economies.  Students study the functioning of markets and the problems of market and government failure.  The course addresses the question, what is the best way to organize society.
+Prerequisites: MATH 162M or equivalent and ECON 202S
+ECON 495/595 Selected Topics in Economics (1-3 Credit Hours)
+Taught on an occasional basis.  A study of selected topics, the title of which will appear in the course schedule.
+Prerequisites: MATH 162M or equivalent, ECON 202S , and ECON 301
+ECON 499 Readings in Economics (3 Credit Hours)
+Designed to provide the advanced student in economics an opportunity to do independent study under the guidance of a member of the faculty.

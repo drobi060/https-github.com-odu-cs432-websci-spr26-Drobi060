@@ -1,0 +1,39 @@
+Laboratory work required. The techniques and idioms of object-oriented programming in C++ and Java. Methods of…
+CS 330
+Object-Oriented Programming and Design
+Laboratory work required. The techniques and idioms of object-oriented programming in C++ and Java. Methods of object-oriented analysis and design with the Unified Modeling Language. Multi-thread programs, synchronization, and graphic user interfaces. Prerequisites: CS 252 and a grade of C or better in CS 250. Pre- or corequisite: MATH 211.
+CS 418
+Laboratory work required. Overview of Internet and World Wide Web; web servers and security, HTTP protocol; web…
+CS 418
+Web Programming
+Laboratory work required. Overview of Internet and World Wide Web; web servers and security, HTTP protocol; web application and design; server side scripts and database integration, and programming for the Web. Prerequisites: A grade of C or better in CS 312 and CS 330.
+CS 432
+Provides an overview of the World Wide Web and associated decentralized information structures, focusing mainly on the…
+CS 432
+Web Science
+Provides an overview of the World Wide Web and associated decentralized information structures, focusing mainly on the computing aspects of the Web: how it works, how it is used, and how it can be analyzed. Students will examine a number of topics including: web architecture, web characterization and analysis, web archiving, Web 2.0, social networks, collective intelligence, search engines, web mining, information diffusion on the web, and the Semantic Web. Prerequisites: A grade of C or better in any one of: CS 250, CS 251, CS 253, CS 260, CS 261, CS 263, or DASC 255.
+Careers
+Check out these ideas from ODU's Center for Career & Leadership Development and the Occupational Information Network (O*NET) . A median salary is a midpoint of what people typically earn—half of those surveyed earned above the median salary, and half earned below.
+Computer Programmers
+$87,530 Median Salary
+Create, modify, and test the code, forms, and script that allow computer applications to run. Work from specifications drawn up by software developers or other individuals. May assist software developers by analyzing user needs and designing software solutions. May develop and write computer programs to store, locate, and retrieve specific documents, data, and information.
+Information Security Analysts
+$99,690 Median Salary
+Plan, implement, upgrade, or monitor security measures for the protection of computer networks and information. May ensure appropriate security controls are in place that will safeguard digital files and vital electronic infrastructure. May respond to computer security breaches and viruses.
+Web Developers
+$74,110 Median Salary
+Design, create, and modify Web sites. Analyze user needs to implement Web site content, graphics, performance, and capacity. May integrate Web sites with other computer applications. May convert written, graphic, audio, and video components to compatible Web formats by using software designed to facilitate the creation of Web and multimedia content.
+Network and Computer Systems Administrators
+$86,340 Median Salary
+Install, configure, and support an organization's local area network (LAN), wide area network (WAN), and Internet systems or a segment of a network system. Monitor network to ensure network availability to all system users and may perform necessary maintenance to support network availability. May monitor and test Web site performance to ensure Web sites operate correctly and without interruption. May assist in network modeling, analysis, planning, and coordination between network and data communications hardware and software. May supervise computer user support specialists and computer network support specialists. May administer network security measures.
+Requirements
+What are the requirements to apply for Web Programming at ODU?
+Students entering the Minor program in Web Programming should meet the minimum university admission requirements Undergraduate Admission .
+For completion of a minor, a student must have a minimum overall cumulative grade point average of 2.00 in all courses specified as a requirement for the minor exclusive of prerequisite courses and complete a minimum of six hours in upper-level courses in the minor requirement through courses offered by Old Dominion University.
+More Program and Degree Requirements
+Transfer
+At ODU, we understand that as a transfer student you have unique needs that require a wide array of campus resources. The Center for Advising Administration and Academic Partnerships aims to create a transfer inclusive culture that supports the successful...
+Transfer Info
+Cost
+Estimated rates for the 2025-26 academic year. Rates are subject to change. Other fees are assessed for special services and certain academic programs. Anyone that is not a current Virginia resident will be charged non-resident rates. That includes international students.
+Active Duty Military Rate

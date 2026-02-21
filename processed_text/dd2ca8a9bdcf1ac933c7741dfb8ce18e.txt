@@ -1,0 +1,50 @@
+Web Science and Digital Libraries Research Group
+About
+The Web Science and Digital Libraries (WS-DL) Research Group at Old Dominion University performs research in web archiving, web science, digital libraries, neuro-information retrieval, social media, digital preservation, human-computer interaction, information visualization, natural language processing, accessibility, and mining scholarly data.
+Our alumni have been hired by the Internet Archive, MITRE, Amazon, Google, Microsoft, Los Alamos National Laboratory (LANL),
+and have been faculty and/or researchers at several universities including Drexel University,
+Indiana University, Emory University, University of California at Berkeley, and Columbia College.
+We are grateful for support from the National Science Foundation (NSF), the National Endowment for the Humanities
+(NEH), the Institute of Museum and Library Services (IMLS), National Aeronautics and Space Administration (NASA), Department of Defense (DOD), Department of Energy (DOE), Department of Education (ED), International Internet Preservation Consortium (IIPC), Protocol Laboratories, and the Andrew W. Mellon Foundation.
+Faculty
+Dr. Michael L. Nelson Research topics: web science, web archiving, social media, digital libraries, repositories
+Dr. Michele C. Weigle Research topics: web science, digital preservation, social media, information visualization
+Dr. Sampath Jayarathna Research topics: eye tracking, data science, machine learning, multimodal sensing, cognitive computing, digital libraries Neuro Information Retrieval and Data Science Lab
+Dr. Jian Wu Research topics: text mining, scholarly big data, digital libraries, search engines, natural language processing, applied machine learning, deep learning
+Dr. Vikas Ashok Research topics: human-computer interaction, accessible computing, natural language processing, web technologies
+Dr. Faryaneh Poursardar Research topics: digital libraries, social computing, web science, data science, machine learning, digital data preservation
+Students
+Alumni
+PhD Alumni
+Dr. Frank McCown (2007)
+    - "Lazy Preservation: Reconstructing Websites from the Web Infrastructure" Initial employment: Harding University
+MS Alumni
+Dhruv Patel (2021)
+Puneeth Bikkasandra Puttaramegowda (2020)
+Faculty, students, and alumni at Google Scholar
+@WebSciDL retweets highlights and announcements from WS-DL members
+Software and data at GitHub
+Trip reports, paper summaries, announcements, releases, early results at Blogger
+Annual research summaries: 2024 , 2023 2022 , 2021 , 2020 , 2019 , 2018 , 2017 , 2016 , 2015 , 2014 , and 2013
+Courses
+The Web Science and Digital Libraries research group teaches an exciting and unique set of advanced undergraduate and graduate courses, including:
+CS 395 Research Methods in Data and Web Science Topics: writing proposals, reading & writing papers, giving presentations, Python, Web APIs, reproducibility, LaTeX, and GitHub.
+CS 418/518 Web Programming Topics: LAMP (Linux, Apache, MySQL, PHP), MVC (Model-View-Control), Search Engines, GitHub.
+CS 431/531 Web Server Design Topics: HTTP, REST (Representational State Transfer), HATEOAS.
+CS 432/532 Web Science Topics: Python, GitHub, LaTeX, data visualization, information retrieval, social networks, collective intelligence,
+machine learning.
+CS 480/580 Introduction to Artificial Intelligence Topics: problem representation, problem-solving methods, search, pattern recognition, natural language processing, vision processing, machine learning, and expert systems.
+CS 495/595 Intro to Data Mining Topics: data preprocessing, pattern mining, outlier analysis, and mining of text, data streams, time series, spatial, and graph data.
+CS 495/595 Web Security Topics: HTTP, Cross-Site Request Forgery, Same Origin Policy, Cross-Site Scripting (XSS), Fingerprinting, Denial-of-service, Phishing.
+CS 620 Intro to Data Science & Analytics Topics: Python, Pandas, NumPy, NoSQL, Data Wrangling, ML.
+CS 625 Data Visualization Topics: Tableau, R, Vega-Lite, Observable, Markdown, OpenRefine, data cleaning, visual perception, visualization
+design, exploratory data analysis, visual storytelling.
+CS 725/825 Information Visualization and Visual Analytics Topics: Vega-Lite, D3, Observable, visual analytics, interactive visualization, dashboard design, reading academic
+vis papers.
+CS 728/828 Deep Learning br/>Topics: ully-connected neural networks, recurrent neural networks, convolutional neural networks, regularization, generalization, loss function, backpropagation, attention, transformer, graph neural networks, and deep reinforcement learning
+CS 795/895 Mining Scholarly Big Data Topics: Apache Spark, NLP, Data Mining, Recommenders.
+CS 734/834 Information Retrieval Topics: crawling, ranking, query processing, retrieval models, evaluation, clustering, machine learning.
+CS 795/895 Natural Language Understanding Topics: Fundamentals of neural networks and deep learning, natural language reference, sentiment analysis, and semantic parsing.
+CS 795/895 Intelligent User Interfaces Topics: HCI, Assistive Technologies, Speech Interfaces, Wearable Computing, Crowd-Powered Interfaces
+CS 795/895 Human-Computer Interaction Topics: cognitive and social phenomena surrounding human use of computers.
+CS 795/895 Foundation Models of Data Science Topics: Concept, history, instances of foundation models and their applications in healthcare, biomedicine, law, and education; technology and capabilities as applied to language, vision, robotics, reasoning, search, modeling, training, adaptation, prompt engineering, evaluation, systems, data, security and privacy, robustness to distribution shift, safety and alignment, and interpretability

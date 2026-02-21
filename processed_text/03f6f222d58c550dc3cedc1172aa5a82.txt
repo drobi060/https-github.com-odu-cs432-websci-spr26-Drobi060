@@ -1,0 +1,12 @@
+ODU Grad Students Place Third at Inaugural Hampton Roads Datathon
+ODU Grad Students Place Third at Inaugural Hampton Roads Datathon
+October 14, 2022
+By Joe Garvey
+A team of Old Dominion University graduate students recently placed third in the inaugural Hampton Roads Datathon.
+The theme of the event, which was hosted by CivicLab Norfolk at the Slover Library, was "Analyzing, Promoting, and Protecting Biodiversity in Hampton Roads." The ODU team - Prashant Tomar, Swati Mishra, Zlatka Rebolledo Sanchez and Rohit Chaudhary - focused its project on local wetlands to assess the severity of wetland depletion. It used ArcGIS data, which is used to make maps, analyze information and to share and collaborate, to create a story map that examined the current protection of regional wetlands.
+Among their findings: Less than 35% of the total area of wetlands in Hampton Roads are part of protected land and only 6% of the total protected/managed area contains wetlands.
+"Our students' Datathon project illustrates the various threats compromising our wetlands and the value of a collaborative, multidisciplinary approach to exploring potential solutions," said Ravi Mukkamala, chair and professor of computer science.
+A total of 16 teams, with 77 participants, from municipalities, universities, nonprofits and residents participated. The winning team came from the Hampton Roads Planning District Commission with a project on how sea level rise and flooding affects tree health and canopy coverage.
+Teams consisted of two to six members. A virtual kickoff was held Sept. 9, and teams had one week to prepare their presentations, which were hosted at the Slover.
+"We are excited to see students in our graduate program in data science and analytics collaborating with students in other programs to address a critical problem in our Hampton Roads area dealing with the depletion of wetlands," said Mohammad Zubair, a professor of computer science.
+CivicLab Norfolk offers programs, tools and training to help employees and residents understand and harness city data to improve the community. Its core belief is that "a citywide culture of collaboration and data-informed decision-making is crucial to Norfolk's success."

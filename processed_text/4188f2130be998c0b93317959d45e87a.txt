@@ -1,0 +1,229 @@
+M.B.A. in , Old Dominion University, (1993)
+Ph.D. in Computer Science, University of Iowa, (1987)
+Other in Computer Systems, Indian Institute of Technology Kanpur, (1978)
+B.E. in Electronics and Communications, Osmania University, (1976)
+Research
+Contracts, Grants and Sponsored Research
+Mukkamala, R. and Creedon, J. "Next generation ATC system concepts and performance measurements" $900,000. Federal. December 2008 - December 2011
+Maly, K. J., Zubair, M. and Mukkamala, R. "Autonomic approach to change management and reservation of IT resources in a virtual computing lab environment" $25,000. Private. 2008 - 2008
+Maly, K. J., Zubair, M. and Mukkamala, R. "Automating IT infrastructure management processes in a typical university environment" $40,000. Private. 2007 - 2007
+Maly, K. J., Zubair, M. and Mukkamala, R. "Autonomic approach to change management and reservation of IT resources in a virtual computing lab environment" $25,000. Private. 2007 - 2007
+Mukkamala, R. and Creedon, J. "Evaluation and analysis of airspace systems operational improvement concepts" $120,000. November 2006 - May 2007
+Maly, K. J., Zubair, M. and Mukkamala, R. "Automating IT infrastructure management processes in a typical university environment " $40,000. Private. 2006 - 2006
+Mukkamala, R., Gupta, A. and Myran, S. "Integrating reading/science into the core area for grades 4-8 teachers" $187,195. Federal. 2005 - 2006
+Mukkamala, R. "Integration, reconfiguration, and reusability of HUMS architectures" $113,204. Federal. 2004 - 2006
+Maly, K. J., Zubair, M. and Mukkamala, R. "Dynamic distributed access control management system for a federated digital library based on IBM autonomic policy framework" $40,000. Private. 2005 - 2005
+Mukkamala, R., DeBate, R. and Gupta, A. "Health education technology: Increasing the capacity among dental practitioners in the secondary prevention of eating disorders" $17,000. Old Dominion University. 2005 - 2005
+Maly, K. J., Zubair, M. and Mukkamala, R. "Dynamic distributed access control management system for a federated digital library based on IBM autonomic policy framework" $40,000. Private. 2004 - 2004
+Select Publications
+Articles
+Sayi, T., Krishna, R. Sai., Mukkamala, R. and Baruah, P. (2014).  Privacy Preserving Data Distribution in Outsourced Environments.
+Ravu, S., Neelakandan, P., Gorai, M., Mukkamala, R. and Baruah, P. (2012).  A computationally efficient and scalable approach for privacy preserving kNN classification. IEEE International Conference on High Performance Computing (HiPC).
+Krishna Prasanth, R., Mukkamala, R. and Baruah, P. (2012).  Employing GPU Accelerators for Efficient Enforcement of Data Integrity in Outsourced Data. HiPC 2012.
+AbdelSalam, H., Maly, K. J., Mukkamala, R., Zubair, M. and Kaminksy, D. (2010).  A Proactive Energy-Efficient Technique for Change Management in Computing Clouds. International Journal On Advances in Networks and Services 3 (1 and 2) , pp. 310–322.
+Maly, K. J., AbdelSalam, H., Mukkamala, R., Zubair, M. and Kaminsky, D. (2010).  Analysis of energy efficiency in clouds. International Journal on Advances in Networks and Services.
+Maly, K. J., Salam, H. Abdel., Mukkamala, R., Zubair, M. and Kaminsky, D.  Scheduling-capable autonomic manager for policy based IT change management system. Journal of Enterprise Information Systems.
+Vatsavayi, V. Kumari. and Mukkamala, R. (2009).  M-Commerce Payment Systems. Selected Readings on Electronic Commerce Technologies: Contemporary Applications.
+Alturi, V., Chun, S., Mukkamala, R. and Mazzoleni, P. (2007).  A decentralized execution model for inter-organizational workflows. J. Distributed Parallel Databases 22 , pp. 55-83.
+Moharrum, M. A., Mukkamala, R. and Eltoweissy, M. (2006).  A collusion-resilient architecture for secure group communications in wireless ad-hoc networks. Journal of High Speed Networks, IOS Press.
+Moharrum, M. A., Mukkamala, R. and Eltoweissy, M. (2006).  A novel collusion-resilient architecture for secure group communication in wireless ad-hoc networks. Journal of High Speed Networks 15 (1) , pp. 73–92.
+Moharrum, M., Eltoweissy, M. and Mukkamala, R. (2006).  Dynamic combinatorial key management scheme for sensor networks. Wireless Communications and Mobile Computing 6 (7) , pp. 1017–1035.
+Eltoweissy, M., Moharrum, M. A. and Mukkamala, R. (2006).  Dynamic key management in sensor networks. Communications Magazine, IEEE 44 (4) , pp. 122–130.
+Mukkamala, R., Moharrum, M. A. and Eltoweissy, M. (2006).  Dynamic localized combinatorial key management scheme in sensor networks. Wireless Communications and Mobile Computing.
+Mukkamala, R. and ElToweissy, M. (2006).  Mohammed A Moharrum.
+Eltoweissy, M., Moharrum, M. A. and Mukkamala, R. (2006).  Dymanic key management in sensor networks. IEEE Communications.
+Mukkamala, R., Pedagani, R. and Keskar, H. (2005).  TDMS: Test data management system for aviation software. IEEE Aerospace and Electronic Systems Magazine.
+King, R., Orlowska, M., Bertino, E., McLeod, D., Jajodia, S., Strous, L., Abel, D., Aberer, K., Carlis, J., Catarci, T. and Mukkamala, R. (2005).  JoDS volume 2-Guest editorial.
+Bhoopalam, K., Maly, K. J., McCown, F., Mukkamala, R. and Zubair, M. (2005).  Ontologies and Content Management in Digital Libraries-A Standards-Based Approach for Supporting Dynamic Access Policies for a Federated Digital Library. Lecture Notes in Computer Science 3815 , pp. 242–252.
+Eltoweissy, M., Jajodia, S. and Mukkamala, R. (2005).  Secure multicast for mobile commerce applications: Issues and challenges. TeAM YYePG , pp. 164.
+Mukkamala, R., Pedagani, R. and Keskar, H. (2005).  TDMS for aviation software. Aerospace and Electronic Systems Magazine, IEEE 20 (12) , pp. 15–20.
+Scandura, Jr, P. A., Mukkamala, R., Chadalawada, L., Rajput, D., Leelavinothan, K., Ramesh, R., Bedre, S., Mariyappa, P., Ferguson, R., Thompson, H. C. and others (2005).  Track 7–Avionics Upgrades and Vehicle Health Management Chair: Ellis Hitt, Strategic Systems Solutions, Inc.. IEEE.
+Mukkamala, R., Adavi, V., Agarwal, N., Gullapalli, S., Kumar, P. and Sundaram, P. (2004).  HADL: HUMS Architectural Description Language.
+Mukkamala, R. (2004).  Specification, Design, and Analysis of Advanced HUMS Architectures.
+Mukkamala, R., Das, S. and Halappanavar, M. (2003).  Recertification: A technique to improve services in public-key infrastructure. Proc. Sixteenth IFIP WG 11 , pp. 277–293.
+Atluri, V. and Mukkamala, R. (2002).  Employing an extended transaction model in multilevel secure transaction processing. INFORMATICA-LJUBLJANA- 26 (2) , pp. 105–116.
+Son, S. H., Mukkamala, R. and David, R. (2001).  Correction to’Integrating Security and Real-Time Requirements Using Covert Channel Capacity’. IEEE Transactions on Knowledge and Data Engineering 13 (5) , pp. 862–862.
+Jajodia, S., Atluri, V., Keefe, T. F., McCollum, C. D. and Mukkamala, R. (2001).  Multilevel secure transaction processing. Journal of Computer Security 9 (3) , pp. 165–195.
+David, R., Son, S. H. and Mukkamala, R. (2000).  Supporting multilevel security requirements in real-time databases. Citeseer 12 (6) , pp. 865-879.
+Son, S. Hyuk., Mukkamala, R. and David, R. (2000).  Integrating security and real-time requirements using covert channel capacity. Knowledge and Data Engineering, IEEE Transactions on 12 (6) , pp. 865–879.
+Jajodia, S., Mukkamala, R. and Ray, I. (1998).  A Two-tier coarse indexing scheme for MLS database systems. Database Security 11 , pp. 199–218.
+Mukkamala, R. (1998).  Data Link Performance Analysis for LVLASO Experiments.
+Mukkamala, R. (1998).  Sensitivity Analysis of Data Link Alternatives for LVLASO.
+McCollum, C. and Mukkamala, R. (1997).  . Database Security X: Status and prospects 10 , pp. 79.
+Yerraballi, R. and Mukkamala, R. (1997).  Schedulability and Scalability of Periodic Flow/Job Shops with End-to-End Deadlines.
+McDermott, J. and Mukkamala, R. (1996).  Analytic performance comparison of transaction processing algorithms for the SINTRA replicated-architecture database system. Journal of Computer Security 4 (2) , pp. 189–228.
+Mukkamala, R. and Bryant, W. H. (1996).  CARE COSTS.
+Mukkamala, R. (1996).  Integration of LVLASO System with ATN(Final Report, period ended 11 Aug. 1996).
+Mukkamala, R., Maly, K., Levinstein, I., Foudriat, E. and others (1996).  MRS: An Integrated Medical Record System. Old Dominion University.
+Atluri, V., Jajodia, S., Keefe, T. F., McCollum, C. D. and Mukkamala, R. (1996).  Multilevel Secure Transaction Processing: Status and Prospects.. DBSec 8 (1) , pp. 79–98.
+Yerraballi, R. and Mukkamala, R. (1996).  Scalability based admission control of real-time channels. 17th IEEE Real-Time Systems Symposium: Works in Progress Session.
+Mukkamala, R. (1996).  Scalability in Real-Time Systems with End-to-End Requirements. Journal of Systems Architecture 42 (6-7) , pp. 409-429.
+Loper, D., Panayides, G. S. and Mukkamala, R. (1995).  Developing Complex Process Schedulers on QNX. Old Dominion University.
+Maly, K. J., Dharanikota, S., Mukkamala, R. and Overstreet, C. (1995).  Missing end-system QoS components: A case-study. Old Dominion University, Norfolk, VA.
+Maly, K. J., Abdel-Wahab, H. M., Mukkamala, R., Gupta, A., PRABHU, A., SYED, H. and VEMURU, C. (1995).  Mosaic plus XTV equals COREVIEW. COMPUTER NETWORKS AND ISDN SYSTEMS 27 (6) , pp. 849–860.
+Maly, K., Abdel-Wahab, H. M., Mukkamala, R., Gupta, A., Prabhu, A., Syed, H. and Vemuru, C. (1995).  Mosaic+ XTV= CoReview. Computer Networks and ISDN Systems 27 (6) , pp. 849–860.
+Dharanikota, S., Maly, K. J., Kvande, B., Overstreet, C. and Mukkamala, R. (1995).  Providing predictable performance to a network-based application over ATM. HPCS-95, Mystic, August.
+Loper, D., Panayides, G. S. and Mukkamala, R. (1995).  Complex Real-time Schedulers for QNX1. , pp. 625-628.
+Stoica, I., Yerraballi, R. and Mukkamala, R. (1994).  A Simple Ordered and Reliable Group Multicast Protocol*. Old Dominion University.
+Jajodia, S., Mukkamala, R. and Ramarao, K. (1994).  A view-based dynamic replication control algorithm. Nord. J. Comput. 1 (2) , pp. 214–230.
+Chaganty, N. R. and Mukkamala, R. (1994).  Modeling and analysis of standby redundant computing systems. Microelectronics Reliability 34 (2) , pp. 323–334.
+Foudriat, E. C., Maly, K. J., Mukkamala, R., Overstreet, C. Michael., Mathews, L. and Balay, S. (1994).  RAIN (redundant array of inexpensive networks): Expanding existing networks to support multitraffic performance. Old Dominion University.
+Xu, M., Tao, J. and Mukkamala, R. (1994).  Representing monitored systems: A critical process in data collection. Microelectronics Reliability 34 (9) , pp. 1477–1484.
+Mukkamala, R. (1994).  Storage efficient and secure replicated distributed databases. Knowledge and Data Engineering, IEEE Transactions on 6 (2) , pp. 337–341.
+David, R., Son, S. H. and Mukkamala, R. (1994).  Supporting Timing Constraints and Security Requirements in Real-Time Databases. Old Dominion University, Norfolk, VA.
+Jajodia, S. and Mukkamala, R. (1993).  Measuring the effect of commutative transactions on distributed database performance. Information sciences 68 (1) , pp. 91–111.
+Kuang, Y. and Mukkamala, R. (1993).  Measuring the Effects of Node Clustering on the Performance of Token Ring Based Mutual Exclusion Algorithms. MODELING AND SIMULATION 23 , pp. 2527–2527.
+Chaganty, N. R. and Mukkamala, R. (1993).  Order statistics based modeling of gracefully degrading computing systems. Microelectronics Reliability 33 (9) , pp. 1281–1291.
+Maly, K., Foudriat, E. C.., Mukkamala, R., Overstreet, C. Michael. and Game, D. (1992).  Dynamic allocation of bandwidth in multichannel metropolitan area networks. Computer networks and ISDN systems 25 (2) , pp. 203–223.
+Mukkamala, R. (1992).  Measuring the effects of distributed database models on transaction availability measures. Performance evaluation 14 (1) , pp. 1–20.
+Mukkamala, R. and Jajodia, S. (1991).  A note on estimating the cardinality of the projection of a database relation. ACM Transactions on Database Systems (TODS) 16 (3) , pp. 564–566.
+Kuang, Y. and Mukkamala, R. (1991).  A Note on the Performance Analysis of Static Locking in Distributed Database Systems. 1991. 9.
+Mukkamala, R. (1991).  Building a generalized distributed system model(Progress Report, period ended 31 Jul. 1991).
+FOUDRIAT, E., Maly, K. J., Mukkamala, R., MURRAY, N. and Overstreet, C. Michael. (1991).  Extremely high data rate, reliable network systems research(Annual Report, 16 Aug. 1990- 31 Aug. 1991).
+Stewart, T. R. and Mukkamala, R. (1991).  Heterogeneous distributed databases: A case study. In its Performance Related Issues in Distributed Database Systems 7 p(SEE N 91-25952 17-82).
+Shen, S., Mukkamala, R. and Xu, M. (1991).  Intelligent monitoring: An effective way to facilitate performance analysis. Modeling and Simulation: Proceedings of the Annual Pittsburgh Conference 22 , pp. 880.
+EL-TOWEISSY, M., ZEINELDINE, O. and Mukkamala, R. (1991).  Measuring the effects of heterogeneity on distributed systems. 1991. 6.
+Mukkamala, R. (1991).  Performance related issues in distributed database systems(Final Report, period ending 15 May 1991).
+Mukkamala, R., Foudriat, E., Maly, K. J. and Kale, V. (1990).  Alternative parallel ring protocols.
+Mukkamala, R. and Bruell, S. C.. (1990).  Efficient schemes to evaluate transaction performance in distributed database systems. The Computer Journal 33 (1) , pp. 79–89.
+FOUDRIAT, E., Maly, K. J., Mukkamala, R., MURRAY, N. and Overstreet, C. Michael. (1990).  Extremely high data-rate, reliable network systems research(Annual Progress Report, 15 Aug. 1989- 15 Aug.)(1990).
+Bailey, R. and Mukkamala, R. (1990).  Pipelining data compression algorithms. The Computer Journal 33 (4) , pp. 308–313.
+Mukkamala, R. (1989).  Measuring the effects of data distribution models on performance evaluation of distributed database systems. Knowledge and Data Engineering, IEEE Transactions on 1 (4) , pp. 494–507.
+Mukkamala, R. and SC Shultz, R. (1988).  A heuristic algorithm for determining a near-optimal set of nodes to access in a partially replicated distributed database system. Data engineering.
+Mukkamala, R. (1987).  Design of partially replicated distributed database systems: An integrated methodology(Ph. D. Thesis).
+Books
+Mukkamala, R. (1996). Information Technology: A Tool to Cut Health Care Costs: Final Report. Department of Computer Science, College of Sciences, Old Dominion University.
+Book Chapters
+Ashok, V. G. and Mukkamala, R. (2014).  A Scalable and Efficient Privacy Preserving Global Itemset Support Approximation Using Bloom Filters Data and Applications Security and Privacy XXVIII (pp. 382–389) Springer Berlin Heidelberg.
+Aditya, T., Baruah, P. Kumar. and Mukkamala, R. (2011).  Employing Bloom Filters for Enforcing Integrity of Outsourced Databases in Cloud Environments Advances in Computing and Communications (pp. 446–460) Springer.
+Mukkamala, R., Kamisetty, V. and Yedugani, P. (2009).  Detecting and Resolving Misconfigurations in Role-Based Access Control (Short Paper) Information Systems Security (pp. 318–325) Springer.
+Das, M. Lal. and Mukkamala, R. (2008).  Revisiting Bluetooth Security (Short Paper) Information Systems Security (pp. 132–139) Springer.
+Mukkamala, R. and Vatsayi, V. (2007).  Mobile commerce payment systems . In: Global Mobile Commerce: Strategic Perspectives and Implementation Cases IDEA Group, Inc.
+Bhoopalam, K., Maly, K. J., Mukkamala, R., Zubair, M., Agrawal, D. and Kaminsky, D. (2006).  A comparative study of specification models for autonomic access control of digital rights Digital Rights Management. Technologies, Issues, Challenges and Systems (pp. 102–112) Springer.
+Mukkamala, R., Atluri, V. and Warner, J. (2006).  A distributed service registry for resource sharing among ad-hoc dynamic coalitions Security Management, Integrity, and Internal Control in Information Systems (pp. 319–333) Springer.
+Mukkamala, R., Alturi, V., Warner, J. and Abbadasari, R. (2006).  A distributed coalition service registry for ad-hoc dynamic coalitions: A service-oriented approach. In: Advances in Data and Applications Security XX.
+Warner, J., Atluri, V. and Mukkamala, R. (2005).  An attribute graph-based approach to map local access control policies to credential based access control policies. In: Information Systems Security (pp. 134-147) LNCS.
+Warner, J., Atluri, V. and Mukkamala, R. (2005).  A credential-based approach for facilitating automatic resource sharing among ad-hoc dynamic coalitions Data and Applications Security XIX (pp. 252–266) Springer.
+Warner, J., Atluri, V. and Mukkamala, R. (2005).  An attribute graph based approach to map local access control policies to credential based access control policies Information Systems Security (pp. 134–147) Springer.
+Abbadasari, R., Mukkamala, R. and Kumari, V. Valli. (2005).  Mobicoin: digital cash for m-commerce Distributed Computing and Internet Technology (pp. 441–451) Springer.
+Warner, J., Alturi, V. and Mukkamala, R. (2005).  A credential-based approach for facilitating automatic resource sharing among adhoc dymanic coalitions (pp. 252-266) Data and Applications Security XIX.
+Halappanavar, M. and Mukkamala, R. (2004).  ECPV: efficient certificate path validation in public-key infrastructure Data and Applications Security XVII (pp. 215–228) Springer.
+Abbadasari, R., Mukkamala, R. and Kumari, V. Valli. (2004).  Mobicoin: Digital cash for M-commerce. In: Lecture Notes in Computer Science (pp. 430-439) Springer-Verlag.
+Mukkamala, R., Chekuri, L., Moharrum, M. A. and Palley, S. (2004).  Policy-Based Security Management for Enterprise Systems Research Directions in Data and Applications Security XVIII (pp. 219–233) Springer.
+Mukkamala, R. and Jajodia, S. (2002).  A novel approach to certificate revocation management Database and Application Security XV (pp. 225–238) Springer.
+Atluri, V. and Mukkamala, R. (2002).  An extended transaction model approach for multilevel secure transaction processing Database and Application Security XV (pp. 255–268) Springer.
+Mukkamala, R. (2002).  QPKI: A QoS-based architecture for public-key infrastructure (PKI) Progress in Cryptology—INDOCRYPT 2002 (pp. 108–121) Springer.
+Mukkamala, R., Gagnon, J. and Jajodia, S. (2000).  Integrating data mining techniques with intrusion detection methods Research Advances in Database and Information systems security (pp. 33–46) Springer.
+Maly, K., Gupta, A., Levinstein, I. B., Mukkamala, R., Kvande, B., Nanjangud, S., Olson, M., Whitney, R. and Chambers, R. (1996).  PMES: Privilege management and enforcement system for secure distributed resource sharing Advanced IT Tools (pp. 348–355) Springer.
+Foudriat, E., Maly, K. J., Mukkamala, R. and Overstreet, C. (1993).  Parallel Networking: Improving Capacity and Multi-traffic Performance Together Local Area Network Interconnection (pp. 297–311) Springer.
+ZeinElDine, O., El-Toweissy, M. and Mukkamala, R. (1991).  A distributed scheduling algorithm for heterogeneous real-time systems Advances in Computing and Information—ICCI’91 (pp. 588–598) Springer.
+Conference Proceeding
+Ghazizadeh, P., Mukkamala, R. and Olariu, S. (2013).  Data Integrity Evaluation in Cloud Database-as-a-Service Services (SERVICES), 203 IEEE Ninth World Congress on (pp. 280–285).
+Krishna, R., Sayi, T., Mukkamala, R. and Baruah, P. K. (2012).  Efficient privacy-preserving data distribution in outsourced environments: a fragmentation-based approach Proceedings of the International Conference on Advances in Computing, Communications and Informatics (pp. 589–595).
+Sayi, T., Krishna, R. Sai., Mukkamala, R. and Baruah, P. Kumar. (2012).  Preserving privacy of outsourced data: A cluster-based approach Information Reuse and Integration (IRI), 2012 IEEE 13th International Conference on (pp. 215–223).
+Krishna, R. Sai., Sayi, T., Mukkamala, R. and Baruah, P. K. (2012).  Privacy-Preserving Data Management in Mobile Environments: A Partial Encryption Approach Mobile Data Management (MDM), 2012 IEEE 13th International Conference on (pp. 167–175).
+Sayi, T., Krishna, R. Sai., Mukkamala, R. and Baruah, P. K. (2012).  Data outsourcing in cloud environments: A privacy preserving approach Information Technology: New Generations (ITNG), 2012 Ninth International Conference on (pp. 361–366).
+Mukkamala, R., Creedon, J. and Ghazizadeh, P. (2012).  Analyzing a subsystem to identify properties of a large system: an application in airline routing decisions Proceedings of the 2012 Symposium on Theory of Modeling and Simulation-DEVS Integrative M&S Symposium (pp. 8) Orlando, FL:.
+Gorai, M., Sridharan, K., Aditya, T., Mukkamala, R. and Nukavarapu, S. (2011).  Employing bloom filters for privacy preserving distributed collaborative knn classification Information and Communication Technologies (WICT), 2011 World Congress on (pp. 495–500).
+Desaraju, S. and Mukkamala, R. (2011).  Multiprocessor implementation of modeling method for Planted Motif Problem Information and Communication Technologies (WICT), 2011 World Congress on (pp. 524–529) Mumbai, India: WICT 2011.
+Mukkamala, R. and Ashok, V. G. (2011).  Fuzzy-based Methods for Privacy-Preserving Data Mining Information Technology: New Generations (ITNG), 2011 Eighth International Conference on (pp. 348–353).
+Ashok, V. and Mukkamala, R. (2011).  Data mining without data: a novel approach to privacy-preserving collaborative distributed data mining Proceedings of the 10th annual ACM workshop on Privacy in the electronic society (pp. 159–164) Chicago, IL: Workshop on Privacy in the Electromic Society (WEPS 2011), CCS 2011.
+Aditya, T., Baruah, P. Kumar. and Mukkamala, R. (2011).  Space-Efficient Bloom Filters for Enforcing Integrity of Outsourced Data in Cloud Environments Cloud Computing (CLOUD), 2011 IEEE International Conference on (pp. 292–299) Washington DC: IEEE CLOUDS 2011.
+Srinivasan, S. A., Mukkamala, R. and Venkataramanaiah, K. (2009).  Key scheduling in an SPN cryptosystem using musical notes (pp. 123-130) Orlando, Florida: 2009 International Conference Information Security and Privacy (ISP-09).
+Mukkamala, R. and Creedon, J. (2009).  Measuring the effect of modeling assumptions on estimating origin-destination airport passenger traffic (pp. 106-110) Las Vegas, Nevada: 2009 International Conference Modeling, Simulation, and Visualization Methods 2009 (MSV 2009).
+Mukkamala, R., Kamisetty, V. and Yedugani, P. (2009).  Detecting and resolving misconfigurations in role based access control Kolkata: Fifth International Conference Information Systems Security (ICISS 2009).
+Srinivasan, S. A., Mukkamala, R. and Venkataramanaiah, K. (2009).  Design and analysis of cryptographically strong s-boxes: A novel approach (pp. 117-123) Las Vegas, Nevada: 2009 International Conference Security and Management (SAM 2009).
+Srinivasan, S. A., Mukkamala, R. and Venkataramanaiah, K. (2009).  Key scheduling in an SPN cryptosystem using musical notes Orlando, Florida: 2009 International Conference Information Security and Privacy (ISP-09).
+Maly, K. J., Abdel Salam, H., Mukkamala, R., Zubair, M. and Kaminsky, D. (2009).  Towards energy efficient change management in a cloud computing environment (pp. 161-167) Entwente: AIMS 2009.
+Mukkamala, R., Lakkoju, S., Kamineni, V., Kamisetty, S., Polu, A. and Creedon, J. (2008).  Improving runway capacity: an integrated approach using modeling, simulation, and analysis Proceedings of the 2008 Spring simulation multiconference (pp. 190–197).
+Sampath, S., Iyer, R., Sridharan, K., Mukkamala, R. and Kapoor, S. (2008).  Secure Web-Based Sharing of Health Information Services Using Ad-Hoc Dynamic Coalitions Information Technology: New Generations, 2008. ITNG 2008. Fifth International Conference on (pp. 297–302).
+Zubair, M., Halappanavar, M., Kumar, A. and Mukkamala, R. (2008).  Efficient parallel implementations of binomial tree option price valuation (pp. 74-81) New Orleans, LA: International Conference on Parallel and Distributed Computing and Communication Systems (PDCCS-2008).
+Maly, K. J., Abdel Salam, H., Mukkamala, R., Zubair, M. and Kaminsky, D. (2008).  Scheduling-capable autonomic manager for policy based IT change management system (pp. 386-392) Munich: EDOC 2008.
+Sampath, S., Iyer, R., Sridharan, K. S., Mukkamala, R. and Kapoor, S. (2008).  Coaliton service registry for ad-hoc dynamic coalitions Orlando, Florida: Proc. Intl. Conf. on Enterprise Information Systems and Web Technologies.
+Zubair, M. and Mukkamala, R. (2008).  High performance implementation of binomial option pricing (pp. 852-866) Perugia: International Conference on Computational Science and Its Applications, Springer LNCS.
+Mukkamala, R., Lakkoju, S., Kamineni, V., Kamisetty, S. and Creedon, J. (2008).  Improving runaway capacity: An integrated approach using modeling, simulation, and analysis Ottawa: Spring Simulation Multiconference, BIS 2008.
+Sampath, S., Iyer, R., Sridharan, K. S., Mukkamala, R. and Kapoor, S. (2008).  Secure webbased sharing of health information services using ad-hoc coalitions (pp. 297-302) Las Vegas, NV: Proceedings of the 5th International Conference on Information Technology: New Generations (ITNG 2008).
+Abdel Salam, H., Mukkamala, R., Gouda, M. G. and Naga, N. (2007).  Security features and requirements of groupware technology (pp. 13-18) Cairo: 3rd International Computer Engineering Conference, ICENCO.
+Sateesh, A., Iyer, R., Prabhakar Rao, G. V., Kapoor, S. and Mukkamala, R. (2007).  SPN: A web services security policy negotiator Bhubaneswar: Proc. Intl. Conf. Web Engineering and Applications (ICWA).
+Maly, K. J., Abdel Salam, H., Mukkamala, R. and Zubair, M. (2007).  Infrastructure aware autonomic manager for change management (pp. 66-69) Bologna: Policy 2007.
+Warner, J., Atluri, V., Mukkamala, R. and Vaidya, J. (2007).  Using semantics for automatic enforcement of access control policies among dynamic coalitions (pp. 235-244) SACMAT 2007.
+Maly, K. J., Abdel Salam, H., Mukkamala, R., Zubair, M. and Kaminsky, D. L. (2007).  Autonomic approach to IT infrastructure management in a virtual computing lab environment Raleigh, N. Carolina: ICVCIR 2007.
+Maly, K. J., Bhoopalam, K., Mukkamala, R. and Zubair, M. (2007).  A scriptable, statistical oracle for metadata extraction system Vienna: ARES 2007.
+Zubair, M., Bhoopalam, K., Mukkamala, R. and Maly, K. J. (2007).  Framework for information sharing across multiple government agencies under dynamic access policies (pp. 934-940) Vienna: ARES 2007.
+Vatsayi, V. and Mukkamala, R. (2006).  Fair and secure M-cash Atlanta, GA: IEEE International Conference on Granular Computing.
+Gupta, A., Myran, S., Bell, C., Mukkamala, R., Nelson, L., Taylor, H. and Williams, W. (2006).  Building teacher capacity in grades 4-8, through collaboration VRSA Conference.
+Maly, K. J., Bhoopalam, K., Mukkamala, R., McCown, F. and Zubair, M. (2005).  A standards-based approach for supporting dynamic access policies for a federated digital library (pp. 242-253) Bangkok: Proceedings of ICADL 05.
+Zubair, M., Bhoopalam, K., Maly, K. J. and Mukkamala, R. (2005).  Access management in federated digital libraries IADIS International Journal of WWW/Internet.
+Mukkamala, R., Alturi, V. and Warner, J. (2005).  Distributed service registry for resource sharing among ad-hoc dynamic coalitions Fairfax, Virginia: IFIP 11.1 & 11.5 Joint Working Conference.
+Maly, K. J., Bhoopalam, K., Mukkamala, R., Zubair, M., Argawal, D. and Kaminsky, D. (2005).  A comparitive study of access control specification models for self-protecting autonomic systems Sydney: CD-ROM proceedings, session 3-08, DRMTICS 2005.
+Ramesh, R. and Mukkamala, R. (2005).  A process model for engineering of complex systems architectures with complex subsystem architecture reuse in mind (pp. 1-10) Crystal City, Virginia: 24th IEEE Digital Avionics Systems Conference.
+Agarwal, N. and Mukkamala, R. (2005).  Design of complex systems: Issues and challenges (pp. 9.C.3.1-8) Crystal City, Virginia: 24th IEEE Digital Avionics Systems Conference.
+Mukkamala, R., Chadalawada, L., Rajpat, D. and Leelavinothan, K. (2005).  Developing flexible models and efficient tools for reconfiguration of HUMS architectures (pp. 1-10) 24th IEEE Digital Avionics Systems Conference.
+Mukkamala, R., Moharrum, M. A. and Eltoweissy, M. (2005).  Key management in sensor networks: Static versus dynamic keying 2nd ACM Workshop on Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks (PE-WASUN 2005).
+Bedre, S., Mariyappa, P. and Mukkamala, R. (2005).  Tools for reuse of HUMS architectures: A survey (pp. 1-5) Crystal City, Virginia: 24th IEEE Digital Avionics Systems Conference.
+Maly, K. J., Bhoopalam, K., McCown, F., Mukkamala, R. and Zubair, M. (2005).  A flexible framework for content-based access management for federated digital libraries (pp. 489-490) Vienna: ECDL.
+Sheu, M., Tang, L. and Mukkamala, R. (2004).  A Systematic Approach to Security Deployment in a Networking Environment. Security and Management (pp. 228–234).
+Moharrum, M. A., Mukkamala, R. and Eltoweissy, M. (2004).  CKDS: an efficient combinatorial key distribution scheme for wireless ad-hoc networks Performance, Computing, and Communications, 2004 IEEE International Conference on (pp. 631–636).
+Moharrum, M. A., Mukkamala, R. and Eltoweissy, M. (2004).  Efficient secure multicast with well-populated multicast key trees Parallel and Distributed Systems, 2004. ICPADS 2004. Proceedings. Tenth International Conference on (pp. 215–222).
+Adams, J., Abbadasari, R. and Mukkamala, R. (2004).  EZ-Park: An Innovative Secure M-Commerce Application. Security and Management (pp. 348–352).
+Mukkamala, R., Myadam, S., Ramesh, R. and Agarwal, N. (2004).  Integration of communication and computational architectures for HUMS Digital Avionics Systems Conference, 2004. DASC 04. The 23rd (pp. 7–E).
+Mukkamala, R., Agarwal, N., Ramesh, R. and Myadam, S. (2004).  Reconfiguring HUMS architectures for changing environments Digital Avionics Systems Conference, 2004. DASC 04. The 23rd (pp. 7–E).
+Mukkamala, R., Ramesh, R., Agarwal, N., Bandagadde, M. and Myadam, S. (2004).  Reusability: A technique for the design of HUMS architectures Digital Avionics Systems Conference, 2004. DASC 04. The 23rd (pp. 7–E).
+Moharrum, M. A., Mukkamala, R. and Eltoweissy, M. (2004).  TKGS: verifiable threshold-based key generation scheme in open wireless ad hoc networks Computer Communications and Networks, 2004. ICCCN 2004. Proceedings. 13th International Conference on (pp. 31–36).
+Maly, K. J., Bhoopalam, K., Zubair, M. and Mukkamala, R. (2004).  Access management in federated digital libraries Madrid: ICWI.
+Sura, P. K. and Mukkamala, R. (2003).  A PKI Architecture for Academic Institutions: Design and Prototype. Security and Management (pp. 205–212).
+Mukkamala, R., Agarwal, N., Kumar, P. and Sundaram, P. (2003).  Designing domain-specific hums architectures: an automated approach Digital Avionics Systems Conference, 2003. DASC’03. The 22nd (pp. 11–D).
+Mukkamala, R. and Balusani, S. (2002).  Active certificates: A new paradigm in digital certificate management Parallel Processing Workshops, 2002. Proceedings. International Conference on (pp. 30–37).
+Vemulapalli, S., Halappanavar, M. and Mukkamala, R. (2002).  Security in distributed digital libraries: issues and challenges Parallel Processing Workshops, 2002. Proceedings. International Conference on (pp. 480–486).
+Mukkamala, R. and Halappanavar, M. (2002).  TOC Approach to Recertification in Public Key Infrastructure1 Proc. Sixth World Multi-conference on Systemics, Cybernetics, and Informatics.
+Mukkamala, R., Bhoopalam, K. and Dammalapati, S. (2001).  Design and analysis of a scalable kernel for health management of aerospace structures Digital Avionics Systems, 2001. DASC. 20th Conference (pp. 3D2–1).
+Cranford, J., Mukkamala, R. and Atluri, V. (2001).  Modeling and Evaluation of Distributed Workflow Algorithms. ISAS-SCI (1) (pp. 183–188).
+Mukkamala, R. (2000).  Distributed scalable architectures for health monitoring of aerospace structures Digital Avionics Systems Conference, 2000. Proceedings. DASC. The 19th (pp. 6C4–1).
+Atluri, V. and Mukkamala, R. (2000).  Modeling and evaluation of redesigning methodologies for distributed workflows 2012 IEEE 20th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (pp. 248–248).
+Mukkamala, R. and Agrawala, A. (1999).  Modeling memory reference patterns of programs in cache memory systems Modeling, Analysis and Simulation of Computer and Telecommunication Systems, 1999. Proceedings. 7th International Symposium on (pp. 288–295).
+Yerraballi, R. and Mukkamala, R. (1998).  Routing and admission control of real-time channels Real-Time Systems, 1998. Proceedings. 10th Euromicro Workshop on (pp. 115–122).
+Maly, K. J., Abdel-Wahab, H. M., Mukkamala, R., Gupta, A., Kholief, M., Dittakavi, S., Vemuru, C., Syed, H. and Jacobsy, B. E. (1997).  CoProcess: A Java-based Environment for Collaborative Process Management Over the Web WebNet.
+Maly, K., Gupta, A., Kvande, B., Levinstein, I., Mukkamala, R., Olson, M., Whitney, R. and Chambers, R. (1996).  A privilege management system for a secure network Services in Distributed and Networked Environments, 1996., Proceedings of Third International Workshop on (pp. 147–154).
+Mukkamala, R. and Son, S. Hyuk. (1995).  A Secure Concurrency Control Protocol for Real-Time Databases. DBSec (pp. 215–230).
+Yerraballi, R., Mukkamala, R., Maly, K. J. and Wahab, H. (1995).  Issues in schedulability analysis of real-time systems Real-Time Systems, 1995. Proceedings., Seventh Euromicro Workshop on (pp. 87–92).
+Yerraballi, R. and Mukkamala, R. (1995).  Schedulability related issues in end-to-end systems Engineering of Complex Computer Systems, 1995. Held jointly with 5th CSESAW, 3rd IEEE RTAW and 20th IFAC/IFIP WRTP, Proceedings., First IEEE International Conference on (pp. 215–222).
+David, R., Son, S. Hyuk. and Mukkamala, R. (1995).  Supporting security requirements in multilevel real-time databases Security and Privacy, 1995. Proceedings., 1995 IEEE Symposium on (pp. 199–210).
+David, R., Son, S. H. and Mukkamala, R. (1995).  SUPPORTING MULTILEVEL SECURITY REQUIREMENTS IN REAL-TIME DATABASES Oakland, California: 1995 Symposium on Security and Privacy.
+Kang, M. H., Froscher, J. N. and Mukkamala, R. (1994).  Architectural impact on performance of a multilevel database system Computer Security Applications Conference, 1994. Proceedings., 10th Annual (pp. 76–85).
+Mukkamala, R. and Jajodia, S. (1993).  A Performance Comparison of two Decomposition Techniques for Multilevel Secure Database Systems. DBSec (pp. 199–214).
+Maly, K. J., Khanna, S., Foudriat, E., Overstreet, C., Mukkamala, R., Zubair, M., Yerraballi, R. and Sudheer, D. (1993).  Parallel Communications: An Experimental Study PROC. OF THE 4TH IFIP CONFERENCE ON HIGH PERFORMANCE NETWORKING’92, A. DANTHINE AND O.
+McDermott, J. P. and Mukkamala, R. (1993).  Performance analysis of transaction management algorithms for the SINTRA replicated-architecture database system Proceedings of the IFIP WG11. 3 Working Conference on Database Security VII (pp. 215–234).
+Maly, K. J., Paterra, F., Overstreet, C. Michael., Mukkamala, R. and Khanna, S. (1992).  Concurrent use of parallel communication to enable remote visualization Computing and Information, 1992. Proceedings. ICCI’92., Fourth International Conference on (pp. 449–452).
+Mukkamala, R., Foudriat, E. C., Maly, K. and Kale, V. (1992).  Modeling and analysis of high speed parallel token ring networks Local Computer Networks, 1992. Proceedings., 17th Conference on (pp. 624–633).
+Maly, K. J., Khanna, S., Overstreet, C. Michael., Mukkamala, R., Zubair, M. and Sekhar, Y. (1992).  Multiprocessor Architectures for High Speed Networks: A Performance Study Proceedings of the IFIP 12th World Computer Congress on Algorithms, Software, Architecture-Information Processing’92, Volume 1-Volume I (pp. 645–651).
+Maly, K. J., Khanna, S., Mukkamala, R., Overstreet, C. Michael., Yerraballi, R., Foudriat, E. C. and Madan, B. (1992).  Parallel TCP/IP for multiprocessor workstations Proceedings of the IFIP TC6/WG6. 4 Fourth International Conference on High Performance Networking IV (pp. 103–118).
+Maly, K. J., Overstreet, C., Mukkamala, R., Zubair, M., Paterra, F., Khanna, S., Sekhar, Y. and Yerraballi, R. (1992).  Parallelism for high speed networks Architecture and Implementation of High Performance Communication Subsystems, 1992.(HPCS’92) IEEE Workshop on the (pp. 1–6).
+Maly, K. J., Paterra, F., Overstreet, C., Mukkamala, R. and Khanna, S. (1992).  Remote visualization and parallelism using existing networks Computers and Communications, 1992. Conference Proceedings., Eleventh Annual International Phoenix Conference on (pp. 706–713).
+Maly, K. J., Khanna, S., Overstreet, C., Mukkamala, R., Zubair, M., Sekhar, Y. and Foudriat, E. (1992).  Scalable parallel communications In its Photonics and Other Approaches to High Speed Communications 29 p (SEE N93-11116 02-32).
+Xu, M., Shen, S. and Mukkamala, R. (1991).  An approach to intelligent monitoring Developing and Managing Expert System Programs, 1991., Proceedings of the IEEE/ACM International Conference on (pp. 178–186).
+Jajodia, S. and Mukkamala, R. (1991).  Effects of SeaView decomposition of multilevel relations on database performance Results of the IFIP WG 11.3 Workshop on Database Security V: Status and Prospects (pp. 203–225).
+Glover, C. and Mukkamala, R. (1991).  Multilevel secure databases: A new approach Southeastcon’91., IEEE Proceedings of (pp. 690–694).
+Kuang, Y. and Mukkamala, R. (1991).  Performance analysis of static locking in replicated distributed database systems Southeastcon’91., IEEE Proceedings of (pp. 698–701).
+Kale, V., Mukkamala, R., Foudriat, E. and Maly, K. (1991).  Performance studies of parallel networks for high data rate systems Southeastcon’91., IEEE Proceedings of (pp. 543–545).
+Overstreet, C., Paterra, F., Maly, K. J., Mukkamala, R. and Hajzak, C. (1991).  Utilization of special architectures in support of parallel discrete event simulation Southeastcon’91., IEEE Proceedings of (pp. 822–826).
+Mukkamala, R. (1990).  Effects of distributed database modeling on evaluation of transaction rollbacks Simulation Conference, 1990. Proceedings., Winter (pp. 839–845).
+Mukkamala, R. and Lin, R. (1989).  Improving database performance through query standardization Southeastcon’89. Proceedings. Energy and Information Technologies in the Southeast., IEEE (pp. 1321–1325).
+Mukkamala, R. and Gollakota, N. (1989).  Some guidelines for choosing models for distributed database systems TENCON’89. Fourth IEEE Region 10 International Conference (pp. 618–621).
+Maly, K. J., Foudriat, E. C., Game, D., Mukkamala, R. and Overstreet, C. Michael. (1989).  Traffic placement policies for multi-band network ACM SIGCOMM Computer Communication Review (pp. 94–105).
+Mukkamala, R., Bruell, S. C. and Shultz, R. K. (1988).  Design of partially replicated distributed database systems: an integrated methodology ACM SIGMETRICS Performance Evaluation Review (pp. 187–196).
+Mukkamala, R. and Shultz, R. K. (1988).  Performance Comparision of Two Multiprocessor B-Link Tree Implementations. ICPP (1) (pp. 182–186).
+One of Top Five Papers (out of 277), Fifth International Conference on Data Engineering Conference
+2009: Best Paper Award, The 1st International Conference on Advanced Service Computing
+2008: Best Paper Award, Spring Simulation Mluticonference 2008, BIS 2008
+2007: Best Paper Award, Third International Computer Engineering Conference
+2002: First Prize, Technical Track 2, AOL-CIT Finding Common Ground University Research Day
+1994: Appointed to the Executive Committee of the IEEE Technical Committee on Operating Systems, IEEE
+1994: Elected to Phi Kappa Phi, Phi Kappa Phi
+1994: Selcted for Membership in Beta Gamma Sigma, Beta Gamma Sigma
+1994: Most Inspiring Faculty Member Award, Old Dominion University
+1992: Special Grant to attend IFIP WG 11.3, Center for Secure Information Systems
+1989: Faculty Honor Award, Old Dominion University
+1981: Outstanding Performance Award, TELCO-PUNE, India
+1980: Outstanding Performance Award, TELCO-PUNE, India
+1971: State Special Merit Scholarship for Academic Excellence,
+Organizational Chart

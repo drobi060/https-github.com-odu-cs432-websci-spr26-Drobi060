@@ -1,0 +1,56 @@
+digraph G {
+    rankdir=LR;
+    
+    // Define node styles
+    node [shape=ellipse];
+    
+    // SCC - Core (red)
+    {rank=same; A; B; C; D; G;}
+    A [style=filled, fillcolor=red, fontcolor=white, label="A\n(SCC)"];
+    B [style=filled, fillcolor=red, fontcolor=white, label="B\n(SCC)"];
+    C [style=filled, fillcolor=red, fontcolor=white, label="C\n(SCC)"];
+    D [style=filled, fillcolor=red, fontcolor=white, label="D\n(SCC)"];
+    G [style=filled, fillcolor=red, fontcolor=white, label="G\n(SCC)"];
+    
+    // IN nodes (blue)
+    E [style=filled, fillcolor=blue, fontcolor=white, label="E\n(IN)"];
+    F [style=filled, fillcolor=blue, fontcolor=white, label="F\n(IN)"];
+    M [style=filled, fillcolor=blue, fontcolor=white, label="M\n(IN)"];
+    
+    // OUT nodes (green)
+    H [style=filled, fillcolor=green, fontcolor=white, label="H\n(OUT)"];
+    L [style=filled, fillcolor=green, fontcolor=white, label="L\n(OUT)"];
+    
+    // Tendrils (yellow)
+    N [style=filled, fillcolor=yellow, fontcolor=black, label="N\n(Tendril)"];
+    O [style=filled, fillcolor=yellow, fontcolor=black, label="O\n(Tendril)"];
+    
+    // Disconnected (gray)
+    I [style=filled, fillcolor=gray, fontcolor=white, label="I\n(Disc)"];
+    J [style=filled, fillcolor=gray, fontcolor=white, label="J\n(Disc)"];
+    K [style=filled, fillcolor=gray, fontcolor=white, label="K\n(Disc)"];
+    
+    // Edges within SCC
+    A -> B;
+    B -> A;
+    B -> C;
+    C -> D;
+    C -> G;
+    D -> A;
+    G -> C;
+    
+    // IN to SCC
+    E -> F;
+    E -> O;
+    F -> G;
+    M -> A;
+    
+    // SCC to OUT
+    D -> H;
+    
+    // Tendrils
+    O -> J;
+    J -> N;
+    N -> L;
+    H -> L;
+}

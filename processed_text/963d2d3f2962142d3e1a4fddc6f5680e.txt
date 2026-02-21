@@ -1,0 +1,39 @@
+This course provides an overview of the field of cybersecurity. It covers core cybersecurity topics including computer…
+CYSE 300
+Introduction to Cybersecurity
+This course provides an overview of the field of cybersecurity. It covers core cybersecurity topics including computer system architectures, critical infrastructures, cyber threats and vulnerabilities, cryptography, information assurance, network security, and risk assessment and management. Students are expected to become familiar with fundamental security concepts, technologies and practices, and develop a foundation for further study in cybersecurity. Prerequisite: MATH 162M or permission of the instructor.
+CYSE 301
+This course introduces tools and techniques used to secure and analyze large computer networks and systems. Students…
+CYSE 301
+Cybersecurity Techniques and Operations
+This course introduces tools and techniques used to secure and analyze large computer networks and systems. Students will explore and map networks using a variety of diagnostic software tools, learn advanced packet analysis, configure firewalls, write intrusion detection rules, perform forensic investigation, and practice techniques for penetration testing. Prerequisites: MATH 162M and CYSE 270 or permission of the instructor.
+CS 463
+This course covers mathematical foundations, including information theory, number theory, factoring, and prime number…
+CS 463
+Cryptography for Cybersecurity
+This course covers mathematical foundations, including information theory, number theory, factoring, and prime number generation; cryptographic protocols, including basic building blocks and protocols; cryptographic techniques, including key generation and key management, and applications; and cryptographic algorithms--DES, AES, stream ciphers, hash functions, digital signatures, etc. Prerequisites: MATH 162M.
+Careers
+Check out these ideas from ODU's Center for Career & Leadership Development and the Occupational Information Network (O*NET) . A median salary is a midpoint of what people typically earn—half of those surveyed earned above the median salary, and half earned below.
+Computer Systems Analysts
+$92,740 Median Salary
+Analyze science, engineering, business, and other data processing problems to implement and improve computer systems. Analyze user requirements, procedures, and problems to automate or improve existing systems and review computer system capabilities, workflow, and scheduling limitations. May analyze or recommend commercially available software.
+Information Security Analysts
+$99,690 Median Salary
+Plan, implement, upgrade, or monitor security measures for the protection of computer networks and information. May ensure appropriate security controls are in place that will safeguard digital files and vital electronic infrastructure. May respond to computer security breaches and viruses.
+Network and Computer Systems Administrators
+$86,340 Median Salary
+Install, configure, and support an organization's local area network (LAN), wide area network (WAN), and Internet systems or a segment of a network system. Monitor network to ensure network availability to all system users and may perform necessary maintenance to support network availability. May monitor and test Web site performance to ensure Web sites operate correctly and without interruption. May assist in network modeling, analysis, planning, and coordination between network and data communications hardware and software. May supervise computer user support specialists and computer network support specialists. May administer network security measures.
+Security Management Specialists
+$75,740 Median Salary
+Conduct security assessments for organizations, and design security systems and processes. May specialize in areas such as physical security, personnel security, and information security. May work in fields such as health care, banking, gaming, security engineering, or manufacturing.
+Requirements
+What are the requirements to apply for Cybersecurity  at ODU?
+Students entering the Minor program in Cybersecurity  should meet the minimum university admission requirements Undergraduate Admission .
+Interdisciplinary minors require 12 credit hours of 300/400-level courses selected from at least two different disciplines with a maximum of six credits from any one discipline.
+More Program and Degree Requirements
+Transfer
+At ODU, we understand that as a transfer student you have unique needs that require a wide array of campus resources. The Center for Advising Administration and Academic Partnerships aims to create a transfer inclusive culture that supports the successful...
+Transfer Info
+Cost
+Estimated rates for the 2025-26 academic year. Rates are subject to change. Other fees are assessed for special services and certain academic programs. Anyone that is not a current Virginia resident will be charged non-resident rates. That includes international students.
+Active Duty Military Rate

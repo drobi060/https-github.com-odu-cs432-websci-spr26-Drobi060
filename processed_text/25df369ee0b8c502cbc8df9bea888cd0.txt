@@ -1,0 +1,29 @@
+Laboratory work required. Introduction to concepts, principles, challenges, and research in major areas of AI. Areas of…
+CS 580
+Introduction to Artificial Intelligence
+Laboratory work required. Introduction to concepts, principles, challenges, and research in major areas of AI. Areas of discussion include: natural language and vision processing, machine learning, machine logic and reasoning, robotics, expert and mundane systems.
+CS 620
+This course will explore data science as a burgeoning field. Students will learn fundamental principles and techniques…
+CS 620
+Introduction to Data Science and Analytics
+This course will explore data science as a burgeoning field. Students will learn fundamental principles and techniques that data scientists employ to mine data. They will investigate real life examples where data is used to guide assessments and draw conclusions. This course will introduce software and computing resources available to a data scientist to process, visualize, and model different types of data including big data. Cross-listed with DASC 620.
+CS 532
+An overview of the World Wide Web and associated decentralized information structures, focusing mainly on the computing…
+CS 532
+Web Science
+An overview of the World Wide Web and associated decentralized information structures, focusing mainly on the computing aspects of the Web: how it works, how it is used, and how it can be analyzed. Students will examine a number of topics including: web architecture, web characterization and analysis, web archiving, Web 2.0, social networks, collective intelligence, search engines, web mining, information diffusion on the web, and the Semantic Web.
+Careers
+Check out these ideas from ODU's Center for Career & Leadership Development and the Occupational Information Network (O*NET) . A median salary is a midpoint of what people typically earn—half of those surveyed earned above the median salary, and half earned below.
+Software Developers, Systems Software
+$111,780 Median Salary
+Research, design, develop, and test operating systems-level software, compilers, and network distribution software for medical, industrial, military, communications, aerospace, business, scientific, and general computing applications. Set operational specifications and formulate and analyze software requirements. May design embedded systems software. Apply principles and techniques of computer science, engineering, and mathematical analysis.
+Web Administrators
+$91,080 Median Salary
+Manage web environment design, deployment, development and maintenance activities. Perform testing and quality assurance of web sites and web applications.
+Computer and Information Systems Managers
+$149,730 Median Salary
+Plan, direct, or coordinate activities in such fields as electronic data processing, information systems, systems analysis, and computer programming.
+Network and Computer Systems Administrators
+$86,340 Median Salary
+Install, configure, and support an organization's local area network (LAN), wide area network (WAN), and Internet systems or a segment of a network system. Monitor network to ensure network availability to all system users and may perform necessary maintenance to support network availability. May monitor and test Web site performance to ensure Web sites operate correctly and without interruption. May assist in network modeling, analysis, planning, and coordination between network and data communications hardware and software. May supervise computer user support specialists and computer network support specialists. May administer network security measures.
+Alumni Careers

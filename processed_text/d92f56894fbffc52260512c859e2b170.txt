@@ -1,0 +1,16 @@
+M.Sc. in Electrical and Electronic Engineering
+Eastern Mediterranean University, 2010
+Birzeit University, 2009
+Research Interests Overview
+This visualization summarizes my research areas, from past work in machine learning for communications to current interests in AI security and robustness, including secure code generation, deepfake detection, and adversarial attacks.
+Contribution Map
+This contribution map illustrates the areas of my research across software engineering, adversarial machine learning, hardware design automation, predictive modeling, and real-world ML applications. It also highlights top-tier venues like CCS, IEEE S&P, GLSVLSI, and others.
+Teaching at Old Dominion University
+Graduate Courses (M.S./Ph.D.)
+CS 795/895 – Special Topics in Computer Science: Large Language Model (LLM) Architectures and Applications (Spring 2026)
+This graduate special topics course provides an in-depth exploration of the architectures, training paradigms, and applications of modern large language models. Starting from foundational ML and NLP concepts, the course progresses to transformer-based LLM architectures, prompt optimization, and retrieval-augmented generation (RAG). It also examines multimodal extensions via vision-language models (VLMs) and the emerging role of LLMs as core reasoning engines in agentic AI systems capable of planning and tool use. Students study pre-training objectives, fine-tuning strategies, and state-of-the-art evaluation metrics, and are prepared to analyze, design, and apply LLM-based systems in both research and real-world contexts.
+Syllabus (PDF)
+CS 722/822 – Machine Learning (Fall 2025)
+This graduate course introduces core machine learning methods, including supervised and unsupervised learning,
+                            regression, classification, clustering, anomaly detection, and dimensionality reduction, with emphasis on
+                            evaluation, cross-validation, calibration, and error analysis.

@@ -1,0 +1,233 @@
+Satisfaction Rate among online students surveyed on their overall experiences with ODU.
+Cost & Aid
+Cost is one of the most important factors to consider when selecting a college degree online.
+ODUGlobal has affordable tuition rates for both in-state and out-of-state online students. We want to help you maximize available resources so you can graduate without breaking the bank.
+Explore Scholarships for Online Students
+document.addEventListener("FA__DOMContentLoaded", function(){
+            const FORM_TIME_START = Math.floor((new Date).getTime()/1000);
+            let formElement = document.getElementById("tfa_0");
+            if (null === formElement) {
+                formElement = document.getElementById("0");
+            }
+            let appendJsTimerElement = function(){
+                let formTimeDiff = Math.floor((new Date).getTime()/1000) - FORM_TIME_START;
+                let cumulatedTimeElement = document.getElementById("tfa_dbCumulatedTime");
+                if (null !== cumulatedTimeElement) {
+                    let cumulatedTime = parseInt(cumulatedTimeElement.value);
+                    if (null !== cumulatedTime && cumulatedTime > 0) {
+                        formTimeDiff += cumulatedTime;
+                    }
+                }
+                let jsTimeInput = document.createElement("input");
+                jsTimeInput.setAttribute("type", "hidden");
+                jsTimeInput.setAttribute("value", formTimeDiff.toString());
+                jsTimeInput.setAttribute("name", "tfa_dbElapsedJsTime");
+                jsTimeInput.setAttribute("id", "tfa_dbElapsedJsTime");
+                jsTimeInput.setAttribute("autocomplete", "off");
+                if (null !== formElement) {
+                    formElement.appendChild(jsTimeInput);
+                }
+            };
+            if (null !== formElement) {
+                if(formElement.addEventListener){
+                    formElement.addEventListener('submit', appendJsTimerElement, false);
+                } else if(formElement.attachEvent){
+                    formElement.attachEvent('onsubmit', appendJsTimerElement);
+                }
+            }
+        });
+if(wFORMS.behaviors.prefill) wFORMS.behaviors.prefill.skip = true;
+#tfa_327,
+                *[id^="tfa_327["] {
+                    width: 197px !important;
+                }
+                #tfa_327-D,
+                *[id^="tfa_327["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_30,
+                *[id^="tfa_30["] {
+                    width: 275px !important;
+                }
+                #tfa_30-D,
+                *[id^="tfa_30["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_8-L,
+                label[id^="tfa_8["] {
+                    width: 307px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_314,
+                *[id^="tfa_314["] {
+                    width: 200px !important;
+                }
+                #tfa_314-D,
+                *[id^="tfa_314["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_312,
+                *[id^="tfa_312["] {
+                    width: 200px !important;
+                }
+                #tfa_312-D,
+                *[id^="tfa_312["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_1,
+                *[id^="tfa_1["] {
+                    width: 206px !important;
+                }
+                #tfa_1-D,
+                *[id^="tfa_1["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_2,
+                *[id^="tfa_2["] {
+                    width: 200px !important;
+                }
+                #tfa_2-D,
+                *[id^="tfa_2["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_4,
+                *[id^="tfa_4["] {
+                    width: 426px !important;
+                }
+                #tfa_4-D,
+                *[id^="tfa_4["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_236,
+                *[id^="tfa_236["] {
+                    width: 266px !important;
+                }
+                #tfa_236-D,
+                *[id^="tfa_236["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_236-L,
+                label[id^="tfa_236["] {
+                    width: 137px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_5,
+                *[id^="tfa_5["] {
+                    width: 200px !important;
+                }
+                #tfa_5-D,
+                *[id^="tfa_5["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_5-L,
+                label[id^="tfa_5["] {
+                    width: 173px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_244,
+                *[id^="tfa_244["] {
+                    width: 426px !important;
+                }
+                #tfa_244-D,
+                *[id^="tfa_244["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+div.wFormContainer {padding:0; margin:0} /* Overall padding and margin */
+  .wFormContainer .wForm .actions {padding: 0 2px; } /* Button */
+  .wFormContainer .wForm .primaryAction {margin-top:1em} /* Button with Recaptcha */
+  #tfa_8-D {margin-top:5px !important;}  /* US Military Service Member or Dependent */
+  div#tfa_182-D {margin-top:1px} /* Opt-in */
+  span#tfa_182 {line-height:1.25rem} /* Opt-in */
+  span#tfa_182 span.oneChoice {margin-bottom:1px} /* Opt-in */
+  #tfa_184-D {border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; } /* NCM Referral */
+  #tfa_227-L {font-family:"Segoe UI", Roboto, Oxygen, Ubuntu, "Helvetica Neue", sans-serif;
+    font-size:14px; font-color:inherit !important} /* Opt-in text */
+  .wForm .captchaHelp {margin-top:1px}
+  select > span > optgroup > option {display: none}
+  @media only screen and (max-width: 599px) {
+    .g-recaptcha {
+        transform:scale(0.77);
+        transform-origin:0 0;
+    }
+}
+ /* #tfa_30 {
+   background-color: #fff !important;
+}*/
+const queryString = window.location.search;
+      const urlParams = new URLSearchParams(queryString);
+      const ga_source = urlParams.get('utm_source');
+      const ga_medium = urlParams.get('utm_medium');
+      const ga_campaign = urlParams.get('utm_campaign');
+      const ga_content = urlParams.get('utm_content');
+      const ga_gclid = urlParams.get('gclid');
+        
+      //Assigning values to the respective hidden fields    
+      window.addEventListener("load", (event) => {
+        document.getElementById("tfa_191").value = ga_source;
+        document.getElementById("tfa_187").value = ga_medium;
+        document.getElementById("tfa_188").value = ga_campaign;
+        document.getElementById("tfa_190").value = ga_content;
+        document.getElementById("tfa_239").value = ga_gclid;
+
+        var nextButton = document.getElementById("wfPageNextId1");
+        var submitButton = document.getElementById("submit_button");
+        
+        var degreeLevel = document.getElementById("tfa_327");
+        var degreeLevelSelected = "";
+
+        var progOfInterest = document.getElementById("tfa_30");
+        var progOfInterestSelected = "";
+
+        var transferCredits = document.getElementById("tfa_226");
+        
+        degreeLevel.addEventListener('change', function(event) {
+        	degreeLevelSelected = document.getElementById(this.value).getHTML();
+        });
+
+        progOfInterest.addEventListener('change', function(event) {
+        	progOfInterestSelected = document.getElementById(this.value).getHTML();
+        });
+        
+        nextButton.addEventListener('click', function(event) {
+			window.dataLayer = window.dataLayer || [];
+			window.dataLayer.push({
+				'event' : 'RFI_form_started',
+				'eventOrigin' : 'front-end',
+				'eventVars' : {
+					'degree_level' : degreeLevelSelected,
+					'program_name' : progOfInterestSelected,
+				}
+			});
+        });
+  
+        submitButton.addEventListener('click', function(event) {
+			window.dataLayer = window.dataLayer || [];
+			window.dataLayer.push({
+				'event' : 'RFI_form_completed',
+				'eventOrigin' : 'front-end',
+				'eventVars' : {
+					'degree_level' : degreeLevelSelected,
+					'program_name' : progOfInterestSelected,
+					'transfer_credits': transferCredits.checked
+				}
+			});
+		});
+      });
+
+      // To avoid the browser popup due to third-party library or other functionality that listens for the "beforeunload" event
+      window.addEventListener('beforeunload', function (event) {
+        event.stopImmediatePropagation();
+      });
+Please select...

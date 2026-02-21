@@ -1,0 +1,84 @@
+Select Publications
+Articles
+Mohrehkesh, S., Weigle, M. C. and Das, S. K.. (2017).  Energy Harvesting in Electromagnetic Nanonetworks. Computer 50 (2) , pp. 59-67.
+Brunelle, J. F.., Kelly, M., Weigle, M. C. and Nelson, M. L.. (2016).  The impact of JavaScript on archivability. International Journal on Digital Libraries 17 (2) , pp. 95-117.
+Alsum, A., Weigle, M. C., Nelson, M. L. and Herbert Van de Sompel (2014).  Profiling Web Archive Coverage for Top-Level Domain and Content Language. International Journal of Digital Libraries (IJDL).
+AlNoamany, Y., Alsum, A., Weigle, M. C. and Nelson, M. L. (2014).  Who and What Links to the Internet Archive. International Journal of Digital Libraries (IJDL).
+Olariu, S., Mohrehkesh, S., Wang, X. and Weigle, M. C. (2014).  On Aggregating Information in Actor Networks. SIGMOBILE Mobile Computing Communications Review 18 (1) , pp. 85–96.
+Kelly, M., Brunelle, J. F.., Weigle, M. C. and Nelson, M. L. (2013).  A Method for Identifying Personalized Representations in the Archives. D-Lib Magazine 19 (11/12).
+Yan, G., Wen, D., Olariu, S. and Weigle, M. C. (2013).  Security Challenges in Vehicular Cloud Computing. IEEE Transactions on Intelligent Transportation Systems 14 (1) , pp. 284–294.
+Toh, C., Higashino, T., Cano, J. and Weigle, M. C. (2012).  Highlights: IEEE ITS Society Technical Committee on Mobile Communications Networks for ITS. IEEE ITS Magazine 4 (1).
+Weigle, M. C., Cheng, L., Kaur, J. and Kulkarni, V. (2010).  Generalized Stochastic Performance Models for Loss-based Congestion Control. Computer Communications 33 (4) , pp. 513-525.
+Yan, G., Olariu, S. and Weigle, M. C. (2009).  Providing Location Security in Vehicular Ad-hoc Networks. IEEE Wireless Communications, Special Issue on On-the-Road Communications 16 (6) , pp. 48-55.
+Brooks, R. R.., Pillai, B., Pirretti, M. and Weigle, M. C. (2009).  Multicast Encryption Infrastructure for Securtity in Sensor Networks. International Journal of Distributed Sensor Networks 5 (2) , pp. 139-157.
+Yan, G., Olariu, S. and Weigle, M. C. (2008).  Providing VANET Security Through Active Position Detection. Computer Communications: Special Issue on Mobility Protocols for ITS/VANET 31 (12).
+Brooks, R. R.., Pillai, B., Weigle, M. C. and Pirretti, M. (2007).  Optimal Layout of Multicast Groups using Network Embedded Multicast Security in Ad-hoc Sensor Networks. International Journal of Distributed Sensor Networks 3 (3).
+Weigle, M. C., Jeffay, K. and Smith, F. D.. (2006).  Quantifying the Effects of Recent Protocal Improvements to TCP. Computer Communications 29 (15) , pp. 2853-2866.
+Weigle, M. C., Adurthi, P., Hernandez-Campos, F., Jeffay, K. and Smith, F. D.. (2006).  Tmix: A Tool for Generating Realistic TCP Application Workloads in ns-2. ACM Computer Communication Review 36 (3).
+Weigle, M. C., Jeffay, K. and Smith, F. D.. (2005).  Delay-Based Early Congestion Detection and Adaptation. Delay-Based Early Congestion Detection and Adaptation 28 (8).
+Books
+Olariu, S. and Weigle, M. C. (2009). Vehicular Networks: From Theory to Practice. CRC Press/Taylor & Francis.
+Book Chapters
+Almalag, M., Weigle, M. C. and Olariu, S. (2013).  MAC Protocols for VANETs Mobile Ad Hoc Networking: Cutting Edge Directions Hoboken, NJ, USA: John Wiley & Sons, Inc.
+Olariu, S., Weigle, M. C., Abuelela, M. and Yan, G. (2009).  Use of Infrastructure in VANETs, In Vehicular Networks: From Theory to Practice (pp. 7.1-7.2) Boca Raton, FL: CRC Press/Taylor & Francis.
+Yan, G., Ibrahim, K. and Weigle, M. C. (2009).  Vehicular Network Simulators, In Vehicular Networks: From Theory to Practice (pp. 13.1-13.22) Boca Raton, FL: CRC Press/Taylor & Francis.
+Conference Proceeding
+Mohrehkesh, S. and Weigle, M. C. (2014).  RIH-MAC: Receiver-Initiated Harvesting-aware MAC for NanoNetworks Proceedings of the ACM International Conference on Nanoscale Computing and Communication Atlanta, GA:.
+Almalag, M., Weigle, M. C., Olariu, S. and El-Tawab, S. (2013).  A Modified TC-MAC Protocol for Multi-hop Cluster Communications in VANETs Proceedings of IEEE Connected Vehicles and Expo (ICCVE) Las Vegas:.
+Mohrehkesh, S. and Weigle, M. C. (2013).  Optimizing Communication Energy Consumption in Perpetual Wireless Nanosensor Networks Proceedings of the IEEE Globecom Atlanta, GA:.
+Mohrehkesh, S., Olariu, S. and Weigle, M. C. (2013).  A Framework for Assessing the Quality of Event Detection in Sensor Networks Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet) Miami, FL:.
+Kelly, M., Nelson, M. L. and Weigle, M. C. (2013).  Graph-Based Navigation of a Box Office Prediction System (poster abstract) Proceedings of IEEE VIS Atlanta, GA:.
+Olariu, S., Mohrehkesh, S. and Weigle, M. C. (2013).  Toward Aggregating Time-Discounted Information Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet) Miami, FL:.
+Kelly, M., Brunelle, J., Weigle, M. C. and Nelson, M. L. (2013).  On the Change in Archivability of Websites Over Time Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL) Valletta, Malta:.
+Alsum, A., Weigle, M. C., Nelson, M. L. and Herbert Van de Sompel (2013).  Profiling Web Archive Coverage for Top-Level Domain and Content Language Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL) Valletta, Malta:.
+AlNoamany, Y., Alsum, A., Weigle, M. C. and Nelson, M. L. (2013).  Who and What Links to the Internet Archive Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL) Valletta, Malta:.
+AlNoamany, Y., Weigle, M. C. and Nelson, M. L. (2013).  Access Patterns for Robots and Humans in Web Archives Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL) Indianapolis, IN:.
+Almalag, M., Olariu, S., Weigle, M. C. and El-Tawab, S. (2013).  Peer-to-Peer File Sharing in VANETs Using TC-MAC Proceedings of the International Workshop on Mobile Peer-to-Peer Computing (MP2P) San Diego, CA:.
+Mohrehkesh, S., Nadeem, T. and Weigle, M. C. (2012).  Context-Aware Content Adaptation at the Access Point Proceedings of the International Workshop on Context-Awareness for Self-Managing Systems (Casemans) (pp. 758–761).
+Mohrehkesh, S., Ji, S., Nadeem, T. and Weigle, M. C. (2012).  Demographic Prediction of Mobile User from Phone Usage Proceedings of the Nokia Mobile Data Challenge Workshop Newcastle, UK:.
+Almalag, M., Olariu, S. and Weigle, M. C. (2012).  TDMA Cluster-based MAC for VANETs (TC-MAC) Proceedings of the IEEE Workshop on VANETs From Theory to Practice (VTP) San Francisco, CA:.
+Padia, K., AlNoamany, Y. and Weigle, M. C. (2012).  Visualizing Digital Collections at Archive-It Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL) (pp. 15–18) Washington, DC:.
+Kelly, M. and Weigle, M. C. (2012).  WARCreate - Create Wayback-Consumable WARC Files from Any Webpage (demo) Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL) (pp. 437–438) Washington, DC:.
+Ainsworth, S., Alsum, A., SalahEldeen, H., Weigle, M. C. and Nelson, M. L. (2011).  How Much of the Web Is Archived? Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL) (pp. 133–136) Ottawa, Canada:.
+Rawat, D., Bista, B. B.., Yan, G. and Weigle, M. C. (2011).  Securing Vehicular Ad-Hoc Networks Against Malicious Drivers: A Probabilistic Approach Proceedings of the International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS) (pp. 146–151 ) Seoul, Korea:.
+Arbabi, H. and Weigle, M. C. (2011).  Monitoring Free-Flow Traffic using Vehicular Networks Proceedings of the IEEE Intelligent Vehicular Communications System Workshop (IVCS) (pp. 272–276) Las Vegas, NV:.
+Arbabi, H. and Weigle, M. C. (2010).  Highway Mobility and Vehicular Ad-Hoc Networks in ns-3 Baltimore, MD: Proceedings of the Winter Simulation Conference.
+Arbabi, H. and Weigle, M. C. (2010).  Using DTMon to Monitor Transient Flow Traffic Proceedings of the IEEE Vehicular Networking Conference (VNC) (pp. 110–117) Jersey City, NJ:.
+Almalag, M. and Weigle, M. C. (2010).  Using Traffic Flow for Cluster Formation in Vehicular Ad-hoc Networks Proceedings of the Workshop On User MObility and VEhicular Networks (ON-MOVE) (pp. 631–636) Denver, CO:.
+Weigle, M. C. (2010).  Cooperative Collision Warning Through Mobility and Probability Prediction San Diego: Proceedings of the IEEE Intelligent Vehicles Networks.
+Yan, G., Olariu, S. and Weigle, M. C. (2010).  Cross-Layer Location Verification Enhancement in Vehicular Networks San Diego: Proceedings of the IEEE Intelligent Vehicles Symposium.
+Rawat, D. B.., Yan, G., Popescu, D. C., Weigle, M. C. and Olariu, S. (2009).  Dynamic Adaptation of Joint Transmission Power and Contention Window in VANET Anchorage, AK: 70th IEEE Vehicular Technologies Conference - VTC 2009 Fall.
+Arbabi, H. and Weigle, M. C. (2009).  Using Vehicular Networks to Collect Common Traffic Data (pp. pp.117-118) Beijing: Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET).
+Yan, G., Weigle, M. C. and Olariu, S. (2009).  A Novel Parking Service Using Wireless Networks Chicago: Proceedings of hte IEEE International Conference on Service Operations.
+Ibrahim, K., Weigle, M. C. and Olariu, S. (2009).  Probabilistic Inter-Vehicle Geocast for Dense Vehicular Networks Barcelona: Proceedings of the IEEE Vehicular Technology Conference - Spring.
+Ibrahim, K. and Weigle, M. C. (2008).  CASCADE: Cluster-based Accurate Syntactic Compression of Aggregated Data in VANETs New Orleans: Proceedings of the IEEE International Workshop on Automotive Networking and Applications (AutoNet).
+Ibrahim, K., Weigle, M. C. and Yan, G. (2008).  Light-Weight Laser-Aided Position Verification for CASCADE Dearborn, MI: Proceedings of the International Conference on Wireless Access in Vehicular Environments (WAVE).
+Yan, G., Wang, Y., Weigle, M. C., Olariu, S. and Ibrahim, K. (2008).  WEHealth: A Secure and Privacy Preserving eHealth Using NOTICE Dearborn, MI: Proceedings of the International Conference on Wireless Access in Vehicular Environments (WAVE).
+Yan, G., Olariu, S., Weigle, M. C. and Abuelela, M. (2008).  SmartParking: A Secure and Intelligent Parking System Using NOTICE (pp. 569-574) Proceedings of the International IEEE Conference on Intelligent Transportation Systems.
+Ibrahim, K. and Weigle, M. C. (2008).  Optimizing CASCADE Data Aggregation for VANETs (pp. 724-729) Atlanta, GA: Proceedings of the International Workshop on Mobile Vehicular Networks (MoVeNet).
+Ibrahim, K. and Weigle, M. C. (2008).  Towards an Optimized and Secure CASCADE for Data Aggregation in VANETs (poster) (pp. 84-85) San Francisco: Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET).
+Abuelela, M., Olariu, S. and Weigle, M. C. (2008).  NOTICE: An Architecture for Notification of Traffic Incidents (pp. 3001-3005) Singapore: Proceedings of the IEEE Vehicular Technology Conference - Sprng.
+Ibrahim, K. and Weigle, M. C. (2008).  ASH: Application-aware SWANS with Highway Mobility Phoenix, AZ: Proceedings of the IEEE INFOCOM Workshop on MObile N etowrking for Vehicular Environments (MOVE).
+Rizvi, S., Olariu, S., Weigle, M. C. and Rizvi, M. (2007).  A Novel Approach to Reduce Traffic Choas in Emergency and Evacuation Scenarios (pp. 1937-1941) Baltimore, MD: Proceedings of the IEEE Vehicular Technology Conference - Fall.
+Ibrahim, K. and Weigle, M. C. (2007).  Accurate Data Aggregation for VANETs (pp. 71-72) Montreal, Canada: Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networking (VANET).
+Yan, G., Choudhary, G., Weigle, M. C. and Olariu, S. (2007).  Providing VANET Security Through Active Position Detection (pp. 73-74) Montreal: Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networking (VANET).
+Weigle, M. C. (2007).  A Traffic Chaos Reduction Approach for Emergency Scenarios (pp. 576-578) New Orleans: Proceedings  of the International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures.
+Weigle, M. C. and Olariu, S. (2007).  Intelligent Highway Infrastructure for Planned Evacuations (pp. 594-599) New Orleans: Proceedings of the International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri).
+Weigle, M. C. (2006).  Improving Confidence in Network Simulations (pp. 2188-2194) Monterey, CA: Proceedings of the Winter Simulation Conference (Invited Paper).
+Weigle, M. C., Vembar, D. and Du, Z. (2006).  Assessing the Impact of Multiple Active Queue Management Routers San Francisco: Proceedings of Globecom.
+Weigle, M. C. and Thottan, M. (2006).  Impact of 802.11e EDCA on Mixed TCP-based Applications Boston, MA: Proceedings of the International Wireless Internet Conference (WICON).
+Weigle, M. C., Sharma, P. and Freeman, J. (2006).  Performance of Competing High-Speed TCP Flows (pp. 476-487) Coimbra, Portugal: Proceedings of IFIP Networking.
+Presentations
+Weigle, M. C. (November , 2013). Telling Stories with Web Archives Keynote/Plenary Address Southeast Women in Computing Conference Lake Guntersville, AL.
+Weigle, M. C. (December , 2012). Visualizing Digital Collections at Archive-It Oral Presentation Archive-It Partners Meeting Annapolis, MD.
+Weigle, M. C. (November , 2012). Communications and Energy-Harvesting in Nanosensor Networks Oral Presentation BioCom2: NSF Workshop on Biological Computations and Communications Boston, MA.
+Weigle, M. C. (October , 2012). Information Visualization - Visualizing Digital Collections at Archive-It Oral Presentation Grace Hopper Celebration of Women in Computing Baltimore, MD.
+Ibrahim, K. and Weigle, M. C. (September , 2008). Securing CASCADE Data Aggregation for VANETs  International Workshop on Mobile Vehicular Networks (MoVeNet) Atlanta, GA.
+Rizvi, S. R.., Weigle, M. C. and Rizvi, M. E.. (August , 2008). InVANETs for First Responders  ACM SIGCOMM Seattle, WA.
+Weigle, M. C. (March 1, 2007). NOTICE: An Architecture for the Notification of Traffic Incidents and Congestion"  Department Colloquium Norfolk State University, Norfolk, VA.
+Weigle, M. C. (April 28, 2006). Issues in Network Protocol Evaluation  Department colloquium Old Dominion University, Norfolk, VA.
+Weigle, M. C. (February 20, 2006). Issues in Network Protocol Evaluation  Networking and Telecommunications seminar Georgia Tech,.
+Weigle, M. C. (February 10, 2006). Issues in Network Protocol Evaluation  Systems seminar University of Chapel Hill, Charlotte, NC.
+Weigle, M. C. (April 2, 2005). Transport Protocols in Wireless Sensor Networks  Virginia Tech-Clemson Workshop on Networking Research Virginia Tech University.
+2007: Participant, TRUST's Women's Institute for Summer Enrichment Program
+Organizational Chart

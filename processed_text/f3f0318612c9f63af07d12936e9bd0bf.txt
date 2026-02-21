@@ -1,0 +1,162 @@
+Business Analytics (BNAL)
+BNAL 206 Business Analytics I (3 Credit Hours)
+An introduction to methods of business analytics.  Topics are concentrated in descriptive analytics, which include descriptive statistics, normal and binomial distributions, decision making under uncertainty and under risk, decision analysis incorporating sample information, sampling distributions and Central Limit Theorem, interval estimation, and hypothesis testing. Business and economic applications are emphasized. Computer software, as a tool for problem solving, is utilized where appropriate.
+Prerequisites: A grade of C or better in MATH 162M or placement into a higher level math course
+BNAL 301 Spreadsheet and Data Management Techniques for Decision Making (3 Credit Hours)
+Data management and analysis for business decision making. Topics include data validation, a variety of functions such as lookup, logical, math, text, and financial functions, pivot tables, data models, and Monte Carlo simulation. Emphasis is on preparing descriptive, predictive, and prescriptive information to enhance effectiveness of management’s decisions.
+Prerequisites: ACCT 201 , BNAL 206 , and a declared major in the University or permission of the Dean's Office
+BNAL 306 Business Analytics II (3 Credit Hours)
+Advanced descriptive and predictive analytics topics include advanced hypothesis testing, analysis of frequency data, correlation analysis, simple and multiple regression, and time series forecasting. Prescriptive analytics topics include linear programming formulation and managerial analysis, and distribution models. PERT/CPM models are also covered. Computer software is utilized throughout the course. Emphasis is on the interpretation of the various outcomes of the application of business analytics tools.
+Prerequisites: MATH 200 , BNAL 206 and a declared major in the University or permission of the Dean's Office
+BNAL 367 Cooperative Education (1-3 Credit Hours)
+Approval for enrollment and allowable credits are determined by the department. Additional support may be provided by the Monarch Internship and Co-Op Office in the semester prior to enrollment.
+Prerequisites: Junior standing and a declared major in the University or permission of the Dean's Office
+BNAL 368 Internship (1-3 Credit Hours)
+Approval for enrollment and allowable credits are determined by the department.  Additional support may be provided by the Monarch Internship and Co-Op Office in the semester prior to enrollment.
+Prerequisites: BNAL 306 and a declared major in the University or permission of the Dean's Office
+BNAL 369 Practicum (1-3 Credit Hours)
+Approval for enrollment and allowable credits are determined by the department in the semester prior to enrollment; additional support may be provided by the Monarch Internship and Co-Op Office in the semester prior to enrollment. Student participation in a professional work experience. Qualifies as a CAP experience.
+Prerequisites: BNAL 206 and BNAL 306 and a declared major in the University or permission of the Dean's Office
+BNAL 403/503 Data Visualization and Exploration (3 Credit Hours)
+This course introduces students to concepts and processes, technologies, and methodologies that are commonly used in data visualization that an organization may use to enhance its descriptive, predictive, and prescriptive methods for making fact-based decisions.
+Prerequisites: A grade of C or better in BNAL 306 or permission of the instructor
+BNAL 405 Spreadsheet-Based Data Analysis for Decision Making (3 Credit Hours)
+The spreadsheet has become one of the most widely used analytical tools in the modern business environment. This course covers spreadsheet (e.g., Microsoft Excel) capabilities and business applications, with a focus on the use of spreadsheets for modeling, data analysis, and business decision support. Topics include concepts such as functions, pivot table, macros, analytical utilities, database connections, and interactive interfaces. Modeling and analysis in several areas such as forecasting, investment, quality, and sales are covered.
+Prerequisites: BNAL 306 with a grade of C or better
+BNAL 407/507 Prescriptive Analytics of Management Science (3 Credit Hours)
+Students are introduced to prescriptive analytics through formulation and solution of mathematical models, with a particular focus on optimization models. The business use of the models, as well as their limitations, is emphasized. Topics include linear, integer, non-linear programming, network models, genetic algorithms, decision analysis, and project management models.
+Prerequisites: A grade of C or better in BNAL 306 and a declared major in the University or permission of the Dean's Office or the instructor
+BNAL 415/515 Advanced Business Analytics/Big Data Applications (3 Credit Hours)
+This course addresses advanced business analytics techniques and the application of such techniques to large data sets.  Some alternative business analytics strategies are introduced.  Descriptive, predictive, and prescriptive models are included.  Topics covered in this course include data visualization and exploration, cluster analysis, and developing and calibrating predictive models for big data.  Applications of multivariate, logistic, and probit regression to business analytics are discussed.  Software packages such as SAS/JMP/SPSS may be used.
+Prerequisites: A grade of C or better in BNAL 306 and a declared major in the University or permission from the Dean's Office
+BNAL 430/530 Probability and Statistics (3 Credit Hours)
+This course provides a foundational understanding of probability and statistics in a business context. Students learn to analyze data, make informed decisions, and solve business problems using statistical techniques. Topics include sampling distributions, confidence intervals, hypothesis testing, simple and multiple regressions, time series forecasting, and decision making under uncertainty. Emphasis is placed on the application of the tools to business problems. This course is part of the Linked/Dual Dominion program and exclusively for non-business Undergraduate students.
+Prerequisites: Instructor permission
+BNAL 432/532 Predictive Analytics for Business (3 Credit Hours)
+Predictive analytics techniques for business. Applications include both shorter term forecasting for sales and operations management as well as forecasting for long term planning. Emphasis is on statistical methods to obtain and evaluate forecasts. Statistical models are implemented using standard software such as MINITAB, EXCEL, R, and/or Python.
+Prerequisites: BNAL 306 and a declared major in the University or permission of the Dean's Office
+BNAL 476/576 Simulation Modeling and Analysis for Business Systems (3 Credit Hours)
+Simulation modeling is an integral part of the analytics revolution, enabling the creation of models that can represent the variability that exists in many real business systems.  This course covers the theory and application of simulation modeling, with an emphasis on how simulation provides predictive and prescriptive analytics to support business decision-making.  Topics include simulation fundamentals, the project life-cycle, model development, input and output analysis, verification and validation, and the presentation of a simulation study.  We utilize a major commercial simulation software package for assignments and class projects.
+Prerequisites: OPMT 303 with a grade of C or better and BNAL 306 with a grade of C or better, senior standing and a declared major in the University or permission of the Dean's Office
+BNAL 495 Topics in Business Analytics (3 Credit Hours)
+Selected advanced topics in decision sciences.  Taught on an occasional basis.  See the course schedule for the particular topic being taught each semester.
+Prerequisites: Senior standing and a declared major in the University or permission of the Dean's Office
+BNAL 497 Independent Study (1-3 Credit Hours)
+Affords students the opportunity to undertake independent study under the direction of a faculty member.
+Prerequisites: Permission of department
+Information Technology (IT)
+IT 150G Basic Information Literacy and Research (3 Credit Hours)
+This course is designed to provide students with the basic skills necessary to identify, to access and to utilize task appropriate information.  Students will learn to evaluate information sources and to apply good research strategies.  The course will address qualitative, quantitative, visual and auditory data sources along with the ethical use of data and respect for intellectual property.  Focus will be given to research topics in various fields including business, humanities, social science and technology.
+IT 200T Cybersecurity, Technology, and Society (3 Credit Hours)
+Students will explore how technology is related to cybersecurity from an interdisciplinary orientation. Attention is given to the way that technologically-driven cybersecurity issues are connected to cultural, political, legal, ethical, and business domains.
+IT 201 Introduction to Information Systems (3 Credit Hours)
+An introduction to the major hardware/software components of modern information systems. Topics include introduction to the history of computers, numbering systems conversion, system and application software, networks and the Internet. Additional topics include Information Systems and Systems Development Life Cycle, Introduction to Programming, Databases and Business Intelligence, Information Security, and Privacy and Ethics in the cyber world.  Intended as a comprehensive introduction course to the Information Systems majors.
+IT 205 Introduction to Object-Oriented Programming (3 Credit Hours)
+An introductory course on object-oriented programming that emphasizes problem solving for business applications. The programming language is Java, Python, or instructor's choice. Topics include simple data types, selections, loops, methods, arrays, classes, inheritance, etc.
+IT 309 Fundamentals of Artificial Intelligence (3 Credit Hours)
+This course develops foundational knowledge of artificial intelligence (AI) as a critical literacy for the digital era. It emphasizes conceptual understanding of how AI systems are designed, how they learn, and how they generate outcomes. Students will study major paradigms such as machine learning, natural language processing, and large language models, along with commonly used AI tools. Building on this foundation, the course examines ethical frameworks, bias and fairness, transparency, and societal impact, with emphasis on interpreting, critically evaluating, and communicating AI concepts in business contexts.
+Prerequisites: IT 201 or IT 360
+IT 310 Object-Oriented Programming with C++ (3 Credit Hours)
+An advanced C++ programming course focusing on object-oriented design/methodologies and the development of Graphic User Interfaces (GUI) for business applications.  Special topics include: dynamic variables, linked lists, abstract data types, classes, inheritance, composition, exception handling, templates, and overloading.
+Prerequisites: IT 205 and a declared major in the university or permission of the Dean's Office
+IT 315 Introduction to Networking and Security (3 Credit Hours)
+Introduction to modern networking concepts and technology. Provides students with the fundamental concepts, technologies, components and issues related to communications and data networks.  Topics include network architectures, infrastructures, services, protocols, cyber attacks, adversaries, and defense.
+Prerequisites: IT 201
+IT 317 Enterprise Information Architecture (3 Credit Hours)
+A comprehensive treatment of the fundamental concepts of enterprise information architecture. Topics include enterprise architecture, information technology infrastructure, components of modern computing environments, system usability and security.
+Prerequisites: IT 201 with a C or better (grade requirement may be waived by the department), and a declared major in the university or permission of the Dean's Office
+IT 325 Web Site and Web Page Design (3 Credit Hours)
+Advanced design and hands-on implementation skills in designing and creating dynamic web sites. Key topics include: web page design, usability principles, HTML, XHTML, Cascading Style Sheets (CSS), JavaScript and Internet security.
+Prerequisites: IT 150G
+IT 360T Principles of Information Technology (3 Credit Hours)
+A survey of computer hardware, software, procedures, applications, and management information concepts.  Provides an understanding of the application of the computer to the support of managerial decision making.  Information Systems majors may not use this course for credit toward the B.S.B.A. degree.
+Prerequisites: completion of general education information literacy and research requirement and junior standing; and a declared major in the University or permission of the Dean's Office
+IT 363 Systems Analysis and Design (3 Credit Hours)
+This course provides an introduction to the analysis and design of computer-based information systems. Emphasis is placed upon the development of requirements that serve the business needs of the organization as well as the logical and physical design of business information systems. This course covers both the structured and the object-oriented approach of system analysis and design process. Topics covered include introduction to the software development methodologies, requirement gathering, modeling, and logical/physical design techniques. Students are also exposed to emerging topics that promise major improvements in software development area. Factors relevant to the creation of business information systems through development and implementation will be examined in detail.
+Prerequisites: IT 201 with a C or better, IT 205 , and a declared major in the university or permission of the Dean's Office of the Strome College of Business
+IT 367 Cooperative Education (1-3 Credit Hours)
+Approval for enrollment and allowable credits are determined by the department in the semester prior to enrollment.  Available for pass/fail grading only.
+Prerequisites: junior standing and a declared major in the university or permission of the Dean’s Office
+IT 368 Student Internship (1-3 Credit Hours)
+Approval for enrollment and allowable credits are determined by the department in the semester prior to enrollment.  Available for pass/fail grading only.
+Prerequisites: junior standing and a declared major in the university or permission of the Dean’s Office
+IT 369 Practicum (1-3 Credit Hours)
+Approval for enrollment and allowable credits are determined by the department in the semester prior to enrollment.  Available for pass/fail grading only.
+Prerequisites: junior standing and a declared major in the university or permission of the Dean’s Office
+IT 374 C# and Applications (3 Credit Hours)
+An introduction to programming concepts and skills of the C# programming language and Visual Studio .NET. Topics include: computing fundamentals and Microsoft .NET platform, C# programming fundamentals and object-oriented programming, web app development and cloud app development.
+Prerequisites: CS 150 or equivalent
+IT 376 PHP and Applications (3 Credit Hours)
+An introduction to programming concepts and skills of the PHP programming language. Topics include: Internet and web concepts, HTML, CSS and XML, PHP programming basics, database with PHP, PHP web services.
+Prerequisites: IT 201
+IT 401 Mobile and Cloud Computing (3 Credit Hours)
+An introduction to key concepts and techniques of mobile and cloud computing. Topics include: cloud deployment and service models, cloud programming and software environments, performance and security of cloud systems, cloudlets and mobile cloud computing.
+Prerequisites: IT 450 or CS 450
+IT 408 E-Business Portal Programming (3 Credit Hours)
+An introduction to key concepts, programming techniques, technologies and standards involved in the development of E-Business portal. Topics include: E-Business programming technologies, software development environments, developing a practical E-business project, securing the E-business portal, performance tuning and evaluation.
+Prerequisites: IT 325
+IT 410 Business Intelligence (3 Credit Hours)
+Business intelligence, data warehouse, data mining, and OLAP. The course will use state-of-the-art business intelligence software tools including SAS products to provide hands-on experience in designing and using data warehouses.
+Prerequisites: BNAL 206
+IT 416 Network Server Configuration and Administration (3 Credit Hours)
+Advanced course on configuration and management of network servers.  Topics include: user and storage management, ACLs, group policy, configuring security, backups and disaster recovery, and server management.
+Prerequisites: A grade of C or better in IT 315 and a declared major in the university or permission of the Strome College of Business Dean’s Office
+IT 417 Management of Information Security (3 Credit Hours)
+This course emphasizes the need for management and technology to successfully implement an information security program in an organization. Threats, attacks, legal and ethical issues, risk assessment and control strategies; planning, development, and maintenance of security policies; contingency planning; firewalls, intrusion detection systems and security tools; and management of information security are some of the topics covered in this course.
+Prerequisites: A grade of C or better in IT 315 or IT 360T and a declared major in the university or permission of the Strome College of Business Dean’s Office
+IT 418 Enterprise Information Assurance (3 Credit Hours)
+Assure information and manage risks related to the use, processing, storage, and transmission of information. Topics include assurance of integrity, availability, authenticity, non-repudiation and confidentiality. Students will gain a firm understanding of information-related risk management in cyber and physical systems. Hands-on exercises and practice opportunities will be provided to students.
+Prerequisites: A grade of C or better in IT 315 and a declared major in the university or permission of the Dean’s Office
+IT 419 Enterprise Cyber Defense (3 Credit Hours)
+Provide students with an awareness of the options available to mitigate security threats in enterprise information systems. Topics include network mapping, network security techniques and components, applications of cryptography, malicious activity detection, countermeasures, and vulnerability scanning. Students will learn how to describe potential attacks, defense tools and methods, and measures to be taken when compromises occur.
+Prerequisites: A grade of C or better in IT 315 and a declared major in the university or permission of the Dean’s Office
+IT 420 Object-Oriented Application Development Using Visual Basic (3 Credit Hours)
+Advanced design and implementation strategies are utilized to create dynamic client/server applications that solve complex problems in a secure and robust manner. Key concepts include: abstractions, encapsulation, inheritance, polymorphism, persistence, and dynamic binding.
+Prerequisites: IT 205 and a declared major in the university or permission of the Strome College of Business Dean's Office
+IT 425 Information Systems for International Business (3 Credit Hours)
+The international business organization and its relationship to information systems architecture with emphasis on the role of connectivity technology as a driver of globalization.  An introduction to the economics and structure of the international information technology marketplace.
+Prerequisites: The general education impact of technology requirement, a declared major in the university or permission of the department
+IT 430 Object-Oriented Application Development with JAVA (3 Credit Hours)
+Using JAVA as an object-oriented language to write business applications that solve complex problems in a secure and robust manner. Business examples incorporating multimedia, multithreading, networking, and advanced graphical interfaces are used to reinforce the object-oriented concepts of abstraction, encapsulation, inheritance, polymorphism, persistence, and dynamic binding.
+Prerequisites: IT 205 and a declared major in the university or waiver approved through the Strome College of Business Undergraduate Advising
+IT 440 Secure Programming (3 Credit Hours)
+An introduction to methods of secure software design and development. Key topics include principles and practices of secure programming, input validation, type checking, parameter validation, buffer overflow prevention, error handling, web application issues (SQL injection, Cross site scripting, Cross site request forgery, etc.), static analysis tools and black box testing tools.
+Prerequisites: IT 205
+IT 450 Database Concepts (3 Credit Hours)
+Introduction to database concepts.  Historical development, data models, database analysis, design and implementation, query languages, data security, and introduction to business transaction systems.
+Prerequisites: IT 201 with a C or better or IT 360T for non-IT major students and a declared major in the university or waiver approved through the Strome College of Business Undergraduate Advising; permission of the instructor is required for non-IT major students
+IT 451 Database Administration (3 Credit Hours)
+An introduction to the theory and practice for performing the standard database administrative tasks. Course could serve as a basis in preparation to OCA Exams 1Z0-051 and 1Z0-052 for Oracle Administrator Certified Associate. Topics to be covered include: advance SQL statements, creating schema objects, database installation and configuration, database architecture, performance monitoring and tuning, storage management, database security, user management, database connectivity, backup/recovery techniques and usage analysis.  Oracle will be the primary DBMS software used in the course; other software may be used as well.  Hands-on exercises and practice opportunities will be provided to students.
+Prerequisites: IT 450 , and a declared major in the university or permission of the instructor
+IT 452 Cloud Database (3 Credit Hours)
+An introduction to the principles, techniques, and systems of cloud database. Topics include: cloud service models, cloud database design, cloud database management, cloud database development, cloud security, and cloud database services.
+Prerequisites: IT 450 or instructor approval
+IT 453 Advanced Database Concepts (3 Credit Hours)
+This course examines the theoretical and practical foundations of advanced database concepts. It also covers techniques and methodologies that are used to perform the advanced database management tasks and to insure the deployment of efficient, secure, and high-performance database applications. Topics include: advanced database and application design, database performance tuning and query optimization, data movement and distribution, distributed DBMS, Business Intelligence and Data Warehouses, Big Data Analytics and NoSQL, databases and the Internet, and other advanced database concepts. This course also examines the material included in OCA Exams 1Z0-051 and 1Z0-052 for Oracle Administrator Certified Associate.
+Prerequisites: IT 450 and a declared major in the university or permission of the instructor
+IT 454 Web-based Database Administration (3 Credit Hours)
+An introduction to key concepts and techniques related to web-based database administration. Students will gain hands-on experience with a variety of web-based database technologies. Topics to be covered include: MySQL, EasyPHP, phpMyAdmin, XML database technologies such as XQuery, XPath, and XML Schemas, performance tuning, trouble shooting, and web log analysis tools.
+Prerequisites: IT 450 , or permission of the instructor
+IT 455 SAP Applications (3 Credit Hours)
+This course introduces students to the concept of enterprise resource planning. Students will learn SAP (Systems, Applications and Products in Data Processing) enterprise software to manage business operations and customer relations by analyzing and presenting data stats in an engaging way, and producing meaningful and insightful business solutions.
+Prerequisites: IT 201 , or IT 360T , or OPMT 303 , or instructor's permission
+IT 461 Implementing Internet Applications (3 Credit Hours)
+Advanced design and implementation strategies are utilized to create dynamic e-commerce applications that solve complex problems in a secure and robust manner. Key concepts include: Internet architecture, structured data languages, scripting languages, programming languages, database connectivity, and Internet security.
+Prerequisites: IT 205 and IT 363 , or instructor's permission
+IT 464/564 Essentials of Project Management (3 Credit Hours)
+This course introduces project management principles and methodologies. Topics include project management framework, knowledge areas, and techniques. It guides students through the processes of defining, planning, executing, and controlling projects to ensure successful delivery on time, within budget, and to quality standards. The course emphasizes practical skills for managing project work and explores how Information technology tools, including artificial intelligence, can support project management tasks.
+Prerequisites: IT 317 with a C or better, IT 363 , and a declared major in the university or waiver approved through the Strome College of Business Undergraduate Advising
+IT 474/574 Strategic IT Administration (3 Credit Hours)
+Focuses on improving business use of existing IT and achieving competitive advantage.  All students gain a strategic perspective on an important organizational resource--information. Prepares IT students for managerial positions and effective communication with executives.
+Prerequisites: IT 317 with a C or better, IT 363 , and a declared major in the university or waiver approved through the Strome College of Business Undergraduate Advising
+IT 494 Entrepreneurship in Information Technology (3 Credit Hours)
+This course is designed to help students enhance their personal and professional development through real-world entrepreneurial innovation guided by faculty members and professionals. This course allows students to integrate disciplinary knowledge by developing innovative processes, products, businesses, or other innovations utilizing information technology. The real-world entrepreneurial experience will help students understand how academic knowledge leads to innovation and problem solving.
+Prerequisites: six credit hours of any IT 300 or 400 level courses
+IT 495/595 Selected Topics in Information Systems (1-3 Credit Hours)
+Taught on an occasional basis.  See the course schedule for the particular topic being taught each semester.
+Prerequisites: permission of the department
+IT 497 Independent Study in Information Systems (1-3 Credit Hours)
+Affords students the opportunity to undertake independent study under the direction of a faculty member.
+Prerequisites: permission of the department
+Maritime and Supply Chain Management (MSCM)
+Search catalog

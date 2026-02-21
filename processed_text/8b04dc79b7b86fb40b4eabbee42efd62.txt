@@ -1,0 +1,31 @@
+Old Dominion University Boosts Student Success with Expanded Support and Early Interventions
+Old Dominion University Boosts Student Success with Expanded Support and Early Interventions
+February 13, 2026
+A student has been struggling to keep up.
+In class last week, the student seemed distracted, and the student’s grades are slipping.
+Instead of waiting for midterm reports, the professor submits a student progress notification.
+Within minutes, the right people can see it and reach out — just in time to connect the student with the support services they need.
+Moments like this can keep a student on track toward graduation. That’s the shift Old Dominion University is building: connected, responsive and centered on the student every day, not just at set checkpoints.
+“I love that our technology is meeting us with our mission of caring for our students as whole human beings who have needs that can be more complex than a single transaction,” Vice Provost and University Registrar Carrie John said of the University’s streamlined operations. “We want students to know there is an exceptional standard of care at Old Dominion University. Wherever they engage with us, we will help meet their holistic needs with that first engagement. Salesforce helps us do that.”
+The University chose Salesforce Education Cloud to integrate multiple business and student support systems into one with the overall goal of reducing friction from application to graduation.
+“We needed a solution that could support the entire lifecycle of the student,” said Matt Newton, assistant vice president for business optimization and CRM architect who helped lead the Salesforce implementation. “Not just recruitment or orientation, but advising, housing, registrar services — everything a student might encounter.”
+The adoption of Salesforce is another facet of the University’s Forward-Focused Digital Transformation , a bold future-defining repositioning of Old Dominion University to meet students where they are and secure its place as a national leader in academic innovation.
+“I love that our technology is meeting us with our mission of caring for our students as whole human beings who have needs that can be more complex than a single transaction,” Vice Provost and University Registrar Carrie John said of the University’s streamlined operations. “We want students to know there is an exceptional standard of care at Old Dominion University. Wherever they engage with us, we will help meet their holistic needs with that first engagement. Salesforce helps us do that.”
+No Guesswork to Get Help
+For students, a simple question can turn into a frustrating loop. Which office do I contact? Did anyone see my message? When will I hear back? Before Salesforce, the Registrar’s Office handled 10 separate email accounts. Student requests for records, course registration and graduation required manual tracking.
+Now, student requests are centralized and tracked in one place. That visibility helps the team monitor volume and maintain strong response times, which is especially helpful during peak periods.
+Behind the scenes, coordination between offices is easier. Students feel supported, and staff collaborate more than ever before.
+Advising Made Easier
+Academic Advising is one of the most important supports in a student’s journey, but scheduling should not be a barrier.
+“Students nowadays have a lot more responsibilities,” said Lillian Haber, executive director of Academic Advising. “A large part of our population are not just students and do not have time for the back and forth (that comes with scheduling an appointment via email).”
+With Salesforce, students can now schedule advising meetings directly through the Monarch Advising Portal by choosing their meeting type, length and time, then saving the appointment to their calendar.
+When advisors have more visibility, conversations are more meaningful. Advisors will soon be able to see a fuller picture of the student’s experience, including admissions details, past communications and notes from other campus offices in one place.
+“It’s very helpful for communication,” Haber said, adding that connectivity reduces duplication and confusion for both students and staff. “We want to promote persistence, and we want to make sure we are providing as many points of support for our students as possible.”
+Earlier Alerts, Earlier Support
+Faculty are often the first to notice that students may be facing challenges. In the past, faculty submitted alerts at regular reporting intervals, but timing was often a challenge, Newton said.
+Through student progress notifications, a process developed by the Division of Digital Transformation and Technology, University faculty members can enter concerns at any point in the semester – such as when a student misses multiple classes consecutively.
+“Today’s student has an expectation to have more feedback on performance,” he said. “This creates a more apparent feedback loop and offers another way to connect.”
+What’s Next
+The vision for a connected support system started with ODUGlobal recruitment, admissions and advising in 2024.
+Now, the platform is expanding to main campus advising, events, orientation and student services. Salesforce is also virtually bridging a network of faculty and staff to coordinate business and community partnerships in order to benefit students.
+As more offices join the platform, Old Dominion University continues to build a stronger support network for students. The University is making strides toward its goal for students to have what they need from their first outreach to the day they receive their degree and beyond as proud Monarch alumni.

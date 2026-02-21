@@ -1,0 +1,28 @@
+ODU Graduate Led Teams Developing Apple’s New iPhone and iOS
+ODU Graduate Led Teams Developing Apple’s New iPhone and iOS
+September 22, 2022
+By David Simpson
+When Apple released its iPhone 14 and iOS 16 this month to wide acclaim, Abel Weldaregay could sit back and smile. The 2020 Old Dominion University graduate played a key role in developing prominent features of the phone and operating system.
+Weldaregay is a Core OS software engineer on the power team at Apple. For the iOS 16 project, he led a group that worked to reduce the power consumption of the redesigned, customizable - and much heralded - lock screen.
+"It was definitely scary and intimidating having to work on a project of that scale," said Weldaregay, the power feature DRI (directly responsible individual) for the power team.
+The goal, he said, was to find the sweet spot between power and user interface "so that users are making it through the entire day without having to plug in their phone, while also having a great user experience."
+The lock screen was the top-listed update in Apple's promotions for the new operating system. "Make iPhone your own with all-new ways to personalize your Lock Screen ," the preview page read. "Showcase favorite photos, customize font styles, and display a set of widgets to get information at a glance."
+CNET called it "the most substantial update to the iPhone's lock screen yet."
+The overall iOS 16 project took a year, starting from the idea stage, Weldaregay said. Months later came the "seed" releases to app developers, followed by the developers' feedback. In June 2022, Apple previewed the system at the Worldwide Developers Conference (WWDC), held online.
+"Throughout the entire year, it was kept secret and we were working really, really hard," Weldaregay said. "And finally at WWDC it became public, and we saw how the public received it and the excitement around it and how they were consuming the new updates and the lock screen."
+His impact on Apple's new releases didn't stop there. He was also the power feature DRI for the Dynamic Island element of the iPhone 14 Pro and Pro Max models.
+The Dynamic Island replaces the heretofore blank pill-shaped cutout at the top center of the screen. The company's iPhone 14 Pro page calls the Dynamic Island "a truly Apple innovation that's hardware and software and something in between. It bubbles up music, sports scores, FaceTime, and so much more — all without taking you away from what you're doing."
+Fun? Definitely. But for Weldaregay, also a lot of labor.
+His team worked on reducing the power impact of scenarios that populate the Dynamic Island - music, voice memos and so on.
+"It was one of the most challenging projects I have worked on, but also one of the most exciting and rewarding," he said.
+His road to Silicon Valley wove through Norfolk. He majored in computer science at ODU, where his studies helped prepare him for his role at Apple. Most beneficial were CS410 and CS411, the senior design courses. They gave him a chance to realize a project from a high-level idea to a fully designed prototype, he said.
+"They also gave me the opportunity to work on a software team tackling a real-world problem, improving my teamwork and technical skills."
+In CS410, he impressed instructor James Brunelle by proposing a mobile app project, SeizSmart, and leading the team working on it. Designed to detect the onset of epileptic seizures, the app used a smartwatch running a trained neural network. It captured information about a seizure and could alert caregivers and first responders. Brunelle called the project "very successful and innovative."
+His wife, Master Lecturer Janet Brunelle, was Weldaregay's advisor. She recalls that he "always rose to the challenges, excelled and set the example for how to be a leader for future CS majors."
+Weldaregay was a research assistant in Ajay Gupta's applied research lab. Gupta, the department's director of computer resources, hired the student because of his positive attitude in solving complex research problems.
+"He proved me right," Gupta said, "by demonstrating that he had a knack to critically evaluate a problem and solve it by applying a unique but simple solution."
+Weldaregay lives in San Francisco, where in his spare time he hikes, plays basketball, tries new restaurants, reads, and works on side projects.
+He commutes by company shuttle to Apple headquarters in Cupertino, California - an hourlong ride - and makes use of that time by tapping into Wi-Fi and working all the way there.
+It's a demanding job, but one he loves.
+"I have a really strong passion for the products," he said. "So it always comes so easy to go the extra mile, because the work is so exciting that it doesn't necessarily feel like work."
+Related News Stories

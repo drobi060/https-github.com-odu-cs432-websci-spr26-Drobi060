@@ -1,0 +1,59 @@
+Additional Notes:
+CS Electives may include up to 6 credits of CS 898 Doctoral Research.
+At least three-fifths of the minimum required hours for a doctoral degree must be completed at the 800 level. This means that students required to take 78 credit hours must have at least 47 credit hours at the 800 level. All students will complete at least 35 credit hours at the 800 level by satisfying the CS 800, CS 899, and breadth course requirements, so 12 additional credit hours of 800 level courses are required.
+Breadth Course Requirements
+Excellence in breadth is assessed through graduate coursework at ODU and is evaluated by multiple ODU CS faculty members. To demonstrate this, a student must earn a GPA of at least 3.5 in four (4) CS graduate courses at the 600 level or above that meet the following conditions:
+At least one course in three (3) different research areas.
+At least three (3) courses at the 800 level. (A student may take four 800-level courses, or three 800-level courses and one 600-level course.)
+The four courses must be regular courses that also earn a letter grade (thus CS 697 , CS 891 , CS 896 , CS 898 , and CS 899 do not count towards this requirement). Most CS 895 Topics courses will count towards this requirement, and those eligible will be assigned to an appropriate research area.
+Courses transferred from another university do not count towards this requirement.
+See the Department of Computer Science webpage or contact the GPD for information on the course to research area mapping.
+Additional Requirements
+Advisor
+Upon admission to the PhD program, a faculty advisor will be assigned to the student for general guidance. The student, however, is expected to find a dissertation advisor by the time he or she completes formal coursework.  The guidelines for advising are outlined under Student Advising in the University Requirements for Graduate Degrees section of the Graduate Catalog.
+Candidacy Examination Process
+Upon completing formal coursework (not counting CS 899 credits), before becoming heavily involved in dissertation work, and no later than three years after acceptance into the PhD program (preferably during the first 24 months after admission into the program), the student must pass the Candidacy Examination process. Students may satisfy this requirement by passing the Candidacy Examination or by completing an acceptable Research Event. Both options require a written and an oral component.
+Option 1:  Candidacy Examination
+The topics and papers covered in the Candidacy Examination are set by the student’s PhD advisor and other members of the appropriate research area committee. The student will be provided a set of 5-10 papers to review in their research area.
+Written Component: The student will write a summary of the papers, highlighting their contributions to the research area, noting how they are related and how they are different. The student must also propose areas for potential future work. Ideally, this document could form the basis for the related work section of the student’s dissertation proposal. The written summary should be 15-20 pages in the standard ODU dissertation format.
+Oral Component: After the written component has been approved by the area committee, the student will give an oral presentation (about 20-30 minutes long) on the subject to the area committee. At the end of the presentation, the area committee may ask questions to further assess the student’s understanding of the papers. At the end of the examination process, the committee will make a pass/fail decision and report this to the GPD.
+The goal of this exam is to assess the student’s understanding of the content of the papers and the student’s ability to critically analyze and articulate the important issues raised in the papers. The student should also be able to identify potential areas for future research that build off of these papers.
+A pass decision means that the area committee believes that the student is prepared and qualified to undertake PhD-level research in computer science.
+A fail decision means that the area committee believes the student is not ready to undertake PhD-level research in computer science. The area committee should provide recommendations to the student on how to improve their performance. A student who fails the Candidacy Examination may retake the exam once or may attempt the Research Event option once. Two failures will result in the student being dismissed from the PhD program. The student may request a different set of papers to be assigned for a retake.
+Option 2:  Research Event
+Students who enter the PhD program with an acceptable MS thesis or are first author on a high-quality academic submission may be able to satisfy the Candidacy Examination process without taking the Candidacy Exam. Each research area committee determines its own set of conferences and journals in their research area that would be acceptable.
+Written Component: The written component may be satisfied either through either an accepted publication or a high-quality, but rejected, submission to an approved conference or journal. For either option, the student must be the first author.
+Accepted: The research area committee may approve an accepted publication to count as the written component of the Candidacy Examination process.
+Rejected: The research area committee may approve a rejected, but high-quality, submission as the baseline for the written component of the Candidacy Examination process. In addition to the submitted paper, the student must construct a document that outlines how the student would address the reviewers' comments.
+Oral Component: After the written component has been approved by the area committee, the student will give an oral presentation (about 20-30 minutes long) on the subject to the area committee. At the end of the presentation, the area committee may ask questions to further assess the student’s understanding of the research and related work. At the end of the examination process, the committee will make a pass/fail decision and report this to the GPD.
+A pass decision means that the area committee believes that the student is prepared and qualified to undertake PhD-level research in computer science.
+A fail decision means that the area committee believes the student is not ready to undertake PhD-level research in computer science. The area committee should provide recommendations to the student on how to improve their performance. A student who fails the Research Event option may attempt the Research Event option once more or may take the Candidacy Exam once. Two failures will result in the student being dismissed from the PhD program.
+To use the Research Event option, the student must provide the GPD and the chair of the appropriate research area committee a copy of the document proposed to satisfy the requirement. The document will be evaluated by the area committee to determine if it meets the stated criteria. The chair of the area committee will notify the student and the GPD of the outcome of the evaluation (acceptable or unacceptable). If the publication is deemed unacceptable, the student may submit another publication or take the Candidacy Examination. This does not count as an attempt.
+If a student is not first author on a submitted paper to an approved conference/journal before they have completed formal coursework, they must take the Candidacy Examination within the next 6 months.
+After passing the Candidacy Exam, completing formal coursework, and having an approved dissertation topic, the student must register for at least 1 credit hour each semester (including summer) until graduation.
+Dissertation Committee
+After the candidacy exam has been passed and dissertation topic approved, the Dissertation Committee is formed to supervise the dissertation research.
+A Dissertation Committee is formed according to the following guidelines:
+The faculty advisor selects at least three members of the Dissertation Committee in cooperation with the student and the Graduate Studies Committee.
+The Dissertation Committee must consist of at least two ODU faculty members.
+At least one member of the Dissertation Committee must be from outside the student's department/school at ODU or a non-ODU academic or professional with special knowledge of the dissertation subject area. No more than one-third of the committee's membership can be individuals external to the University.
+Additional members may be appointed to the committee. Adjuncts (approved for graduate instruction) and non-university members may be added with approval of the GPD.
+All committee members must be certified for graduate instruction. The current research interests of the computer science members of the committee should be related to the research goals of the student.
+The Dissertation Committee must complete a PhD Dissertation Committee Form. This form is submitted to the GPD and to the Dean of the College of Sciences for approval.
+Dissertation Prospectus
+The oral examination of the written dissertation prospectus, or proposal, is designed to test the student’s knowledge of background material related to the dissertation topic and to determine if the student has identified a significant problem, has a plan of attack, and is ready to proceed with the dissertation research.
+At least one week before the scheduled oral examination time (and preferably two weeks before), the student must provide the examination committee with a written dissertation research proposal. The proposal should contain the following items (not necessarily in this order):
+a comprehensive literature review on the dissertation topic that should in particular discuss limitations of current approaches and open problems in the topic area
+a description of the research problem
+a discussion of how the problem relates to other work in the field
+a detailed research plan, including proposed tasks and a timeline for completion
+a list of expected contributions.
+During the examination, the student will give a 45-minute presentation of the dissertation proposal to be followed by questions from the committee. The examination committee will be made up of at least three faculty members, all of whom must be graduate certified. These are typically the members of the student’s dissertation committee.  The exam is expected to last no more than 2 hours.
+The presentation of the dissertation proposal is open to the public and will be publicized by the GPD at least one week in advance of the exam. Once the presentation has concluded and the audience has asked general questions, the audience will be excused. The examination by the committee will be held in private, but graduate faculty members are welcome to observe the exam.
+Dissertation
+A minimum of 23 credit hours of dissertation work ( CS 899 ) is required. The work must represent an achievement in research and must be a significant contribution in the field. Students are required to publish (or have in the revision process) at least one paper in a refereed journal or refereed conference proceedings based on their dissertation work.
+Dissertation Defense
+The dissertation defense is an oral presentation of the dissertation results, open to the University community. The dissertation committee will examine the candidate after the presentation. The examination committee must be provided with the completed dissertation at least two weeks before the examination date.
+Time Requirement
+PhD students should normally be full-time. A full-time student can be expected to satisfy all the PhD requirements in three to five years when entering with an MS degree or four to six years with a bachelor’s degree. No student (full-time or part-time) will be allowed to study for the PhD degree beyond eight years from the date of admission into the program.
+Search catalog

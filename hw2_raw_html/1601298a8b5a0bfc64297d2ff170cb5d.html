@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <link rel="icon" href="/Themes/Favicon/favicon.ico">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ODU Recreation</title>
+    <link href="/Content/custom/custom.css" rel="stylesheet" type="text/css" />
+    <link href="/bundles/css?v=wYBQ1fTC4ChjvKWjaI6DhThkAZc7-kPgU2wRToPU6WA1" rel="stylesheet"/>
+
+    <link href="/bundles/gijgo-css?v=hOFGXVdvcjImSJ4QqfcSa3O5jcXZ6lXqdoE-LkM2Fu81" rel="stylesheet"/>
+
+
+    
+    <script type="text/javascript" src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1" nonce="ea0492bf227544b7b59107f64c40ea38"></script>
+
+    <script type="text/javascript" src="/bundles/jquery?v=PRKzFb9CosvCBfC4s8J1b61Lsj97nm4lPjMlczW-jXs1" nonce="ea0492bf227544b7b59107f64c40ea38"></script>
+
+    <script type="text/javascript" src="/bundles/bootstrap?v=-UU6ZNj8_0E9z7QawhC4UciNIEdjaGSW3CgoG06m_Ss1" nonce="ea0492bf227544b7b59107f64c40ea38"></script>
+
+    <script type="text/javascript" src="/bundles/innosoft?v=r8W7hewHmuY4dqHgUTUsQwKgvJCP7FvnBlv6uhrnjdM1" nonce="ea0492bf227544b7b59107f64c40ea38"></script>
+
+    <script type="text/javascript" src="/bundles/signalR?v=UHTi4JWLFgaeIF35j3FxUxFxpohfwADMDmZABKPNoxw1" nonce="ea0492bf227544b7b59107f64c40ea38"></script>
+
+    <script type="text/javascript" src="/bundles/gijgo-js?v=6I8Qiquc85OwFnnKWWwTAgbL6mWbuQUMRiF-oRzOoBM1" nonce="ea0492bf227544b7b59107f64c40ea38"></script>
+
+    <script type="text/javascript" src="/Scripts/bootstrap.bundle.min.js" nonce="ea0492bf227544b7b59107f64c40ea38"></script>
+
+
+
+    
+    <script type="text/javascript" src="/bundles/news?v=HPlndD_87OP35IsxgheMC3IEIXYtPajXeb-Snehvxi41" nonce="ea0492bf227544b7b59107f64c40ea38"></script>
+
+
+    <script nonce="ea0492bf227544b7b59107f64c40ea38">
+        function AttachEventsToElement(id, eventType, listener) {
+            var elementToAttachTo = document.getElementById(id);
+            if (elementToAttachTo != null) {
+                elementToAttachTo.addEventListener(eventType, listener);
+            }
+        }
+
+        // Global resources loaded from server-side cache (culture-aware)
+        window.GlobalResources = {"AccessibilitySettings_AltTextBlank":"The alt text is blank","AccessibilitySettings_FiltersApplied":"Filters have been applied.","AccessibilitySettings_FiltersReset":"Filters have been reset.","AccountLogin_UsernamePasswordNotBeEmpty":"Username or Password can not be empty!","BookingCancellation_LoadingText":"Cancelling...","BookingProductDetails_Slot_BookNow":"Book Now","BookingSlot_BookingText":"Booking...","Dependants_Register":"Register","DependantsPartial_UpdateWaitlist":"Update Waitlist","FusionAgent_EventStillRunning":"Event(s) are still running.","FusionAgent_ExportTaskSubmitted":"CBORD File Export task submitted!","FusionAgent_RunningEventNotVerify":"Cannot verify that agent is running.","FusionAgent_RunningSuccess":"Accrual Will run momentarily!","Global_AlreadyAdded":"Already Added","Global_Confirm":"Confirm","Global_Error":"Error","Global_InvalidRequest":"Invalid request","Global_Loading":"Loading","Global_Max":"Max","Global_NotSupplied":"Not Supplied","Global_NoUpcomingEvents":"You have no upcoming events.","Global_ServerError":"Server error:","Global_SomethingWentWrong":"Something went wrong!","Global_Submit":"Submit","InvoiceDetail_InvoiceTotal":"Invoice Total","MemberRegistration_NumOfUpcoming":"You have {0} upcoming events.","Notification_CheckInError_UnableToCheckIn":"Unable to check user in","PaymentProvider_InProduction":"In Production","PaymentProvider_InTest":"In Test","Profile_FailedToLoadAddress":"Failed to load address information. Please refresh.","Profile_FailedToLoadEmailInformation":"Failed to load email information. Please refresh.","Profile_FailedToLoadNumber":"Failed to load phone number information. Please refresh.","Profile_RegistrationCanceled":"Registration has been successfully canceled.","Profile_RemovedFromWaitlist":"Successfully removed from waitlist.","Profile_UnableToAddGender":"We were unable to add gender information. (Validation: Field cannot be empty)","Profile_UnableToSaveChanges":"We were unable to save your changes. If this problem persists please contact an admin.","Profile_UpdatedFamily":"We successfully updated your family.","ReCaptcha_Confirming":"Confirming...","Stripe_PaymentNotSuccessful":"Your payment was not successful, please try again.","Stripe_PaymentProcessing":"Your payment is processing.","Stripe_PaymentSucceeded":"Payment succeeded!"};
+
+        /**
+         * Extracts a localized resource value from page-level or global resources.
+         * param {string} key - The resource key to look up (e.g., "Global_Loading")
+         * returns {string} The localized string, or "[Missing: key]" if not found
+         **/
+        window.extractResourceValue = function (key) {
+            // 1. Check page-level resource first
+            if (typeof PageResources !== "undefined" && key in PageResources) {
+                return PageResources[key];
+            }
+
+            // 2. Then global resources
+            if (typeof GlobalResources !== "undefined" && key in GlobalResources) {
+                return GlobalResources[key];
+            }
+
+            return "[Missing: " + key + "]";
+        };
+
+    </script>
+
+            <link href="/Themes/activetheme.css?v=0126122547" rel="stylesheet" type="text/css" />
+
+
+    <script type="text/javascript" src="/Scripts/spin.min.js" nonce="ea0492bf227544b7b59107f64c40ea38"></script>
+
+        <script nonce="ea0492bf227544b7b59107f64c40ea38" async src="https://www.googletagmanager.com/gtag/js?id=UA-83523264-1"></script>
+        <script nonce="ea0492bf227544b7b59107f64c40ea38">
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+			gtag('config', 'UA-83523264-1', { 'cookie_flags': 'SameSite=None;Secure'});
+        </script>
+
+
+</head>
+
+<body class="bodyHomePage">
+    <div class="wrapper">
+
+<nav id="sidebar" tabindex="-1" class="" aria-hidden="true">
+	<div id="sidebarHeader" class="TopBarBG">
+        <div class="d-flex align-items-center h-100">
+            <div id="sidebarDismiss" aria-label="Close" class="SideBarMenuLink SideBarMenuLinkColor" tabindex="-1" role="button">
+                <span class="material-icons-round md-24">clear</span>
+            </div>
+            <script nonce="ea0492bf227544b7b59107f64c40ea38" type="text/javascript"> AttachEventsToElement('sidebarDismiss', 'keydown', function(){enterToClick(event)}); 
+</script>
+
+    <div>
+        <a href="/" class="LogoLink" id="sidebarLogo" aria-label="Home" tabindex="-1"></a>
+    </div>
+
+        </div>
+	</div>
+
+	<div id="sidebarBody" class="overflow-auto pb-4 ScrollSmall">
+		<div class="list-unstyled list-group components">
+					<a class="sidebarMenuItem list-group-item-action" href="https://odu.edu/recwell/facilities" target="_blank" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">schedule</span>
+							<span class="sidebarText">Hours</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="https://recwellportal.odu.edu/Program/GetProducts?classification=00000000-0000-0000-0000-000000026002" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">fitness_center</span>
+							<span class="sidebarText">Group Exercise Classes</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="https://recwellportal.odu.edu/Program?classificationId=af311b6c-5750-4a82-bae0-a8fa2d58aa99" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">assessment</span>
+							<span class="sidebarText">Body Fat Analysis &amp; Fitness Orientations</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Foutlook.office.com%2Fbook%2FNutritionSupport%40olddominion.onmicrosoft.com%2F&amp;data=05%7C02%7Cbnaff%40odu.edu%7C76acb8102999489d944b08de547f7a14%7C48bf86e811a24b8a8cb368d8be2227f3%7C0%7C0%7C639041103659943579%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=5GlljkjNQUf4ElDBia2QAGk5Iakv%2FivzaPIwKOWn2d4%3D&amp;reserved=0" target="_blank" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">restaurant</span>
+							<span class="sidebarText">Nutrition</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="../Program/GetProducts?productTypeCV=00000000-0000-0000-0000-000000003502&amp;classification=b5cb1d3f-ad23-4275-a2b7-ed84579e9238" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">nature_people</span>
+							<span class="sidebarText">Outdoor Adventure</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="https://recwellportal.odu.edu/Program/GetProducts?classification=be88284a-e103-464b-b4c5-615fa222411a" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">sports_esports</span>
+							<span class="sidebarText">Esports</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="https://recwellportal.odu.edu/Program/GetProducts?classification=67d40ac0-c1bd-42cf-a326-d41a949234e9" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">health_and_safety</span>
+							<span class="sidebarText">Safety Certifications</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="../CourtReservation" target="_blank" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">pending_actions</span>
+							<span class="sidebarText">Racquetball Reservation</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="../Product/GetProducts/?productTypeCV=00000000-0000-0000-0000-000000003502"  >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">view_list</span>
+							<span class="sidebarText">Programs &amp; Services</span>
+						</div>
+					</a>
+					<a class="sidebarMenuItem list-group-item-action" href="../Program/GetProducts?productTypeCV=00000000-0000-0000-0000-000000003502&amp;classification=7591c912-368d-475a-af80-190c776ef7c5" target="_self" >
+						<div class="d-inline-flex">
+							<span class="material-icons-round" aria-hidden="true">event</span>
+							<span class="sidebarText">Special Events</span>
+						</div>
+					</a>
+					</div>
+	</div>
+</nav>
+
+<script nonce="ea0492bf227544b7b59107f64c40ea38">
+    var keys = {
+        tab: 9,
+        esc: 27
+	};
+
+	$(document).ready(function () {
+		$('#sidebarDismiss, .overlay').on('click', function () {
+			dismissSidebar();
+		});
+
+		$('#sidebarCollapse').on('click', function () {
+			showSidebar();
+		});
+
+        $('#sidebarDismiss, #sidebarLogo, .sidebarMenuItem').on("keydown", function (event) {
+            switch (event.keyCode) {
+                case keys.esc:
+                    dismissSidebar()
+                    break;
+            }
+		});
+
+        $(".sidebarMenuItem:last-of-type").on("keydown", function () {
+            switch (event.keyCode) {
+                case keys.tab:
+                    $('#sidebarDismiss').focus();
+                    break;
+            }
+            event.preventDefault();
+		});
+
+        $('.sidebarMenuItem').attr('tabindex', '-1');
+	});
+
+	function dismissSidebar() {
+		// hide sidebar
+		$('#sidebar').removeClass('active');
+        $('#sidebar').attr('aria-hidden','true')
+		$('#sidebarCollapse').focus();
+		// hide overlay
+		$('.overlay').removeClass('active');
+		$('.sideBarSubMenu.show').toggleClass('show');
+
+		$('html').removeClass("overflow-hidden");
+		$('#sidebarDismiss').attr('tabindex', '-1');
+		$('#sidebarLogo').attr('tabindex', '-1');
+		$('.sidebarMenuItem').attr('tabindex', '-1');
+	}
+
+	function showSidebar() {
+		// open sidebar
+		$('#sidebar').addClass('active');
+        $('#sidebar').attr('aria-hidden', 'false')
+		// fade in the overlay
+		$('.overlay').addClass('active');
+		$('a[aria-expanded=true]').attr('aria-expanded', 'false');
+		$(".sidebarMenuItem").first().focus();
+
+		$('html').addClass("overflow-hidden");
+		$('#sidebarDismiss').attr('tabindex', '0');
+		$('#sidebarLogo').attr('tabindex', '0');
+        $(".sidebarMenuItem").attr('tabindex', '0');
+	}   
+</script>
+
+
+        <div id="content">
+
+
+<header class="container-fluid HeaderBar HeaderBarBg">
+    <a id="skipLink" class="skip-main" href="#mainContent">Skip to main content</a>
+    <div id="ecHeader" class="editableCustomContent row" data-id="00000000-0000-0000-0000-000000004189">
+        <div class="container front-header">
+<div class="container front-header-overlay">
+<div class="front-header-textbox col-lg-9 col-md-9 col-sm-9 col-xs-12">
+<h2>Recreation &amp; Wellness</h2>
+<h4>Welcome to the Rec Well Portal. Browse options below!</h4>
+</div>
+</div>
+</div>
+    </div>
+</header>
+
+<div id="SessionTimeoutContainer">
+    <input hidden value="20" id="SessionTimeoutMins" />
+</div>
+
+
+<div class="modal fade" id="inactivityIdleWarning" tabindex="-1" aria-labelledby="inactivityTimeoutWarning" aria-hidden="true" data-backdrop="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title global-Modal-Header-H5-FontSize" id="inactivityTimeoutWarning">Are you still there?</h2>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Would you like to continue? Your session will expire in 2 mins due to inactivity.
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary resetInactivityModalBtn">Continue</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script nonce="ea0492bf227544b7b59107f64c40ea38" type="text/javascript">
+    $(".resetInactivityModalBtn").on('click', function () {
+        resetSessionAuthentication();
+    });
+</script>
+
+            <div class="navbar TopBar navbar-expand sticky-top TopBarBG" role="banner">
+                <div  class="container-fluid">
+                    <div class="d-flex align-items-center h-100">
+                        <div id="sidebarCollapse" class="SideBarMenuLink SideBarMenuLinkColor" aria-expanded="false" aria-controls="sidebar" aria-label="Open Site Navigation" tabindex="0" role="button">
+                            <span class="material-icons-round">menu</span>
+                        </div>
+                        <script nonce="ea0492bf227544b7b59107f64c40ea38" type="text/javascript"> AttachEventsToElement('sidebarCollapse', 'keydown', function(){enterToClick(event)}); 
+</script>
+
+    <div>
+        <a href="/" class="LogoLink" id="LogoBackground" aria-label="Home" tabindex="0"></a>
+    </div>
+
+                    </div>
+                    <div id="Search" class="d-none d-lg-block TopSearch">
+<form action="/Program/Search" aria-label="Main" id="SearchForm" method="post" role="search"><input name="__RequestVerificationToken" type="hidden" value="dtS7f1voilgVeD6QUwoOeZnoblbyPFNFdCrePrf3uzsrskxvPeYAv5oq45PVhiTNS0f435iFXbHBaSCEI4OEvQQSbwKIIdNWoOU1nw0NwxM1" /><div class="input-group">
+    <input type="text" id="txtSearchId" name="term" class="form-control" aria-label="Search Programs" placeholder="Search Programs" onsearch="SearchKey(event)" required>
+    <button id="btnSearch" class="btn btn-outline-secondary SearchButtonColor" type="submit" aria-label="Submit Search"><span class="material-icons-round md-18" aria-hidden="true">search</span></button>
+</div>
+</form>                    </div>
+
+                    <div id="TopBarRight" class="d-flex align-items-center h-100">
+                        <div class="d-lg-none">
+                            <a id="lnkSearch" href="#SearchCl" data-bs-toggle="collapse" aria-label="Search" class="btn btn-link SearchButton TopBarButtonColor" aria-expanded="false">
+                                <span class="material-icons-round" aria-hidden="true">search</span>
+                            </a>
+                        </div>
+                        
+    <button class="TopBarButtonColor LoginPartialLinks btn btn-link" id="loginLinkBtn">Sign In</button>
+<script nonce="ea0492bf227544b7b59107f64c40ea38" type="text/javascript"> AttachEventsToElement('loginLinkBtn', 'click', function(){showLogin('%2f')}); 
+</script>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="collapse" id="SearchCl" role="search">
+<form action="/Program/Search" id="SearchFormXS" method="post"><input name="__RequestVerificationToken" type="hidden" value="5v5IjvkSdn3zo9PFMupCdJ0thbcWw-5FiC2QfqlLP_8SBafl5lB0rCepSadX0DcUN3cRtCPrg-A-fnhyUa8K2LGwR8UuDgwcXKPaM-D1Ias1" /><div class="input-group">
+    <input type="text" id="txtSearchClId" name="term" class="form-control" aria-label="Search Programs" placeholder="Search Programs" required>
+    <script nonce="ea0492bf227544b7b59107f64c40ea38" type="text/javascript"> AttachEventsToElement('txtSearchClId', 'search', function(){SearchKeyXS(event)}); 
+</script>
+    <button id="btnSearchSm" class="btn btn-outline-secondary SearchButtonColor" type="submit" aria-label="Submit Search"><span class="material-icons-round" aria-hidden="true">search</span></button>
+</div></form>            </div>
+
+
+
+            <div id="main" role="main">
+                
+    <div id="ecHomePage" data-id="00000000-0000-0000-0000-000000004184" class="editableCustomContent">
+        
+    </div>
+
+
+
+                <div class="container body-content bodyColour contentWrapPP" id="mainContent">
+                    <div id="cookieArea"></div>
+                    <div>
+
+
+                        
+
+
+
+
+
+<div class="MenuMain row row-cols-xl-4 row-cols-lg-3 row-cols-md-3 row-cols-sm-2 row-cols-2">
+
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://odu.edu/recwell/facilities" target="_blank">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Memberships_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Hours</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/Program/GetProducts?classification=00000000-0000-0000-0000-000000026002" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Group_X_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Group Exercise Classes</span>
+	</a>
+
+			</div>
+			<script nonce="ea0492bf227544b7b59107f64c40ea38">
+				$(document).ready(function () {
+					$('.popr').popr();
+				});
+			</script>
+			<div class="popr" data-id="8ac03460-fd68-4032-ad95-5e14a7a97f55">
+					<button class="Menu-Item menuButton" >
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Personal_Fit_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Fitness Training</span>
+	</button>
+
+			</div>
+			<div class="popr-box icons-flyout" data-box-id="8ac03460-fd68-4032-ad95-5e14a7a97f55">
+
+				<div class="container-fluid" style="min-width:calc(600px)">
+					<div class="row">
+						<div class="col-md-12">
+								<div class="col-md-3">
+										<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/MultiVisitPass/GetProducts?category=b6641568-c4b6-4b83-b313-01d5d88ef90c" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Personal_Train_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Personal Training</span>
+	</a>
+
+								</div>
+								<div class="col-md-3">
+										<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/Program?classificationId=4b1cd041-6b75-4f39-aeb4-3a4aa004e1f2" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Group_Train_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Small Group Training</span>
+	</a>
+
+								</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/Program?classificationId=af311b6c-5750-4a82-bae0-a8fa2d58aa99" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Themes/SitemapImages/Fusion Rec Well Portal Icon (1).png" alt="" />
+		</span>
+		<span class="Menu-IconName">Body Fat Analysis &amp; Fitness Orientations</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/Program?classificationId=8ca09a5a-f5cf-40da-8782-4f62d9ceac1d" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Themes/SitemapImages/Fusion Rec Well Portal Icon (2).png" alt="" />
+		</span>
+		<span class="Menu-IconName">Fitness Prep Courses</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Foutlook.office.com%2Fbook%2FNutritionSupport%40olddominion.onmicrosoft.com%2F&amp;data=05%7C02%7Cbnaff%40odu.edu%7C76acb8102999489d944b08de547f7a14%7C48bf86e811a24b8a8cb368d8be2227f3%7C0%7C0%7C639041103659943579%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=5GlljkjNQUf4ElDBia2QAGk5Iakv%2FivzaPIwKOWn2d4%3D&amp;reserved=0" target="_blank">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Themes/SitemapImages/nutrition icon.PNG" alt="" />
+		</span>
+		<span class="Menu-IconName">Nutrition</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://odu.campusgroups.com/events?group_ids=29984" target="_blank">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Products-Merch_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Health Events</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="../Program/GetProducts?productTypeCV=00000000-0000-0000-0000-000000003502&amp;classification=b5cb1d3f-ad23-4275-a2b7-ed84579e9238" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Outdoor_Adv_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Outdoor Adventure</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/Program/GetProducts?classification=be88284a-e103-464b-b4c5-615fa222411a" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Themes/SitemapImages/Rec Well Portal Icons Esports (1).png" alt="" />
+		</span>
+		<span class="Menu-IconName">Esports</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/Program/GetProducts?classification=67d40ac0-c1bd-42cf-a326-d41a949234e9" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Safety_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Safety Certifications</span>
+	</a>
+
+			</div>
+			<script nonce="ea0492bf227544b7b59107f64c40ea38">
+				$(document).ready(function () {
+					$('.popr').popr();
+				});
+			</script>
+			<div class="popr" data-id="6b2bd490-4b77-4026-ab8a-119f9344d419">
+					<button class="Menu-Item menuButton" >
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Swim_Lessons_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Swim Lessons</span>
+	</button>
+
+			</div>
+			<div class="popr-box icons-flyout" data-box-id="6b2bd490-4b77-4026-ab8a-119f9344d419">
+
+				<div class="container-fluid" style="min-width:calc(600px)">
+					<div class="row">
+						<div class="col-md-12">
+								<div class="col-md-3">
+										<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/MultiVisitPass/GetProducts?category=ad7343f3-af84-431b-aa62-23c8d6bd954f" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Private_Swim_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Private Swim Lessons</span>
+	</a>
+
+								</div>
+								<div class="col-md-3">
+										<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/Program/GetProducts?classification=00000000-0000-0000-0000-000000026001&amp;category=b0a79cc9-7554-48ee-b2ec-e9d10f4d0a86" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Group_Swim_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Group Swim Lessons</span>
+	</a>
+
+								</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="../CourtReservation" target="_blank">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Courts_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Racquetball Reservation</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/MultiVisitPass/GetMultiVisitPassDetails?pass=cb331076-f830-473f-9735-84539aed551e" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Themes/SitemapImages/128_IMLeagues_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Intramural Forfeit Fee</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="../Product/GetProducts/?productTypeCV=00000000-0000-0000-0000-000000003502" >
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Programs_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Programs &amp; Services</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="../Program/GetProducts?productTypeCV=00000000-0000-0000-0000-000000003502&amp;classification=7591c912-368d-475a-af80-190c776ef7c5" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Special_Events_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Special Events</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/MemberDetails#Lockers" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Locker-Service_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Locker Rental Renewal</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/MemberDetails#Memberships" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Multi-Visit-Pass_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Membership Renewals</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="../Towel" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Towel-Service_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Towel Service</span>
+	</a>
+
+			</div>
+			<div class="col">
+					<a class="Menu-Item text-dark" href="https://recwellportal.odu.edu/MemberDetails#TowelService" target="_self">
+		<span class="Menu-IconImage">
+			<img class="img-responsive" src="/Content/Images/MenuIcons/128_Towel-Service_v3.png" alt="" />
+		</span>
+		<span class="Menu-IconName">Towel Service Renewal</span>
+	</a>
+
+			</div>
+</div>
+
+<div class="row">
+
+
+</div>
+
+
+
+                        <br />
+                    </div>
+
+
+                </div>
+
+                
+
+                <button type="button" class="cd-top btn btn-primary" aria-label="Scroll to Top">
+                    <div class="d-flex align-items-center"><span class="material-icons-round">keyboard_arrow_up</span></div>
+                </button>
+
+                <div id="mJavascriptError" class="modal fade" tabindex="-1" aria-hidden="true" aria-labelledby="JavascriptErrorTitle">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h2 class="modal-title global-Modal-Header-H5-FontSize" id="JavascriptErrorTitle">Error</h2>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <p id="JavascriptErrorDescription"></p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <input type="hidden" value="Do you want to leave this site? Changes you made may not be saved." id="hdn-navigate-away-message" />
+
+                <div id="loading">
+                    <div id="loadingcontent" style="">
+                        <p id="loadingspinner" style="">
+                            Loading ...
+                        </p>
+                    </div>
+                </div>
+
+                <div id="divLoginModal">
+                    
+                </div>
+                <div id="toastNote"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="toast position-fixed" id="accountCreationToastId" role="alert" aria-live="assertive" aria-atomic="true" data-autohide="false" aria-labelledby="accountCreationToastId-title">
+        <div class="toast-body">
+            <div class="mb-1">
+                <strong id="accountCreationToastId-title" class="me-auto">Account created!</strong>
+            </div>
+            <div class="mt-2">
+                A confirmation email will be sent to you shortly.
+            </div>
+            <div class="text-end mt-3">
+                <a href="#" class="text-body me-4" data-bs-dismiss="toast">DISMISS</a>
+                <a id="aLayoutRedirectToProfile" href="#" class="text-body" data-bs-dismiss="toast"><strong>COMPLETE PROFILE</strong></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="toast position-fixed" id="recoveredOrderToastId" role="complementary" aria-live="assertive" aria-atomic="true" data-autohide="false" aria-labelledby="recoveredOrderToastId-title">
+        <div class="toast-body">
+            <div class="mb-1">
+                <strong id="recoveredOrderToastId-title" class="me-auto">Order Recovered</strong>
+            </div>
+            <div class="mt-2">
+                Your previous checkout was not completed and has been recovered.
+            </div>
+            <div class="text-end mt-3">
+                <a href="#" id="recoveredOrderDismiss" class="text-body me-4" data-bs-dismiss="toast" aria-label="Close"><strong>DISMISS</strong></a>
+            </div>
+        </div>
+    </div>
+
+
+    
+        <div class="SocialShare" role="complementary" aria-label="social media share links">
+            <a class="btnSocial" id="homeFacebookIcon" href="http://www.facebook.com/sharer.php?u=https://recwellportal.odu.edu/" target="_blank" rel="noreferrer">
+                <img class="img-responsive" src="/Content/Images/facebook.png" alt="Share on Facebook" />
+            </a>
+            <a class="btnSocial" id="homeTwitterIcon" href="https://twitter.com/share" data-count="none" data-dnt="true" target="_blank" rel="noreferrer">
+                <img class="img-responsive" src="/Content/Images/twitter.png" alt="Share on Twitter" />
+            </a>
+            <a class="btnSocial" id="homeFusionMailIcon" href="mailto:?Subject=Fusion&Body=https://recwellportal.odu.edu/" target="_blank" rel="noreferrer">
+                <img class="img-responsive" src="/Content/Images/email.png" alt="Share via Email" />
+            </a>
+        </div>
+
+    <div class="overlay"></div>
+    <div class="overlay-secondary"></div>
+
+<div id="ecContentFooter" data-id="00000000-0000-0000-0000-000000004193" class="editableCustomContent">
+	
+</div>
+
+
+
+<footer class="container-fluid FooterBar FooterBarBg">
+		<div id="ecFooter" class="editableCustomContent" data-id="00000000-0000-0000-0000-000000004188">
+			<div class="SchoolFooter row">
+<div class="container">
+<div class="row">
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"></div>
+<div class="SchoolLogo"><img alt="School Logo" src="/Content/Images/logo-dominion-white.png" /></div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+<div class="SchoolInfo">
+<h4>Old Dominion University</h4>
+<p>Norfolk, VA 23529<br /><a href="https://www.odu.edu/about/contact">Contact &amp; Mailing Info</a><br /><a href="https://www.odu.edu/about/visitors/directions">Directions to Campus</a></p>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+<div class="SchoolInfo">
+<h4>Quick Links</h4>
+<p><a href="https://www.odu.edu/admission">Apply Now</a><br /><a href="https://www.odu.edu/about/support-odu" target="_blank" rel="noopener noreferrer">Support ODU</a><br /><a href="https://www.odu.edu/about/visitors" target="_blank" rel="noopener noreferrer">Visitor's Guide</a></p>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+<div class="SchoolInfo">
+<h4>&nbsp;</h4>
+<p><a href="https://www.odu.edu/employment">Employment</a> <br /><a href="https://www.odu.edu/media" target="_blank" rel="noopener noreferrer">News &amp; Media</a> <br /><a href="https://www.odu.edu/life/health-safety/alerts" target="_blank" rel="noopener noreferrer">Campus Alerts</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="FusionFooter row">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
+<div class="FooterLinkGroup">
+<div class="copyright copyrightTextColor">&copy; <span class="ecDateTime_Year">2026</span> Innosoft Canada. All rights reserved.</div>
+<a class="FooterLink FooterLinkColor" href="/Home/Contact">Contact Us</a> <a class="FooterLink FooterLinkColor" href="/Home/About">About Us</a> <a class="FooterLink FooterLinkColor" href="/Home/Terms">Terms Of Use</a></div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+<div class="FooterLogo"><a title="Powered By Fusion" href="http://www.innosoftfusion.com"> <img alt="Powered By Fusion" src="/Content/Images/Fusion-Icon-Light.png" /> </a></div>
+</div>
+</div>
+</div>
+</div>
+		</div>	
+</footer>
+
+
+    
+
+    <script type="text/javascript" nonce="ea0492bf227544b7b59107f64c40ea38">
+		document.getElementById("aLayoutRedirectToProfile").addEventListener("click", function () { redirectToProfile() });
+        document.getElementById("recoveredOrderDismiss").addEventListener("click", function () { dismissRecoveredOrder() });
+
+	var jsErrorMessages_Refresh = 'Error while loading data! Refresh page and try again!';
+	var jsErrorMessages_JSError = 'Error occured while loading data!';
+	var jsErrorMessages_Error = 'Error';
+	var InnosoftUrls = {
+		PriceAPI: '/api/Price/GetPrices',
+		ProductAPI: '/api/product'
+	};
+	var InnosoftConstants = {
+		GuidEmpty: '00000000-0000-0000-0000-000000000000'
+	};
+    </script>
+
+    <div id="section-tinymcescripts"></div>
+
+    <script type="text/javascript" src="/bundles/innosoftPostScript?v=VS420-jJOYUSddCrj6KgI5LE8kU2xrbq33f6t2GZ-VQ1" nonce="ea0492bf227544b7b59107f64c40ea38"></script>
+
+    
+
+</body>
+</html>
+

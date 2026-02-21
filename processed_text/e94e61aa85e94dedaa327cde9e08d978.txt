@@ -1,0 +1,15 @@
+Ph.D. in Computer Science, The Ohio State University, (1981)
+M.S. in Computer Science, The Ohio State University, (1978)
+B.A. in Physics and Applied Mathematics, Thomas More College, (1977)
+Contracts, Grants and Sponsored Research
+Zubair, M., Maly, K. J. and Zeil, S. "Automated extraction of metadata for GPO" $64,906. Federal. - 2009
+Maly, K. J., Zubair, M. and Zeil, S. "Processess and tools for extracting metadata" $84,371. Federal. 2009 - 2009
+Maly, K. J., Zubair, M. and Zeil, S. "Automated extracting of metadata for GPO" $64,906. Federal. 2008 - 2008
+Maly, K. J., Zubair, M. and Zeil, S. "Marc21 representation of metadata" $15,000. Federal. 2008 - 2008
+Maly, K. J., Zubair, M. and Zeil, S. "Processess and tools for extracting metadata" $84,371. Federal. 2008 - 2008
+Maly, K. J., Zubair, M. and Zeil, S. "Automated extracting of metadata for GPO" $84,700. Federal. 2007 - 2007
+Maly, K. J., Zubair, M. and Zeil, S. "Processess and tools for extracting metadata" $54,726. Private. 2007 - 2007
+Maly, K. J., Zubair, M. and Zeil, S. "Tools for extracting metadata and structure from Dtic technical documents collections using Xml technology" $16,828. Federal. 2007 - 2007
+Maly, K. J., Zubair, M. and Zeil, S. "Tools for extracting metadata and structure from NASA technical documents collections" $34,000. Federal. 2007 - 2007
+Maly, K. J., Zubair, M. and Zeil, S. "Extracting metadata and structure from NASA technical documents collections" $34,000. Federal. 2006 - 2006
+Maly, K. J., Zubair, M. and Zeil, S. "Tools for extracting metadata and structure from Dtic technical documents collections using Xml technology" $94,000. Federal. 2005 - 2005

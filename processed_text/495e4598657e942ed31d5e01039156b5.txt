@@ -1,0 +1,20 @@
+Ph.D. in Structural & Computational Biology & Molecular Biophysics, Baylor College of Medicine, (2001)
+M.S. in Applied Mathematics, New Mexico State University, (1994)
+B.S. in Applied Mathematics, Jilin University, (1990)
+Research
+Contracts, Grants and Sponsored Research
+He, J., Ji, S., Ranjan, D., Egerton, T. and Zubair, M. "ABI Innovation: Advanced Informatics And Effective Algorithms To Enable Cryoem Protein Structure Prediction And Density Analysis" $104,041. Federal. July 1, 2016 - June 30, 2018
+Expertise
+Research Interests
+-Development computational methods and tools ofr biological problems that involve molecular structures. The scholar's current work involves developing the simplified representations of 3-dimensional protein structure components to reduce the computation, developing the corresponding energyfunctions using statistical approaches, and improving the optimization process using the geometrical constraints computationally extracted from the protein density. The goal of my research is to contribute from the computer science point of view to the grand challenge of the protein folding problem.
+Select Publications
+Articles
+Tunazzina, I., Michael, P. and He, J. (2018).  Quantification of Twist from the Central Lines of β-Strands. Journal of Computational Biology 25 (1) , pp. 114-120.
+He, J., Kamal, A. Nasr., Weitao, S. and Yonggang, L. (2018).  Special Issue Preface: The 9th Computational Structural Bioinformatics Workshop. Journal of Computational Biology 25 (1) , pp. 1-2.
+Sazzed, S., Song, J., Kovacs, J. A., Wriggers, W. R., Auer, M. and He, J. (2018).  Tracing actin filament bundles in three-dimensional electron tomography density maps of hair cell stereocilia. Molecules 23 (4) , pp. 1-14.
+Zeil, S., Kovacs, J., Wriggers, W. R. and He, J. (2017).  Comparing an Atomic Model or Structure to a Corresponding Cryo-electron Microscopy Image at the Central Axis of a Helix. Journal of Computational Biology 24 (1) , pp. 52-67.
+Conference Proceeding
+Islam, T., Poteat, M. and He, J. (2017).  Analysis of β-strand twist from the 3-dimensional image of a protein Proceedings of the 8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics Boston, MA: 8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics.
+Presentations
+Islam, T., Poteat, M. and He, J. ( 2017). Analysis of β-strand twist from the 3-dimensional image of a protein Paper ACM-BCB 2017 - Proceedings of the 8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics .
+Organizational Chart

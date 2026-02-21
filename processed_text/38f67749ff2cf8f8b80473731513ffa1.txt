@@ -1,0 +1,10 @@
+Contracts, Grants and Sponsored Research
+Chernikov, A. "NIA Parallel Unstructed Mesh" $10,476. Other. February 26, 2016 - June 15, 2019
+Chernikov, A. "NIA_Parallel anisotropic Mesh Generation" $43,901. Other. September 26, 2017 - September 30, 2018
+Chernikov, A. "Parallel Anisotropic Mesh Generation" $47,075. Other. June 16, 2016 - September 25, 2017
+Select Publications
+Articles
+Xu, J. and Chernikov, A. (2017).  Homeomorphic Tetrahedralization of Multi-material Images with Quality and Fidelity Guarantees. Procedia Engineering 203 , pp. 40 - 52.
+Book Chapters
+Audette, M., Chernikov, A. and Chrisochoides, N. (2012).  A Review of Mesh Generation for Medical Simulators Handbook of Real World Applications in Modeling and Simulation Wiley.
+Organizational Chart

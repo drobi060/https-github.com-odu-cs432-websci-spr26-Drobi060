@@ -1,0 +1,12 @@
+Nearly 25% of CS majors are distance learners.
+Program Objectives
+Graduates of the BSCS program will hold careers in software development, computer science, and related professions and graduate programs. Their grounding in the fundamentals of computer science will provide them a basis from which they can respond to new technical challenges and to changes in the workplace. They will demonstrate the communication and teamwork skills that satisfy the needs of current and future employers. They will exhibit the professionalism and ethical integrity to make meaningful contributions to society.
+Student Outcomes
+Students graduating from this program should be able to:
+Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
+Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program's discipline.
+Communicate effectively in a variety of professional contexts.
+Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+Function effectively as a member or leader of a team engaged in activities appropriate to the program's discipline.
+Apply computer science theory and software development fundamentals to produce computing-based solutions.
+CS Undergraduate Enrollment

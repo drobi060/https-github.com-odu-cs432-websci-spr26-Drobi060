@@ -1,0 +1,65 @@
+Ph.D. in Computer Science, Florida State University, (2003)
+M.S. in Computer Science, Florida State University, (2000)
+B.S. in Computer Science and Engineering, South China University of Technology, (1997)
+Research
+Contracts, Grants and Sponsored Research
+Li, Y. "CAREER: Novel Sampling Approaches for Protein Modeling Applications" $400,000. Federal. August 1, 2009 - July 31, 2014
+Li, Y. and Flurchick, K. "MRI/Acq: Proposal for support for the Consortium for Research Computing for the Sciences, Engineering and Technology -CRCSET" $384,330. Federal. September 1, 2009 - August 31, 2012
+Li, Y. and Bililign, S. "NOAA Interdisciplinary Scientific Environmental Technology (ISET) Cooperative Research and Education Center" $13,500,000. Federal. September 1, 2006 - August 31, 2011
+Li, Y., Ferner, C. and Wilkinson, B. "Collaborative Research: Enhancing Teaching of Grid Computing to Undergraduate Students by using a Workflow Editor" $18,045. Federal. July 1, 2008 - June 30, 2010
+Li, Y. "A Novel Multi-Scoring Functions Sampling Approach to Improve Protein Modeling Resolution and its Applications in Protein Loop Structure Prediction" $90,000. Federal. September 1, 2008 - August 31, 2009
+Li, Y. and Yuan, X. "Integrating Software System Security Evalutaion into Computer Science Curriculum" $58,576. Federal. July 1, 2007 - June 30, 2008
+Li, Y. and Song, Y. "Biologically-inspired Adaptive and Reconfigurable Systems: Modeling, Synthesis, and Simulation" $1,000,000. Federal. October 1, 2004 - September 30, 2007
+Li, Y. "Advanced Global Optimization Approaches for High-Resolution Protein Structure Modeling" $15,000. State. July 1, 2006 - July 1, 2007
+Li, Y. and Song, Y. "Bio-inspired Control System for Unammend Grounded Vehicle" $600,000. State. July 1, 2004 - July 1, 2007
+Li, Y. "A Consortium ot Promote Computational Science and High Performance Computing" $45,143. State. July 1, 2004 - July 1, 2006
+Li, Y. "Advanced Global Optimization Approaches for High-Resolution Protein Structure Modeling" $5,000. May 1, 2005 - May 1, 2006
+Li, Y. "Building an NCAT Campus Grid" $50,000. State. June 1, 2004 - June 1, 2005
+Li, Y. "Protein Structure Prediction Research" $22,336. Federal. May 1, 2004 - May 1, 2005
+Expertise
+Research Interests
+Computational Science, Computational Biology, Monte Carlo Methods, Markov Chian Monte Carlo Grid/Distributed/Parallel Computing, High Performance Computing, Bio-inspired approaches, random number generation
+Select Publications
+Articles
+Lu, C., Yang, M., Luo, F., Wu, F., Li, M., Pan, Y., Li, Y. and Wang, j. (2018).  Prediction of lncRNA–disease associations based on inductive matrix completion . Prediction of lncRNA-disease associations based on inductive matrix completion 34 (19) , pp. 3357-3364.
+Lu, C., Yang, M., Luo, F., Wu, F., Li, M., Pan, Y., Li, Y. and Wang, J. (2018).  A survey of matrix completion methods for recommendation systems. Big Data Analytics and Mining 1 (4) , pp. 308-323.
+Yu, W., Gu, Y. and Li, Y. (2018).   Efficient Randomized Algorithms for the Fixed-Precision Low-Rank Matrix Approximation   Read More: https://epubs.siam.org/doi/10.1137/17M1141977 . Journal on Matrix Analysis & Applications 39 (3) , pp. 1339-1359.
+Abdelrasoul, M., Ponniah, K., Mao, A., Warden, M. S., Elhefnawy, W., Li, Y. and Pascal, S. (2017).  Conformational clusters of phosphorylated tyrosine. Journal of the American Chemical Society , pp. 7.
+Feng, X., Li, K., Yu, W. and Li, Y. (2017).  Fast matrix completion algorithm based on randomized singular value decomposition and its applications. Jisuanji Fuzhu Sheji Yu Tuxingxue Xuebao/Journal of Computer-Aided Design and Computer Graphics 29 (12) , pp. 2343-2348.
+Li, Y., Mukkamala, R. and Mascagni, M. (2017).  Validating the correctness of outsourced computational tasks using pseudorandom number generators. 2017 IEEE 15th International Conference on Dependable, Autonomic and Secure Computing, 15th International Conference on Pervasive Intelligence and Computing, 3rd International Conference on Big Data Intelligence and Computing, and Cyber Science and Technology Congress.
+Hung, J. L.., Wang, M. C.., Wang, S., Abdelrasoul, M., Li, Y. and He, W. (2017).  Identifying At-Risk Students for Early Interventions #x2014;A Time-Series Clustering Approach. IEEE Transactions on Emerging Topics in Computing 5 (1) , pp. 45-55.
+Rata, I., Li, Y. and Jakobsson, E. (2010).  Backbone Statistical Potential from Local Sequence-Structure Interactions in Protein Loops. Journal of Phys. Chem. B 114 (5) , pp. 1859-1869.
+Li, Y., Rata, I., Chiu, S. and Jakobsson, E. (2010).  Improving Predicted Protein Loop Structure Ranking using a Pareto-Optimality Consensus Method. BMC Structural Biology 10 (22).
+Li, Y., Rata, I. and Jakobsson, E. (2010).  Integrating Multiple Scoring Functions to Improve Protein Loop Structure Conformation Space Sampling. Proceedings of IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB2010).
+Waddell, I., Jones, N., Steed, C., Yuan, X. and Li, Y. (2010).  Using the Workflow Technology in Secure Software Engineering Education. 14th Colloquium for Information Systems Security Education (CISSE2010).
+Li, Y., Mascagni, M. and Gorin, A. (2009).  A Decentralized Parallel Implementation for Parallel Tempering Algorithm. Parallel Computing 35 (5) , pp. 269-283.
+Li, Y., Protopopescu, V. A.., Arnold, N., Zhang, X. and Gorin, A. (2009).  Hybrid Parallel Tempering/Simulated Annealing Method. Applied Mathematics and Computation 212 , pp. 216-228.
+Li, Y., Bordner, A. J.., Tian, Y., Tao, X. and Gorin, A. (2008).  Extensive Exploration of the Confromational Space Improves Rosetta Results for Short Protein Domains. 7th Annual International Conference on Computational Systems Bioinformatics (CSB08).
+Li, Y., Strauss, C. E. M.. and Gorin, A. (2008).  Hybrid Parallel Tempering and Simulated Annealing Method - an Efficient Smapling Method in ab initio Protein Folding. International Journal of Computational Science 2 (5) , pp. 646-661.
+Li, Y., Chen, D. and Yuan, X. (2007).  Trustworthy Remote Compiling Service for Grid-based Scientific Applications. Journal of SuperComputing 41 (2) , pp. 119-131.
+Li, Y. (2006).  A Bio-inspired Adaptive Job Scheduling Mechanism on the Grid. International Journal of Computer Science and Network Security 6 (3B) , pp. 1-7.
+Li, Y. and Mascagni, M. (2005).  Grid-based Quasi-Monte Carlo Applications. Monte Carlo Methods and Applications 11 (39-55).
+Conference Proceeding
+Li, M., Meng, X., Zheng, R., Wu, F., Li, Y., Pan, Y. and Wang, J. (2017).  Identification of protein complexes by using a spatial and temporal active protein interaction network IEEE/ACM Transactions on Computational Biology and Bioinformatics.
+Yu, W., Gu, Y., Li, J., Liu, S. and Li, Y. (2017).  Single-pass PCA of large high-dimensional data IJCAI International Joint Conference on Artificial Intelligence.
+Zhu, W. and Li, Y. (2010).  GPU-Accelerated Differential Evolutionary Markov Chair Monte Carlo Method for Multi-Objective Optimization over Continuous Space Washington, DC: 2nd Workshop on Bio-inspired Algorithms for Distributed Systems (BADS2010).
+Li, Y. and Zhu, W. (2010).  GPU-Accelerated Multi-scoring Functions Protein Loop Structure Modeling Atlanta: 9th IEEE International Workshop on High Performance Computational Biology (BiCOMB2010).
+Li, Y. (2009).  A Population-based Approach for Diversified Protein Loop Structure Sampling Baton Rouge: International Conference on Computational Science (ICCS09).
+Li, Y., Wardell, D. and Freeh, V. (2009).  A Resource-Efficient Computing Paradigm for Computational Protein Modeling Applications 8th IEEE International Workshop on High Performance Computational Biology (HiCOMB09).
+Zhang, X., Watts, S., Li, Y. and Tortorelli, D. (2009).  Minkowski Functions Study of Random Number Sequences Baton Rouge: International Conference on Computational Science (ICCS09).
+Li, Y., Esterline, A., Baber, C., Fuller, K., Burns, M., Hanson, T. L.., LeFebvre, T., Schultz, M., Govett, M., Hamer, P. and Mysore, A. (2008).  A Sensor Information Framework for Integrating and Orchestrating Distributed Sensor Services Las Vegas: Proceedings of International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA08).
+Frazier, A., Hudson, S., Li, Y. and Yuan, X. (2008).  Developing Software System Security Modules Dallas: 12th Colloquium for Information Systems Security Education (CISSE08).
+Li, Y., Mascagni, M. and Gorin, A. (2007).  Decentralized Replica Exhcange Parallel Tempering: An Efficient Implementation of Parallel Tempering using MPI and SPRNG Kuala Lumpur: International Conference on Computational Science and Its Applications (ICCSA07).
+Li, Y., Clark, J., Williams, K. and Song, Y. (2007).  Efficient Parallel Implementation of Evolutionary Markov Chain Monte Carlo Las Vegas: International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA07).
+Li, Y., Dong, T., Zhang, X., Song, Y. and Yuan, X. (2006).  Large-Scale Software Unit Testing on the Grid Atlanta: IEEE International Conference on Granular Computing (GrC06).
+Li, Y., Clark, J. and Zhang, X. (2006).  Parallel Implementation of the Acclerated Simulated Tempering Method Atlanta: 3rd International Conference on Neural, Parallel & Scientific Computations (NPSC06).
+Li, Y., Dong, T. and Song, Y. (2006).  Using Grid Computing for Distributed Software Testing Las Vegas: International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA06).
+Yuan, X., Vega, P., Yu, H. and Li, Y. (2005).  A Personal Software Process Tool for Eclipse Environment Las Vegas: International Conference on Software Engineering Research and Practice (SERP05).
+Zhang, X., Li, Y. and Myklebust, A. (2005).  Hybrid Optimization of Geometrically Trimmed NURBS Surfaces Orlando, FL: ASME International Mechanical Engineering Congress 7 Exposition (IMECE05).
+Li, Y., Dong, T., Bikdash, M. and Song, Y. (2005).  Path Planning for Unmanned Vehicles using Ant Colony Optimization on a Dynamic Voronoi Diagram Las Vegas: International Conference on Artificial Intelligence (ICA105).
+Li, Y., Chen, D., Yuan, X., Yu, Y. and Esterline, A. (2005).  Secure Remote Compiling Service on the Grid Las Vegas: International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA05).
+Li, Y. and Mascagni, M. (2005).  Bio-inspired Job Scheduling Algorithm for Monte Carlo Applications on a Computational Grid Paris: 17th IMACS World Congress, Scientific Computation, Applied Mathematics, and Simulation.
+Presentations
+Li, Y. (October 30, 2009). From Seminole to Aggie: The Development of My Academic Career"  Grad Made Good Tallahassee, FL.
+Li, Y. (November 3, 2006). Hybrid Parallel Tempering/Simulated Annealing and its Applications in ab initio Protein Folding   Charlotte, NC.
+Li, Y. (April 21, 2005). Parallel Tempering in Rosetta Practice  Partners in Technologies Oak Ridge, TN.

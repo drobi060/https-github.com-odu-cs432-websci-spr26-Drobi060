@@ -1,0 +1,58 @@
+High  Performance Computing for Scientific Applications and Large Scale Data Analytics
+Research Interests
+Select Publications
+Articles
+Maly, K. J., AbdelSalam, H., Mukkamala, R., Zubair, M. and Kaminsky, D. (2010).  Analysis of energy efficiency in clouds. International Journal on Advances in Networks and Services.
+Maly, K. J., Amrou, A. and Zubair, M.  Performance evaluation of Freelib, a P2P-based digital library architecture. World Digital Libraries: An International Journal.
+Toida, S., Olariu, S. and Zubair, M. (1988).  On the conjecture of Plaisted and Hong. Journal on Algorithms 9 (4) , pp. 597-598.
+Conference Proceeding
+Arumugam, K., Majeti, R. T., Ranjan, D., Zubair, M., Godunov, A. and Terzic, B. (2017).  GPU-accelerated high-fidelity simulation of beam-beam effects in particle colliders Simulation Series.
+Zubair, S. and Zubair, M. (2017).  Learning word embeddings in parallel by alignment Los Alamitos, CA: 2017 International Conference on High-Performance Computing; Simulation (HPCS).
+Maly, K. J., Salam, H. Abdel., Mukkamala, R., Zubair, M. and Kaminsky, D.  Scheduling-Capable Autonomic Manager for Policy Based IT Change Management System Journal of Enterprise Information Systems.
+Maly, K. J., Wu, H., Zubair, M. and Antonov, V. (2009).  Automated support for a collaborative system to organize a collection using facets (pp. 187-203) Proceedings of ELPUB.
+Zubair, M., Wu, H. and Maly, K. J. (2009).  Supporting multi-criteria decision making through collaborative faceted classification Chengdu: Proceedings of the 20th International Conference on Multi Critera Decision Making.
+Maly, K. J., Abdel Salam, H., Mukkamala, R., Zubair, M. and Kaminsky, D. (2009).  Towards Energy Efficient Change Management in a Cloud Computing Environment (pp. 161-167) Entwente: AIMS 2009.
+Zubair, M. and Savage, J. (2008).  A unified model for multicore architectures (pp. 1-12) Cairo: IFMT '08: Proceedings of the 1st International Forum on Next-generation Multicore/manycore Technologies.
+Maly, K. J., Zeil, S. and Zubair, M. (2008).  Automated approach to cross linking references for a large technical collection CD-ROM, ICoASL.
+Maly, K. J., Wu, H. and Zubair, M. (2008).  Maintaining and evolving a taxonomy with social tagging Washington, DC: INFORMS08, CD-ROM.
+Zubair, M., Halappanavar, M., Kumar, A. and Mukkamala, R. (2008).  Efficient parallel implementations of binomial tree option price valuation (pp. 74-81) New Orleans, LA: International Conference on Parallel and Distributed Computing and Communication Systems (PDCCS-2008).
+Maly, K. J., Abdel Salam, H., Mukkamala, R., Zubair, M. and Kaminsky, D. (2008).  Scheduling-capable autonomic manager for policy based IT change management system (pp. 386-392) Munich: EDOC 2008.
+Zubair, M. and Mukkamala, R. (2008).  High performance implementation of binomial option pricing (pp. 852-866) Perugia: International Conference on Computational Science and Its Applications, Springer LNCS.
+Zubair, M. (2008).  Binomial option pricing on multicore system Dresden: International Supercomputing Conference (ISC 2008).
+Wu, H.,  Arnaout, G., Maly, K. J., Mektesheva, M. and Zubair, M. (2008).  Exploring Historical Image Collections with Collaborative Faceted  Oulu: Proceedings of the Digital Humanities 2008.
+Maly, K. J., Zeil, S. and Zubair, M. (2008).  Metadata extraction Sydney: CD-ROM.
+Wu, H., Maly, K. J. and Zubair, M. (2007).  Collaborative Faceted Classification System Montreal: 17th Annual Workshop on Information Technologies and Systems (WITS’07).
+Maly, K. J., Flynn, P., Zhou, L., Zeil, S. and Zubair, M. (2007).  Automated template-based metadata extraction architecture (pp. 327-336) Hanoi: ICADL 2007.
+Zubair, M., Zeil, S., Maly, K. J., Amrou, A., Aazhar, A. and Ratkal, N. (2007).  A scriptable, statistical oracle for a metadata extraction system (pp. 396-404) Portland, Oregon: STEV07.
+Maly, K. J., Zeil, S. and Zubair, M. (2007).  Exploiting dynamic validation for document layout classification during metadata extraction Vila Real: CD-ROM, www/Internet 2007.
+Maly, K. J., Wu, H. and Zubair, M. (2007).  Collaborative classification of growing collections with evolving facets (pp. 167-170) Manchester: HTO7.
+Maly, K. J., Zeil, S., Zubair, M. and Ratkal, N. (2007).  A machine learning approach for automatic text categorization: A case study for DTIC collection (pp. 128-132) Bali: ICSIIT 2007.
+Maly, K. J., Zeil, S., Zubair, M. and Ratkal, N. (2007).  Automatic approach to IT infrastructure management in a virtual computing lab environment (pp. 128-132) A machine learning approach for automatic text categorization - A case study for DTIC collection.
+Zubair, M. and Maly, K. J. (2007).  Automated metadata extraction for person publishing in Kepler (pp. 4500-4505) Vancouver: Edmedia 2007.
+Maly, K. J., Abdel Salam, H., Mukkamala, R. and Zubair, M. (2007).  Infrastructure aware autonomic manager for change management (pp. 66-69) Bologna: Policy 2007.
+Maly, K. J., Abdel Salam, H., Mukkamala, R., Zubair, M. and Kaminsky, D. L. (2007).  Autonomic approach to IT infrastructure management in a virtual computing lab environment Raleigh, N. Carolina: ICVCIR 2007.
+Maly, K. J., Bhoopalam, K., Mukkamala, R. and Zubair, M. (2007).  A scriptable, statistical oracle for metadata extraction system Vienna: ARES 2007.
+Zubair, M., Bhoopalam, K., Mukkamala, R. and Maly, K. J. (2007).  Framework for information sharing across multiple government agencies under dynamic access policies (pp. 934-940) Vienna: ARES 2007.
+Maly, K. J., Pothen, A., Zubair, M., Osgood, C. J. and Semmes, O. J. (2006).  A prototype of the HumanVirus Interactome Resource(HVIR) (pp. 172-180) Vladimir: RCDL.
+Maly, K. J., Wu, H. and Zubair, M. (2006).  Harvesting Social Knowledge from Folksonomies Odense: Proceedings of the ACM 17th Conference on Hypertext and Hypermedia (Hyptertext’06) .
+Maly, K. J., Tang, J., Zeil, S. and Zubair, M. (2006).  Automated building of OAI complaint repository from legacy collection Bansko: ELPUB 2006.
+Maly, K. J., Zubair, M., Siripuram, H. and Zunjarwad, S. (2006).  Synchronization and multiple group server support for Kepler (pp. 111-117) ICEIS 06.
+Maly, K. J., Amrou, A. and Zubair, M. (2006).  Freelib: Peer-to-peer-based digital libraries (pp. 9-14) AINA 2006.
+Maly, K. J., Bhoopalam, K., Mukkamala, R., McCown, F. and Zubair, M. (2005).  A standards-based approach for supporting dynamic access policies for a federated digital library (pp. 242-253) Bangkok: Proceedings of ICADL 05.
+Zubair, M., Bhoopalam, K., Maly, K. J. and Mukkamala, R. (2005).  Access management in federated digital libraries IADIS International Journal of WWW/Internet.
+Zubair, M., Jayakanth, F., Maly, K. J. and Aswath, L. (2005).  Approaches to make CDS/ISIS databases interoperable with OAI-compliant digital libraries Electronic Library & Information Systems.
+Maly, K. J., Bhoopalam, K., Mukkamala, R., Zubair, M., Argawal, D. and Kaminsky, D. (2005).  A comparitive study of access control specification models for self-protecting autonomic systems Sydney: CD-ROM proceedings, session 3-08, DRMTICS 2005.
+Zubair, M., Jayakanth, F., Maly, K. J. and Aswath, L. (2005).  Static and dynamic approaches to make legacy databases OAI-compliant D-Lib Magazine, In Brief.
+Maly, K. J., Bhoopalam, K., McCown, F., Mukkamala, R. and Zubair, M. (2005).  A flexible framework for content-based access management for federated digital libraries (pp. 489-490) Vienna: ECDL.
+Maly, K. J., Khan, H. M. and Zubair, M. (2005).  Similarity and duplicate detection system for an OAI compliant federated digital library (pp. 531-532) Vienna: ECDL.
+Maly, K. J., Zubair, M. and Xuemei, L. (2005).  A high performance implementation of an OAI-based federation service (pp. 617-625) Fukuoka: ICPADS.
+Maly, K. J., Anan and Zubair, M. (2005).  Efficient discovery service for a digital library of 3D models Ottawa: 3DIM 2005.
+Maly, K. J., Zubair, M., Chilukaumari, V. and Kothari, P. (2005).  GRID based federated digital library (pp. 97-105) Computing Frontiers Conference.
+Zubair, M., Liu, X., Maly, K. J. and Nelson, M. L. (2005).  Lessons learned with Arc, an OAI-PMH service provider (pp. 590-603) Library Trends.
+Maly, K. J., Tang, J. and Zubair, M. (2005).  Integrating legacy collections into an interoperable digital library framework Delhi: ICIM.
+Zubair, M., Jayakanth, F. and Maly, K. J. (2005).  Approaches to make CDS/ISIS databases interoperable with other digital libraries Boston, Massachusetts: ALISE.
+Maly, K. J., Bhoopalam, K., Zubair, M. and Mukkamala, R. (2004).  Access management in federated digital libraries Madrid: ICWI.
+Maly, K. J., Amrou, A. and Zubair, M. (2004).  Freelib: A self-sustainable digital library for education community (pp. 15-20) Lugano: Ed-media 04.
+Maly, K. J., Nelson, M. L., Zubair, M., Amrou, A., Kothamasa, S., Wang, L. and Luce, R. (2004).  Light-weight communal digital libraries (pp. 237-238) Tuscon, Arizona: JCDL Proceeding 2004.
+Maly, K. J., Shi, R. and Zubair, M. (2004).  Improving federated service for non-cooperating digital libraries New Dehli, India: ICDL 2004.
+Presentations

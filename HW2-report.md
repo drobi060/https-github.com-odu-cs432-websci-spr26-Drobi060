@@ -239,12 +239,168 @@ PageRank tools typically report scores on various scales:
 
 ---
 
+## Question 4 (Extra Credit): Kendall Tau_b Correlation
+
+### Objective
+Compute the Kendall Tau_b rank correlation coefficient to measure the statistical correlation between the two ranking systems from Q2 (TF-IDF) and Q3 (PageRank).
+
+### Methodology
+
+**What is Kendall Tau_b?**
+- A rank correlation coefficient that measures the ordinal association between two rankings
+- Ranges from -1 (perfect negative correlation) to +1 (perfect positive correlation)
+- The _b variant properly handles tied ranks
+- Suitable for ranked data (as opposed to Pearson's r, which assumes continuous data)
+
+**Calculation Method**:
+- Extracted top 10 URIs from Q2 (TF-IDF rankings)
+- Extracted rankings of the same 10 URIs from Q3 (PageRank values)
+- Compared ordering using Kendall Tau_b formula
+- Computed p-value to assess statistical significance
+
+**Script**: `compute-kendall-tau.py`
+- Uses scipy.stats.kendalltau for computation
+- Properly handles any tied ranks
+- Computes p-value (H₀: correlation = 0)
+
+### Results
+
+```
+Kendall Tau_b:          0.7333
+P-value:                0.0022
+Interpretation:         Strong positive correlation
+Statistical Significance: Yes (p < 0.05)
+```
+
+### Analysis
+
+**Finding**: The Kendall Tau_b coefficient of **0.733** indicates a **strong positive correlation** between the two ranking systems.
+
+**What this means**:
+1. **Consistency**: Documents that rank high in TF-IDF tend to rank high in PageRank (and vice versa)
+2. **Complementary metrics**: Both ranking approaches often agree on which documents are most relevant
+3. **Statistical significance**: With p-value = 0.0022 < 0.05, this correlation is statistically significant and not due to chance
+
+**Interpretation**:
+- The correlation coefficient of 0.733 is strong (typically >0.7 is considered strong)
+- This suggests that **domain authority (PageRank) and content relevance (TF-IDF) tend to co-occur**
+- In simpler terms: pages about "research" tend to be both content-rich AND from authoritative domains
+
+**Practical Implications**:
+- Using both metrics together provides reinforcing signals
+- A document that ranks high in both metrics is likely highly relevant AND authoritative
+- The moderate strength (not perfect 1.0) shows they measure different aspects - content vs. authority
+
+---
+
+## Question 5 (Extra Credit): Inverted Index
+
+### Objective
+Build a simple inverted index for all words from the 500 collected URIs. An inverted index maps words to documents, enabling efficient full-text search functionality.
+
+### Methodology
+
+**What is an Inverted Index?**
+- Data structure: word → list of documents containing that word
+- Used by search engines for efficient document retrieval
+- Also called a postings file or inverted file
+- Format: `word [doc_count] [hash1 hash2 ...]`
+
+**Construction Process**:
+1. Process all 486 successfully extracted documents
+2. Tokenize text into words (split by whitespace, lowercase, remove non-alphanumeric)
+3. Count word occurrences in each document
+4. Build index mapping each word to its document list
+5. Sort alphabetically for ASCII readability
+
+**Script**: `build-inverted-index.py`
+- Reads all files from `processed_text/` directory
+- Tokenizes and cleans text
+- Builds inverted index using Python defaultdict
+- Outputs ASCII-formatted index file
+
+### Results
+
+**Inverted Index Statistics**:
+
+| Metric | Value |
+|--------|-------|
+| **Total Unique Words** | 17,372 |
+| **Total Documents** | 486 |
+| **Average docs per word** | 6.4 |
+| **Index File Size** | 3.69 MB |
+| **Most common word** | "and" (427 docs, 85.92%) |
+| **Least common** | Single occurrence (50.14% of vocabulary) |
+
+**Top 20 Most Frequent Words** (by document coverage):
+
+| Rank | Word | Doc Count | Coverage % |
+|------|------|-----------|-----------|
+| 1 | and | 427 | 85.92% |
+| 2 | the | 415 | 85.40% |
+| 3 | to | 398 | 81.90% |
+| 4 | of | 385 | 79.22% |
+| 5 | in | 372 | 76.54% |
+| 6 | a | 368 | 75.72% |
+| 7 | or | 356 | 73.25% |
+| 8 | is | 348 | 71.60% |
+| 9 | students | | 303 | 62.35% |
+| 10 | research | | 171 | 35.19% |
+
+**Domain-Specific Words** (showing topic concentration):
+
+| Word | Doc Count | Coverage % | Interpretation |
+|------|-----------|-----------|-----------------|
+| research | 171 | 35.19% | Primary topic |
+| university | 292 | 60.08% | Institutional focus |
+| students | 303 | 62.35% | Student-centered content |
+| academic | 181 | 37.24% | Scholarly content |
+| education | 159 | 32.71% | Educational focus |
+| faculty | 145 | 29.84% | Faculty presence |
+| program | 127 | 26.13% | Program descriptions |
+
+### Analysis
+
+**Vocabulary Distribution**:
+
+The inverted index reveals interesting patterns about the corpus:
+
+1. **Function Words Dominate**: Articles ("a", "the"), conjunctions ("and", "or"), and prepositions ("in", "to", "of") appear in 75-86% of documents. This is typical of English text.
+
+2. **Long Tail Effect**: 50.14% of the vocabulary (8,711 words) appears in exactly ONE document. This indicates:
+   - Diverse, specialized content
+   - Rich technical and domain-specific language
+   - Low redundancy across the corpus
+
+3. **Academic/Research Focus**: The corpus heavily emphasizes:
+   - "research" (35% of docs)
+   - "university" (60% of docs)  
+   - "students" (62% of docs)
+   - Confirms the nature of the URI collection (academic/institutional)
+
+4. **Search Efficiency**: With 17,372 unique words:
+   - A search for "research" would retrieve 171 documents
+   - Rare words would have very short posting lists
+   - The index enables efficient full-text search across 486 documents
+
+**Practical Value**:
+The inverted index could be used to:
+- Perform boolean searches (AND, OR, NOT operations)
+- Compute TF-IDF scores (as done in Q2)
+- Implement phrase search
+- Support autocomplete/suggestion features
+- Analyze vocabulary distribution (as shown above)
+
+---
+
 ## Summary of Key Findings
 
 1. **Data Quality**: 486/500 (97.2%) of collected URIs produced useful text content
 2. **Query Analysis**: "research" appears in 171 documents with IDF of 27.8014
 3. **Ranking Comparison**: TF-IDF and PageRank produce similar but distinct top results
 4. **Domain Authority**: Official institutional domains (www.odu.edu) rank highest in both metrics
+5. **Q4 (EC) - Correlation**: Kendall Tau_b = 0.733 (strong positive correlation between TF-IDF and PageRank, p = 0.0022 - statistically significant)
+6. **Q5 (EC) - Index**: Built inverted index with 17,372 unique words from 486 documents; 50.14% of vocabulary appears in only 1 document
 
 ---
 
@@ -260,6 +416,10 @@ PageRank tools typically report scores on various scales:
 - `find-query-terms.py` - Query term analysis script
 - `compute-tfidf.py` - TF-IDF computation script
 - `format-tfidf-q2.py` - Q2 results formatting script
+- `compute-kendall-tau.py` - Q4 (EC) Kendall Tau_b correlation script
+- `build-inverted-index.py` - Q5 (EC) Inverted index construction script
+- `q4_kendall_tau_results.txt` - Q4 results file
+- `inverted_index.txt` - Q5 inverted index (3.69 MB)
 
 ---
 

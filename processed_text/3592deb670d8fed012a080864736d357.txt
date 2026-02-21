@@ -1,0 +1,23 @@
+Starting Courses As An MS Student
+Starting Courses as an MS Student
+Steps from linked application through starting courses as an MS student:
+Note: Where GPD is mentioned the responsibility belongs to the Computer Science Graduate Program Director. Where CDA is mentioned the responsibility belongs to the Computer Science Undergraduate Chief Departmental Advisor.
+Student completes application for acceptance into the linked program
+Approvals:
+CDA
+CDA sends approved form to DegreeWorks (Responsibility of Registrar's Office)
+DegreeWorks applies an attribute to the student's record to show participation in the linked program (Responsibility of Registrar's Office)
+CDA adds a note to the academic record indicating the agreed upon MS courses to be taken as part of the undergraduate record
+Student completes the courses
+A form is required for each term
+Collect signatures of faculty, GPD, and CDA - and sent to Registrar for action
+CDA requests that these graduate courses replace the undergraduate requirements. This includes 517 and the three upper level CS electives at a maximum. Requests are made one-by-one
+DegreeWorks is updated as the hours are registered for and completed (Responsibility of Registrar's Office)
+Student applies to the MS in CS program
+Student is accepted into the MS program by GPD
+Degree works is updated to reflect the two degrees: BSCS and MS in CS (Responsibility of Registrar's Office)
+Student graduates with BSCS
+GPD requests that the same MS courses taken as a linked program student (as an undergraduate) be applied to the graduate transcript
+DegreeWorks processes this request (Responsibility of Registrar's Office)
+And the linked program events and activities are completed!
+Computer Science
